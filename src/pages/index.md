@@ -34,7 +34,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - url: /fea
+      - url: /features
         style: secondary
         label: Allonsy !
     image_alt: Hero section placeholder image

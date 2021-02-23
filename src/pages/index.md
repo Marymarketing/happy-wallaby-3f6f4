@@ -35,7 +35,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - url: /features
-        style: secondary
+        style: primary
         label: Allons-y !
         icon_position: left
         icon: arrow-left

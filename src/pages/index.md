@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: grid_section
-    title: Image Grid
     subtitle: Grid Section Example
     align: center
     grid_items:

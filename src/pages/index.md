@@ -113,7 +113,7 @@ sections:
           ZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
         actions:
           - label: Learn more
-            url: /fea
+            url: /features
             style: link
             has_icon: false
             icon: arrow-left

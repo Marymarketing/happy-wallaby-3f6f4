@@ -186,6 +186,27 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: blog_feed_section
+    title: What's New
+    subtitle: Blog Feed Section Example
+    actions:
+      - label: View All
+        url: /blog
+        style: primary
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_image: true
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
   - type: grid_section
     title: Temoignages
     grid_items:
@@ -234,27 +255,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-

@@ -29,9 +29,8 @@ sections:
     grid_gap_vert: small
   - type: hero_section
     title: Tu veux devenir riche ?
-    content: >
-      Grâce à mes compétences de redactrice web, optimise au maximum ton site
-      internet !
+    content: |
+      Grâce à mes compétences de redactrice web, optimise au maximum ton site !
     actions:
       - url: /features
         style: primary

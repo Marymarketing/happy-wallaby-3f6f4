@@ -109,9 +109,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+      - title: 'Derrière chaque grand site, se cache un(e) rédacteur(trice) web.'
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/hilary-ouse.jpg
         image_alt: Brandon Guidelines

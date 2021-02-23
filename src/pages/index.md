@@ -235,7 +235,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Saisissez votre chance
+    title: Saisissez votre chance !
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

@@ -6,7 +6,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Article de blog
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

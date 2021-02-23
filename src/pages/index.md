@@ -107,16 +107,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: features_section
-    features:
-      - title: 'Derrière chaque grand site, se cache un(e) rédacteur(trice) web.'
-        subtitle: 'Émilie Zola, Content Manager à Dubaï'
-        image: images/hilary-ouse.jpg
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: keznfopazngfjaergoun
     grid_items:
@@ -186,6 +176,16 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: features_section
+    features:
+      - title: 'Derrière chaque grand site, se cache un(e) rédacteur(trice) web.'
+        subtitle: 'Émilie Zola, Content Manager à Dubaï'
+        image: images/hilary-ouse.jpg
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: blog_feed_section
     title: Mes articles
     subtitle: Blog Feed Section Example

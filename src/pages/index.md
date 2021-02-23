@@ -47,12 +47,19 @@ sections:
   - type: features_section
     features:
       - title: Comment ça fonctionne ?
-        content: >
+        content: >+
           Mary Marketing c'est Marylène, redactrice web depuis 25 ans.
 
 
-          Paasionnée par l'écriture et l'art des mots j'ai décider de maitre mes
+          Pasionnée par l'écriture et l'art des mots j'ai décider de mettre mes
           compétences au services des autres.
+
+
+          Après une première prise de contact pour conaitre vos souhaits,
+          j'établie un plan editorial afin de vous permettre, même après mon
+          intervention, de continuer par vous même d'alimenter votre site
+          internet.
+
         actions:
           - label: Learn More
             url: /style-guide

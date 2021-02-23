@@ -4,42 +4,6 @@ sections:
   - type: hero_section
     title: Rédaction web
     background_color: primary
-  - type: features_section
-    features:
-      - title: Stratégie des mots clé
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-3.jpg
-        image_alt: Top view of business meeting
-        media_position: right
-        media_width: fifty
-      - title: La production de contenue
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: left
-        media_width: fifty
-      - title: La richesse sémantique
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
-    title: Mes 4 étapes que je respecte pour faire de la rédaction web
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
@@ -130,6 +94,42 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: features_section
+    features:
+      - title: Stratégie des mots clé
+        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        image: images/about-3.jpg
+        image_alt: Top view of business meeting
+        media_position: right
+        media_width: fifty
+      - title: La production de contenue
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
+          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+          gyroscope; picture-in-picture" allowfullscreen></iframe>
+        media_position: left
+        media_width: fifty
+      - title: La richesse sémantique
+        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        image: images/about-1.jpg
+        image_alt: Happy co-workers
+        media_position: right
+        media_width: fifty
+    title: Mes 4 étapes que je respecte pour faire de la rédaction web
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example

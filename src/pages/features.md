@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Redaction web
 sections:
   - type: hero_section
     title: Explore Features

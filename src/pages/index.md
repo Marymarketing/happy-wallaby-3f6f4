@@ -234,22 +234,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    title: Saisissez votre chance !
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Contactez-moi
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example

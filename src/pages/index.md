@@ -126,7 +126,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/classic/post-1.png
+        image: images/classic/feature-3.png
     feature_padding_vert: large
     align: center
     background_color: secondary

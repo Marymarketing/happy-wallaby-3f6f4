@@ -131,17 +131,11 @@ sections:
         media_width: fifty
       - title: L'optimisation SEO
         subtitle: tyiyukiloimopùmôùîùpù
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top

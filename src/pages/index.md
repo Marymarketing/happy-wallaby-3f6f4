@@ -14,12 +14,12 @@ sections:
         image_align: center
         title: Copywriting
         title_align: center
-      - image: images/wordpress-logo.png
+      - image: images/beige-tulip.png
         image_alt: Gatsby logo
         image_align: center
         title: Article de blog
         title_align: center
-      - image: images/social-media.png
+      - image: images/wonderful-yam.png
         image_alt: DatoCMS logo
         image_align: center
         title: Social média

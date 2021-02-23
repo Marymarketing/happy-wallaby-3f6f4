@@ -107,10 +107,7 @@ sections:
       - title: The big hero
         subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
         content: >
-          efihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIE
-
-
-          ZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
+          efihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
         actions:
           - label: Learn more
             url: /features

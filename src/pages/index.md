@@ -29,7 +29,6 @@ sections:
     grid_gap_vert: small
   - type: hero_section
     title: Tu veux devenir riche ?
-    subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.

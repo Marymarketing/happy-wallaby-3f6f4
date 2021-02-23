@@ -108,7 +108,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: keznfopazngfjaergoun
+    title: Ce que je te propose
     grid_items:
       - title: Section Item 1
         title_align: left

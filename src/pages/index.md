@@ -106,8 +106,11 @@ sections:
         media_width: fifty
       - title: The big hero
         subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
-        content: >
-          efihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
+        content: >+
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+
         actions:
           - label: Learn more
             url: /features

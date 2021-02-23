@@ -124,7 +124,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: right
         type: feature
         image: images/classic/feature-3.png
     feature_padding_vert: large

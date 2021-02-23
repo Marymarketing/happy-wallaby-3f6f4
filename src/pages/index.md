@@ -26,7 +26,7 @@ sections:
         title_align: center
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: small
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle

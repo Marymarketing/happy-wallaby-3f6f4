@@ -104,8 +104,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: The big hero
-        subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
+      - subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
         content: >+
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio

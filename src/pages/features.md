@@ -3,7 +3,6 @@ title: Redaction web
 sections:
   - type: hero_section
     title: Redaction web
-    subtitle: Features Page Demo
     background_color: primary
   - type: features_section
     features:

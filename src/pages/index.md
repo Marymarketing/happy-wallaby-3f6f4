@@ -106,17 +106,9 @@ sections:
         media_width: fifty
       - title: The big hero
         subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          efihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

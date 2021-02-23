@@ -48,8 +48,11 @@ sections:
     features:
       - title: Comment ça fonctionne ?
         content: >
-          Mary Marketing c'est Marylène, redactrice web depuis 25
-          ans............
+          Mary Marketing c'est Marylène, redactrice web depuis 25 ans.
+
+
+          Paasionnée par l'écriture et l'art des mots j'ai décider de maitre mes
+          compétences au services des autres.
         actions:
           - label: Learn More
             url: /style-guide

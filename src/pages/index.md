@@ -126,6 +126,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/about-1.jpg
     feature_padding_vert: large
     align: center
     background_color: secondary

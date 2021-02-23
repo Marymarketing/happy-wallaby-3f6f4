@@ -28,7 +28,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Tu veux devenir riche ?
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

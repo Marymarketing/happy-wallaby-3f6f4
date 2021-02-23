@@ -43,7 +43,7 @@ sections:
     title: Cards Section
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
+      - title: Des fiches produits
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

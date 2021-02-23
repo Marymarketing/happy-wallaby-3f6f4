@@ -2,7 +2,7 @@
 title: Redaction web
 sections:
   - type: hero_section
-    title: Redaction web
+    title: Rédaction web
     background_color: primary
   - type: features_section
     features:

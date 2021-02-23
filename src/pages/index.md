@@ -29,9 +29,9 @@ sections:
     grid_gap_vert: small
   - type: hero_section
     title: Tu veux devenir riche ?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Grâce à mes compétences de redactrice web, optimise au maximum ton site
+      internet !
     actions:
       - url: /features
         style: primary

@@ -39,7 +39,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-    title: Mes 4 étapes que je respecte pour faire de la redaction web
+    title: Mes 4 étapes que je respecte pour faire de la rédaction web
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example

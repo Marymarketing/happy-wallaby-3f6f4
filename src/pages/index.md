@@ -9,7 +9,7 @@ sections:
         image_align: center
         title: Rédaction web
         title_align: center
-      - image: images/logo-2.svg
+      - image: images/copyright.png
         image_alt: Netlify logo
         image_align: center
         title: Copywriting

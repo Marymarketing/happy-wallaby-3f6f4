@@ -142,6 +142,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/about-5.jpg
     title: Mes 4 étapes que je respecte pour faire de la rédaction web
   - type: grid_section
     title: Reviews Section

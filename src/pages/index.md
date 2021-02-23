@@ -104,7 +104,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: The big hero
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum

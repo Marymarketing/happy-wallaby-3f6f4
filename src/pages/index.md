@@ -127,7 +127,7 @@ sections:
         align: left
         type: feature
         image: images/classic/feature-3.png
-    feature_padding_vert: small
+    feature_padding_vert: large
     align: center
     background_color: secondary
   - type: features_section

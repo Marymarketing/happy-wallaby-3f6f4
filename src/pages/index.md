@@ -34,7 +34,6 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - style: primary
       - label: Learn More
         url: /features
         style: secondary

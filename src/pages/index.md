@@ -106,9 +106,11 @@ sections:
         media_width: fifty
       - title: The big hero
         subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
-        content: >+
-          efihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
+        content: >
+          efihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIE
 
+
+          ZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum

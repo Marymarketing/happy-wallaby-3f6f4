@@ -19,7 +19,7 @@ sections:
         image_align: center
         title: Article de blog
         title_align: center
-      - image: images/logo-5.svg
+      - image: images/social-media.png
         image_alt: DatoCMS logo
         image_align: center
         title: Social média

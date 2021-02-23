@@ -123,7 +123,7 @@ sections:
             type: action
         image_alt: lorem-ipsum
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
         align: left
         type: feature
         image: images/classic/feature-3.png

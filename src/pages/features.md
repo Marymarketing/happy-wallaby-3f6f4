@@ -139,7 +139,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fourty
+        media_width: fifty
         align: left
         type: feature
         image: images/about-5.jpg

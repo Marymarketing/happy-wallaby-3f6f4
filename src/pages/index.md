@@ -37,7 +37,7 @@ sections:
       - url: /features
         style: secondary
         label: Allons-y !
-        icon_position: center
+        icon_position: right
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

@@ -34,7 +34,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - url: /fr
+      - url: /features
         style: secondary
         label: Allons-y !
     image_alt: Hero section placeholder image

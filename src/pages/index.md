@@ -36,7 +36,7 @@ sections:
     actions:
       - url: /redactionweb
         style: secondary
-        label: Allonsy !
+        label: Allons-y !
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

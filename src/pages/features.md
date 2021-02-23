@@ -138,7 +138,7 @@ sections:
 
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fourty
         align: left
         type: feature

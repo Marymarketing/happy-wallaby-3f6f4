@@ -24,6 +24,7 @@ sections:
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
+        title: Social media
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium

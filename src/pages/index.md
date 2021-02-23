@@ -125,7 +125,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/classic/feature-3.png
+        image: images/classic/hero.png
         title: The Big Title For the Feature
     feature_padding_vert: large
     align: left

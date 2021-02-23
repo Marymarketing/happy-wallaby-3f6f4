@@ -105,7 +105,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: The big hero
-        subtitle: lorem-ipsum
+        subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
         content: >-
           ## Lorem ipsum
 

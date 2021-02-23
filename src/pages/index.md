@@ -45,7 +45,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Rédaction web
+    title: Qui suis-je
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '

@@ -19,6 +19,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
+        title: Article de blog
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center

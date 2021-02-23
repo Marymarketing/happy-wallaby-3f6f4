@@ -46,7 +46,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: The Big Title For the Feature
+      - title: Comment ça fonctionne ?
         content: >
           Mary Marketing c'est Marylène, redactrice web depuis 25
           ans............

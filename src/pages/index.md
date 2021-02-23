@@ -110,7 +110,7 @@ sections:
   - type: grid_section
     title: Ce que je te propose
     grid_items:
-      - title: Section Item 1
+      - title: Redaction web
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

@@ -126,6 +126,7 @@ sections:
         align: left
         type: feature
         image: images/classic/feature-3.png
+        title: The Big Title For the Feature
     feature_padding_vert: large
     align: left
     background_color: secondary

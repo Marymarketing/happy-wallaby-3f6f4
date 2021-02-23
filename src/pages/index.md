@@ -112,7 +112,7 @@ sections:
 
           ZFCIefihaoiuperbgbvierbvnioarendvajubniojfoZEJFOPNAIFIEZJFIREHGUTRHVHYBvBROFIEZFCI
         actions:
-          - label: Lear
+          - label: Learn more
             url: lorem-ipsum
             style: link
             has_icon: false

@@ -14,7 +14,7 @@ sections:
         image_align: center
         title: Copywriting
         title_align: center
-      - image: images/logo-3.svg
+      - image: images/wordpress-logo.png
         image_alt: Gatsby logo
         image_align: center
         title: Article de blog

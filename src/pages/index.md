@@ -110,7 +110,7 @@ sections:
   - type: features_section
     features:
       - title: 'Derrière chaque grand site, se cache un(e) rédacteur(trice) web.'
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Émile Zola
         image: images/hilary-ouse.jpg
         image_alt: Brandon Guidelines
         media_position: right

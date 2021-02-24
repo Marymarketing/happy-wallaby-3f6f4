@@ -54,7 +54,7 @@ sections:
         image_alt: Item 1 icon
         image_position: left
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
       - title: Des articles de blog
         title_align: left
         content: >-

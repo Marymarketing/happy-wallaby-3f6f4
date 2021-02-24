@@ -7,8 +7,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >+
           C’est assez simple : tous les contenus d’un site internet. Une fiche
           produit, un article de blog, une page institutionnelle, une catégorie
@@ -21,9 +20,6 @@ sections:
 
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left

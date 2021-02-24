@@ -18,6 +18,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        title: En quoi consiste le job d'un rédacteur web ?
     feature_padding_vert: medium
     align: center
     padding_top: medium

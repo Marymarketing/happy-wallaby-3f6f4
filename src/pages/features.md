@@ -85,10 +85,7 @@ sections:
         image_has_padding: true
       - title: Des pages web
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Les pages web doivent répondre à une problématique de **référencement naturel**. Il s'agit de **soumettre du contenu de qualité** (**pyramide inversée : type de rédaction qui consiste à aller droit au but**), avec un champ lexiqual et sémantique ultra riche et un nombre de mots conséquent. Ainsi que toute l’**optimisation SEO** (Balise META : balise TITLE et méta description).\_\n"
         content_align: left
         actions:
           - label: Learn More

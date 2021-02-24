@@ -6,9 +6,6 @@ sections:
     background_color: primary
   - title_align: left
     content: >
-      ## Comment procède un redacteur web ?
-
-
       C’est assez simple : tous les contenus d’un site internet. Une fiche
       produit, un article de blog, une page institutionnelle, une catégorie de
       produits, une page de vente, un manifeste et bien d’autres encore. Je suis

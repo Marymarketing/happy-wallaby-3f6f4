@@ -1,6 +1,9 @@
 ---
 title: Redaction web
 sections:
+  - type: hero_section
+    title: Rédaction web
+    background_color: primary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
@@ -15,9 +18,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: hero_section
-    title: Rédaction web
-    background_color: primary
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example

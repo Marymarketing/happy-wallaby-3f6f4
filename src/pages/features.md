@@ -33,10 +33,17 @@ sections:
     grid_items:
       - title: Des fiches produits
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Une fiche produit, c'est toute la descriptions et les caractéristique
+          du produit que vous vendez. Ayant de l'experience en terme de
+          **marketing de contenu**, je saurais captiver les utilisateurs via une
+          écriture convincante.
+
+
+          Plusieurs **techniques de rédaction SEO **sont utilisé afin de
+          **convertir vos prospect** et de les conduire jusqu'à l’acte d’achat.
+          Une fois séduite, votre cible ne pourra qu’amorcer l'achat du produit
+          convoité.
         content_align: left
         actions:
           - label: Learn More

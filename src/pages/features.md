@@ -6,7 +6,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Toute création de site internet nécessite de la rédaction web
-    subtitle: Grid Section Example
+    subtitle: Vous ne le saviez pas ?
     grid_items:
       - title: Des fiches produits
         title_align: left

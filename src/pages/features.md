@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Rédaction web
     background_color: primary
-  - title: En quoi consiste le job d'un rédacteur web ?
-    features:
+  - features:
       - content: >
           C’est assez simple : il se charge de tout l'étendue d’un site
           internet. Une fiche produit, un article de blog, une page de vente, un

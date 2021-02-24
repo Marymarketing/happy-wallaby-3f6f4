@@ -33,7 +33,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    title: 'Comment procède un redacteur web ? '
+    title: Comment procède un redacteur web ?
   - type: grid_section
     grid_items:
       - title: Des fiches produits

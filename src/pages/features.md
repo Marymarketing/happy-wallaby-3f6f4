@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Rédaction web
     background_color: primary
-  - subtitle: lorem-ipsum
-    title_align: left
+  - title_align: left
     content: >-
       ## Lorem ipsum
 

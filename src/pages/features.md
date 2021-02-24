@@ -9,17 +9,16 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          C’est assez simple : tous les contenus d’un site internet. Une fiche
+          produit, un article de blog, une page institutionnelle, une catégorie
+          de produits, une page de vente, un manifeste et bien d’autres encore.
+          Je suis une de la rédaction de contenu SEO, tous domaines confondus.
+          Ici, pas de duplicate content (plagiat) : que du contenu unique. Je
+          pilote votre stratégie éditoriale de A à Z, puis je confie la partie
+          rédactionnelle à Anaïs, Lauriane ou Agathe, les trois rédactrices web
+          qui m’accompagnent !
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

@@ -168,7 +168,7 @@ sections:
         image: images/about-5.jpg
     title: Mes 4 étapes pour faire de la rédaction web
   - type: cta_section
-    title: Demandez un devis !
+    title: Demandez un devis
     actions:
       - label: Par ici !
         url: /pricing

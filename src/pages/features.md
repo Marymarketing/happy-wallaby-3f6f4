@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Rédaction web
     background_color: primary
-  - title: lorem-ipsum
+  - title: Comment procède un redacteur web ?
     subtitle: lorem-ipsum
     features:
       - content: >+

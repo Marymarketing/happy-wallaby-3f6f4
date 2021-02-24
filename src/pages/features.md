@@ -170,7 +170,7 @@ sections:
   - type: cta_section
     title: Demandez un devis !
     actions:
-      - label: 'Par ici '
+      - label: Par ici !
         url: /pricing
         style: primary
     actions_position: right

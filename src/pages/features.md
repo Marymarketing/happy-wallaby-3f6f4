@@ -5,17 +5,17 @@ sections:
     title: Rédaction web
     background_color: primary
   - title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Comment procède un redacteur web ?
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      C’est assez simple : tous les contenus d’un site internet. Une fiche
+      produit, un article de blog, une page institutionnelle, une catégorie de
+      produits, une page de vente, un manifeste et bien d’autres encore. Je suis
+      une de la rédaction de contenu SEO, tous domaines confondus. Ici, pas de
+      duplicate content (plagiat) : que du contenu unique. Je pilote votre
+      stratégie éditoriale de A à Z, puis je confie la partie rédactionnelle à
+      Anaïs, Lauriane ou Agathe, les trois rédactrices web qui m’accompagnent !
     content_align: left
     form_position: bottom
     form_width: fifty

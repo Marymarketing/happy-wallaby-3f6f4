@@ -7,8 +7,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - subtitle: lorem-ipsum
-        content: >+
+      - content: >+
           C’est assez simple : tous les contenus d’un site internet. Une fiche
           produit, un article de blog, une page institutionnelle, une catégorie
           de produits, une page de vente, un manifeste et bien d’autres encore.

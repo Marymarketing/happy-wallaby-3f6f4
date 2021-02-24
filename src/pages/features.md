@@ -5,7 +5,6 @@ sections:
     title: Rédaction web
     background_color: primary
   - title: Comment procède un redacteur web ?
-    subtitle: lorem-ipsum
     features:
       - content: >+
           C’est assez simple : tous les contenus d’un site internet. Une fiche

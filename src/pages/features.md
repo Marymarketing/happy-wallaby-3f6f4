@@ -33,32 +33,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title_align: left
-    content: >
-      C’est assez simple : tous les contenus d’un site internet. Une fiche
-      produit, un article de blog, une page institutionnelle, une catégorie de
-      produits, une page de vente, un manifeste et bien d’autres encore. Je suis
-      une de la rédaction de contenu SEO, tous domaines confondus. Ici, pas de
-      duplicate content (plagiat) : que du contenu unique. Je pilote votre
-      stratégie éditoriale de A à Z, puis je confie la partie rédactionnelle à
-      Anaïs, Lauriane ou Agathe, les trois rédactrices web qui m’accompagnent !
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_fields: []
-    align_vert: top
-    padding_top: medium
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-    title: Comment procède un redacteur web ?
   - type: grid_section
     grid_items:
       - title: Des fiches produits

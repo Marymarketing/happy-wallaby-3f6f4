@@ -169,7 +169,6 @@ sections:
     title: Mes 4 étapes pour faire de la rédaction web
   - type: cta_section
     title: Demandez un devis !
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
         url: /pricing

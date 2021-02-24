@@ -110,7 +110,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/logo-4.svg
+        image: images/4.png
         image_alt: Item 4 icon
         image_position: top
         image_align: left

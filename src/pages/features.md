@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/diligent-olive.png
+        image: images/maroon-crane.png
         image_alt: Item 1 icon
         image_position: top
         image_align: left

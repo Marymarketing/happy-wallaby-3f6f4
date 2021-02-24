@@ -52,7 +52,7 @@ sections:
         actions_align: left
         image: images/maroon-crane.png
         image_alt: Item 1 icon
-        image_position: left
+        image_position: top
         image_align: left
         image_has_padding: true
       - title: Des articles de blog

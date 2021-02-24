@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Rédaction web
     background_color: primary
-  - title: Comment procède un redacteur web ?
+  - title: En quoi consiste le job d'un rédacteur web ?
     features:
       - content: >
           C’est assez simple : tout l'étendue d’un site internet. Une fiche

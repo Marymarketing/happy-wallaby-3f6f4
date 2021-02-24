@@ -5,7 +5,7 @@ sections:
     title: Rédaction web
     background_color: primary
   - type: grid_section
-    title: Cards Section
+    title: Toute création de site internet nécessite de la rédaction web
     subtitle: Grid Section Example
     grid_items:
       - title: Des fiches produits

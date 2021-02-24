@@ -40,7 +40,7 @@ sections:
           écriture convincante.
 
 
-          Plusieurs **techniques de rédaction SEO **sont utilisé afin de
+          Plusieurs **techniques de rédaction SEO** sont utilisé afin de
           **convertir vos prospect** et de les conduire jusqu'à l’acte d’achat.
           Une fois séduite, votre cible ne pourra qu’amorcer l'achat du produit
           convoité.

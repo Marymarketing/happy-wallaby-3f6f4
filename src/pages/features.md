@@ -5,7 +5,6 @@ sections:
     title: Rédaction web
     background_color: primary
   - type: grid_section
-    title: Quel est le procédé d'un rédacteur web ?
     grid_items:
       - title: Des fiches produits
         title_align: left

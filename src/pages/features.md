@@ -60,10 +60,15 @@ sections:
         image_has_padding: true
       - title: Des articles de blog
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Trouver un bon sujet pour **un article de blog**,** **c’est
+          primordiale. Grâce à des **outils sémantiques**, il m'est possible de
+          vous concocter un ou plusieurs articles avec des sujets pertinant.
+
+
+          Effectivement, une **bonne position **est assuré par Google pour les
+          sites qui répondent avec concordance à un sujet ou à un thème
+          recherché par les visiteurs.
         content_align: left
         actions:
           - label: Learn More

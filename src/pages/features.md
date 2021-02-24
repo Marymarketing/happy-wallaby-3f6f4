@@ -6,16 +6,12 @@ sections:
     background_color: primary
   - title: Comment procède un redacteur web ?
     features:
-      - content: >+
-          C’est assez simple : tous les contenus d’un site internet. Une fiche
-          produit, un article de blog, une page institutionnelle, une catégorie
-          de produits, une page de vente, un manifeste et bien d’autres encore.
-          Je suis une de la rédaction de contenu SEO, tous domaines confondus.
-          Ici, pas de duplicate content (plagiat) : que du contenu unique. Je
-          pilote votre stratégie éditoriale de A à Z, puis je confie la partie
-          rédactionnelle à Anaïs, Lauriane ou Agathe, les trois rédactrices web
-          qui m’accompagnent !
-
+      - content: >
+          C’est assez simple : tout l'étendue d’un site internet. Une fiche
+          produit, un article de blog, une page de vente, un manifeste et bien
+          d’autres. Je suis une passionnée de la rédaction de contenu SEO, tous
+          domaines confondus. Ici, vous vous assurez un contenue unique et de
+          qualité.
         actions: []
         image_alt: lorem-ipsum
         media_position: top

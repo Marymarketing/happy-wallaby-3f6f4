@@ -70,7 +70,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/2.png
         image_alt: Item 2 icon
         image_position: top
         image_align: left

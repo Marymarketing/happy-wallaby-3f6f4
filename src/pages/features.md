@@ -18,7 +18,6 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: lorem-ipsum
     form_fields: []
     align_vert: top
     padding_top: medium

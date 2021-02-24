@@ -102,10 +102,11 @@ sections:
         image_has_padding: true
       - title: Des livres blanc
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Le livre blanc est un outil de la stratégie d’**inbound marketing**,
+          il doit répondre à une problématique. C’est un guide qui va appuyer
+          votre expertise. Montrer à vos prospects vos compétances dans un
+          domaine pourra être critère de décision d’achat.
         content_align: left
         actions:
           - label: Learn More

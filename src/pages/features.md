@@ -5,7 +5,7 @@ sections:
     title: Rédaction web
     background_color: primary
   - type: grid_section
-    title: Toute création de site internet nécessite de la rédaction web
+    title: Comment
     subtitle: Vous ne le saviez pas ?
     grid_items:
       - title: Des fiches produits

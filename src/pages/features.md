@@ -164,10 +164,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: La richesse sémantique
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Le sens d’une page est **déterminé en fonction des mots contenus **sur celle-ci.\nSi sur votre page, un article parle de rédaction web, il faut absolument qu'il contienne des mots clés tels que «\_webmarketing\_» ou «\_community manager\_».\nEn résumé : il faut **enrichir son contenu** avec les** mots du champ lexical** et du **champ sémentique** pour être sur la première page.\n\n"
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right

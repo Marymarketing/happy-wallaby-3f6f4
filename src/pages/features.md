@@ -157,7 +157,7 @@ sections:
 
           Le **nombre de mots** est fondamental pour votre référencement naturel
           éfficase.
-        media_position: top
+        media_position: right
         media_width: fifty
         image: images/2.2.png
       - title: La richesse sémantique

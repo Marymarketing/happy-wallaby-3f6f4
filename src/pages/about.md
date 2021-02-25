@@ -23,7 +23,7 @@ sections:
       - title: Facebook
         content_align: left
         actions:
-          - label: Get Directions
+          - label: Facebook
             url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
             style: link
             has_icon: true

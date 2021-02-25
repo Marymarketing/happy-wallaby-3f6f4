@@ -144,10 +144,16 @@ sections:
         media_width: fifty
       - title: La production de contenue
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Ensuite, place à la **rédaction du contenu web**. Je rédige mon texte
+          en utilsant des mots clés secondaires qui harmonise les mot clé
+          principal. J’arborise mon contenue avec des balises HTML **avec des
+          paragraphes** avec **sous-titres** h2, h3 et h4, ainsi que le **titre
+          éditorial h1**.
+
+
+          Le **nombre de mots** est fondamental pour votre référencement naturel
+          efficase.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"

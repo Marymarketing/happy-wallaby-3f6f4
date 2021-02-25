@@ -176,7 +176,7 @@ sections:
           d’associer un ou plusieurs mots clés à vos images).
         actions: []
         image_alt: lorem-ipsum
-        media_position: left
+        media_position: top
         media_width: fifty
         align: left
         type: feature

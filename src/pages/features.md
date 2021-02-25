@@ -135,9 +135,12 @@ sections:
       - title: Stratégie des mots clé
         content: >
           Il est important de connaitre les criteres pour trouver un **mot clé
-          pertinant**. En effet, il faut être attentif au **nombre de recherche
-          mensuel** du mot, au **type de trafic** qu'il génère et au **nombre de
-          concurrent** qui le covoitise.
+          pertinant**.
+
+
+          En effet, il faut être attentif au **nombre de recherche mensuel** du
+          mot, au **type de trafic** qu'il génère et au **nombre de concurrent**
+          qui le convoitise.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right

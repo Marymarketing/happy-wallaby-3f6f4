@@ -137,7 +137,7 @@ sections:
           En effet, il faut être attentif au **nombre de recherche mensuel** du
           mot, au **type de trafic** qu'il génère et au **nombre de concurrent**
           qui le convoitise.
-        image: images/1.2.png
+        image: images/1(1).png
         image_alt: Top view of business meeting
         media_position: top
         media_width: thirty-three

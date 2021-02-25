@@ -145,6 +145,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: left
         media_width: thirty-three
+        align: center
       - title: La production de contenue
         content: >
           Ensuite, place à la **rédaction du contenu web**. Je rédige mon texte

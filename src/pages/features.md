@@ -143,7 +143,7 @@ sections:
           qui le convoitise.
         image: images/groovy-ant.png
         image_alt: Top view of business meeting
-        media_position: top
+        media_position: left
         media_width: fifty
       - title: La production de contenue
         content: >

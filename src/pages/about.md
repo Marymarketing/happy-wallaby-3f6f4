@@ -35,6 +35,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
+        image: images/1.png
       - title: Instagram
         content: >-
           1234 Some St.<br/> Some City, ST 12345<br/>

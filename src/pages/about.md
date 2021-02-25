@@ -16,7 +16,7 @@ sections:
           fringilla, fringilla.
         image: images/ursula-gurnmeister.jpg
         image_alt: People in conversation in the office lounge area
-        media_position: right
+        media_position: left
         media_width: fifty
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '

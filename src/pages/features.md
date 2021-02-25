@@ -143,7 +143,7 @@ sections:
           qui le convoitise.
         image: images/1.2.png
         image_alt: Top view of business meeting
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
       - title: La production de contenue

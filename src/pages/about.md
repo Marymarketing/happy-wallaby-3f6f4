@@ -31,8 +31,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - title: Instagram
-        content_align: left
+      - content_align: left
         actions:
           - label: Instagram
             url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'

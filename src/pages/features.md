@@ -144,7 +144,7 @@ sections:
         image: images/1.2.png
         image_alt: Top view of business meeting
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
         align: left
       - title: La production de contenue
         content: >

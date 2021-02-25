@@ -33,7 +33,7 @@ sections:
         actions:
           - url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: instagram
             icon_position: center
         actions_align: left

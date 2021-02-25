@@ -78,7 +78,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/2.png
+        image: images/beige-tulip.png
         image_alt: Item 2 icon
         image_position: top
         image_align: left

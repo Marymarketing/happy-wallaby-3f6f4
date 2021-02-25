@@ -22,8 +22,7 @@ sections:
     grid_items:
       - content_align: left
         actions:
-          - label: Facebook
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+          - url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
             style: secondary
             has_icon: true
             icon: facebook

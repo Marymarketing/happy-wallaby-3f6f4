@@ -133,7 +133,6 @@ sections:
   - type: features_section
     features:
       - title: Stratégie des mots clé
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
         content: >
           Il est important de connaitre les criteres pour trouver un mot clé
           pertinant. En effet, il faut etre attentif au nombre de recherche

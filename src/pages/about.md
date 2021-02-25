@@ -36,6 +36,7 @@ sections:
             has_icon: true
             icon: instagram
             icon_position: center
+            label: 'Instagram '
         actions_align: left
         actions_width: auto
     grid_cols: two

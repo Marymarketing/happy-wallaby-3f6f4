@@ -32,7 +32,7 @@ sections:
       - content_align: left
         actions:
           - url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: primary
+            style: secondary
             has_icon: true
             icon: instagram
             icon_position: center

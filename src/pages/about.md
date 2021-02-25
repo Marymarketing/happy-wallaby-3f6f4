@@ -35,7 +35,7 @@ sections:
             style: secondary
             has_icon: true
             icon: instagram
-            icon_position: right
+            icon_position: center
         actions_align: left
         actions_width: auto
     grid_cols: two

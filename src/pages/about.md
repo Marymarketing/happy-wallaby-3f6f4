@@ -60,7 +60,7 @@ sections:
     background_color: none
     align: center
   - type: cta_section
-    title: This is a Call to Action
+    title: Par ici les devis
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans

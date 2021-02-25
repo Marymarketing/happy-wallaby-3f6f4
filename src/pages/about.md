@@ -64,6 +64,7 @@ sections:
     actions:
       - url: /pricing
         style: primary
+        label: clique
     align: center
     padding_top: medium
     padding_bottom: medium

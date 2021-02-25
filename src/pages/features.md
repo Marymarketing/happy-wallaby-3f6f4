@@ -149,11 +149,8 @@ sections:
           en utilsant des mots clés secondaires qui harmonise les mot clé
           principal. J’arborise mon contenue avec des balises HTML **avec des
           paragraphes** avec **sous-titres** h2, h3 et h4, ainsi que le **titre
-          éditorial h1**.
-
-
-          Le **nombre de mots** est fondamental pour votre référencement naturel
-          efficase.
+          éditorial h1**. Le **nombre de mots** est fondamental pour votre
+          référencement naturel efficase.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"

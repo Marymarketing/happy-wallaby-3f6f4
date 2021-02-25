@@ -55,7 +55,7 @@ sections:
         actions_align: left
         image: images/fabulous-celery.png
         image_alt: Item 1 icon
-        image_position: right
+        image_position: top
         image_align: left
         image_has_padding: true
       - title: Des articles de blog

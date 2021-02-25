@@ -146,7 +146,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: La production de contenue
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Ensuite, place à la **rédaction du contenu web**. Je rédige mon texte
           en utilsant des mots clés secondaires qui harmonise les mot clé

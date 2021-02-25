@@ -26,7 +26,7 @@ sections:
             style: secondary
             has_icon: true
             icon: facebook
-            icon_position: right
+            icon_position: center
         actions_align: left
         actions_width: auto
       - content_align: left

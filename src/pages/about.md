@@ -20,8 +20,7 @@ sections:
   - type: grid_section
     title: Mes réseaux
     grid_items:
-      - title: Facebook
-        content_align: left
+      - content_align: left
         actions:
           - label: Facebook
             url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'

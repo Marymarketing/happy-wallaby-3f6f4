@@ -62,8 +62,7 @@ sections:
   - type: cta_section
     title: Par ici les devis
     actions:
-      - label: Compare Plans
-        url: /pricing
+      - url: /pricing
         style: primary
     align: center
     padding_top: medium

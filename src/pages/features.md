@@ -53,7 +53,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/1.png
+        image: images/fabulous-celery.png
         image_alt: Item 1 icon
         image_position: top
         image_align: left

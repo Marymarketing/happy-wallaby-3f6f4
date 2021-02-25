@@ -170,15 +170,14 @@ sections:
         media_position: right
         media_width: fifty
       - title: L'optimisation SEO
-        content: >+
-          **L’optimisation SEO du contenu** est la derniere étape pour améliorer
+        content: >
+          **L’optimisation SEO du contenu** est la dernière étape pour améliorer
           son classement dans les résultats de moteurs de recherche.
 
 
-          Cette étape ce fait avec l'amélioration des **balise TITLE **et **meta
-          description **ainsi que les **balises ALT** (balise qui permet
+          Cette étape ce fait avec l'amélioration des **balise TITLE** et **meta
+          description** ainsi que les **balises ALT** (balise qui permet
           d’associer un ou plusieurs mots clés à vos images).
-
         actions: []
         image_alt: lorem-ipsum
         media_position: left

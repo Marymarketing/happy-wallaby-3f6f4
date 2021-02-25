@@ -171,9 +171,13 @@ sections:
         media_width: fifty
       - title: L'optimisation SEO
         content: >+
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          **L’optimisation SEO du contenu** est la derniere étape pour améliorer
+          son classement dans les résultats de moteurs de recherche.
+
+
+          Cette étape ce fait avec l'amélioration des **balise TITLE **et **meta
+          description **ainsi que les **balises ALT** (balise qui permet
+          d’associer un ou plusieurs mots clés à vos images).
 
         actions: []
         image_alt: lorem-ipsum

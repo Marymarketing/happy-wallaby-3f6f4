@@ -182,7 +182,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/4(1).png
+        image: images/4.2.png
     title: Mes 4 étapes pour faire de la rédaction web
   - type: cta_section
     title: Demandez un devis

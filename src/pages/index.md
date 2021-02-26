@@ -11,6 +11,7 @@ sections:
         title_align: center
         image_width: twenty-five
         image_position: top
+        image_has_padding: false
       - image: images/majestic-spruce.png
         image_alt: Netlify logo
         image_align: center

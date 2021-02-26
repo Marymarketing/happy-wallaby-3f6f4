@@ -9,7 +9,7 @@ sections:
         image_align: center
         title: Rédaction web
         title_align: center
-        image_width: twenty-five
+        image_width: fourty
         image_position: top
       - image: images/majestic-spruce.png
         image_alt: Netlify logo

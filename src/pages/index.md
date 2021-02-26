@@ -6,7 +6,7 @@ sections:
     grid_items:
       - image: images/fabulous-turmeric.png
         image_alt: Contentful logo
-        image_align: right
+        image_align: center
         title: Rédaction web
         title_align: center
         image_width: twenty-five

@@ -17,7 +17,7 @@ sections:
         image_align: center
         title: Copywriting
         title_align: center
-        actions_width: full-width
+        actions_width: auto
       - image: images/beige-tulip.png
         image_alt: Gatsby logo
         image_align: center

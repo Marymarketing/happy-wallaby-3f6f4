@@ -216,7 +216,9 @@ sections:
     background_color: secondary
 seo:
   title: Mary Marketing
-  description: The preview of the DIY theme
+  description: >-
+    De la rédaction d'article au marketing en générale, faite appel à une
+    rédactrice web pour optimiser votre contenue.
   extra:
     - name: 'og:type'
       value: website

@@ -215,7 +215,7 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: Mary Marketing
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'

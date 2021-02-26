@@ -8,7 +8,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         title: Rédaction web
-        title_align: center
+        title_align: right
         image_width: twenty-five
       - image: images/majestic-spruce.png
         image_alt: Netlify logo

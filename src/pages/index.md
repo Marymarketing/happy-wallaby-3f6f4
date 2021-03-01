@@ -33,7 +33,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
   - type: hero_section
-    title: Tu veux devenir riche ?
+    title: Envie d'être premier sur Google ?
     content: |
       Grâce à mes compétences de redactrice web, optimise au maximum ton site !
     actions:

@@ -26,16 +26,7 @@ sections:
         media_width: fourty
   - type: grid_section
     title: Mes réseaux
-    grid_items:
-      - content_align: left
-        actions:
-          - url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: secondary
-            has_icon: true
-            icon: facebook
-            icon_position: center
-        actions_align: left
-        actions_width: auto
+    grid_items: []
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: small

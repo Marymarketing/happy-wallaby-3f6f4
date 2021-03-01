@@ -59,7 +59,7 @@ sections:
     actions:
       - url: /pricing
         style: primary
-        label: Clique
+        label: ICI
     align: center
     padding_top: medium
     padding_bottom: medium

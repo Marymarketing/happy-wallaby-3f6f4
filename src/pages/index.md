@@ -48,6 +48,7 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: primary
+    subtitle: 'Envie d''être '
   - type: features_section
     features:
       - title: Comment ça fonctionne ?

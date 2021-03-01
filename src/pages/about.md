@@ -55,7 +55,7 @@ sections:
     background_color: none
     align: center
   - type: cta_section
-    title: Par ici les devis
+    title: Contactez-moi !
     actions:
       - url: /pricing
         style: primary

@@ -48,7 +48,7 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: primary
-    subtitle: 'Envie d''être dans le TOP '
+    subtitle: Envie d'être dans le Top Google ?
   - type: features_section
     features:
       - title: Comment ça fonctionne ?

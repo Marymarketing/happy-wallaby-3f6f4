@@ -51,7 +51,7 @@ sections:
       ## Il vous faut un rédacteur web !
   - type: features_section
     features:
-      - title: Comment ça fonctionne ?
+      - title: 'Une rédactrice web, pourquoi ?'
         content: |
           lkj
         actions:

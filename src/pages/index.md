@@ -48,7 +48,7 @@ sections:
     background_color: primary
     subtitle: Envie d'être dans le TOP Google ?
     content: |
-      ## Il vous faut un rédacteur web !
+      ## Il vous faut une rédactrice web !
   - type: features_section
     features:
       - title: 'Une rédactrice web, pourquoi ?'

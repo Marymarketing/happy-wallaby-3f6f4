@@ -36,15 +36,6 @@ sections:
             icon_position: center
         actions_align: left
         actions_width: auto
-      - content_align: left
-        actions:
-          - url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: secondary
-            has_icon: true
-            icon: instagram
-            icon_position: center
-        actions_align: left
-        actions_width: auto
     grid_cols: two
     grid_gap_horiz: large
     grid_gap_vert: small

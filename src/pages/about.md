@@ -42,7 +42,7 @@ sections:
         has_icon: true
         icon: facebook
         icon_position: center
-        new_window: true
+        new_window: false
         no_follow: false
         type: action
       - label: lorem-ipsum

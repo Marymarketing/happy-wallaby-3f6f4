@@ -63,7 +63,7 @@ sections:
         type: action
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: primary
         has_icon: true
         icon: youtube
         icon_position: center

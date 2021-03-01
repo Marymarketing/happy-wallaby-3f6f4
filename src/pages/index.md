@@ -46,7 +46,7 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: primary
-    subtitle: Vous avez besoin d'un rédacteur web !
+    subtitle: Envie d'être dans le TOP Google ?
     content: |
       Vous avez besoin d'un rédacteur web !
   - type: features_section

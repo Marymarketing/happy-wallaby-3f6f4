@@ -54,7 +54,7 @@ sections:
         no_follow: false
         type: action
       - url: lorem-ipsum
-        style: link
+        style: primary
         has_icon: true
         icon: instagram
         icon_position: right

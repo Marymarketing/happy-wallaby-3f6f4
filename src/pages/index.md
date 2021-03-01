@@ -24,7 +24,7 @@ sections:
         image_align: center
         title: Article de blog
         title_align: center
-      - image: images/wonderful-yam.png
+      - image: images/royal-mango.png
         image_alt: DatoCMS logo
         image_align: center
         title: Social média

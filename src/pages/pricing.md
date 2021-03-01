@@ -1,4 +1,4 @@
----
+C---
 title: Pricing
 sections:
   - type: hero_section

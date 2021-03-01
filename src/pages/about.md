@@ -61,8 +61,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: lorem-ipsum
+      - url: lorem-ipsum
         style: primary
         has_icon: true
         icon: youtube

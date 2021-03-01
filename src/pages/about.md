@@ -7,7 +7,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
+      - title: Petite présentation
         content: >
           Mary Marketing c'est Marylène, rédactrice web depuis 25 ans.
 

@@ -108,8 +108,7 @@ sections:
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
           eget magna fermentum iaculis. Amet est placerat in egestas erat
           imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
+      - content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.

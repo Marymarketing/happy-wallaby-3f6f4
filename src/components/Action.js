@@ -16,8 +16,7 @@ export default class Action extends React.Component {
             	className={classNames({'btn': ((action_style === 'primary') || (action_style === 'secondary')) || _.get(action, 'has_icon', null), 'btn--primary': action_style === 'primary', 'btn--secondary': action_style === 'secondary', 'btn--icon': _.get(action, 'has_icon', null) && (action_icon_pos === 'center'), 'btn--clear': _.get(action, 'has_icon', null) && (action_style === 'link')})}>
             	{_.get(action, 'has_icon', null) ? (<React.Fragment>
             		<Icon {...this.props} icon={_.get(action, 'icon', null)} />
-                    <span className={classNames({'order-first': action_icon_pos === 'center
-                    ', 'sr-only': action_icon_pos === 'center'})}>{_.get(action, 'label', null)}</span>
+            		<span className={classNames({'order-first': action_icon_pos === 'center', 'sr-only': action_icon_pos === 'center'})}>{_.get(action, 'label', null)}</span>
             	</React.Fragment>) : 
             		_.get(action, 'label', null)
             	}

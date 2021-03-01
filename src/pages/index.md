@@ -58,7 +58,7 @@ sections:
           l'expérience au niveau du  référencement naturel. Laissiez moi gérer
           entièrement votre projet.
         actions:
-          - label: Learn More
+          - label: Plus de détails
             url: /style-guide
             style: primary
             has_icon: true

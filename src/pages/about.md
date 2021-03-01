@@ -64,7 +64,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
-        has_icon: false
+        has_icon: true
         icon: youtube
         icon_position: center
         new_window: false

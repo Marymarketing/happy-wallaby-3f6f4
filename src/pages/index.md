@@ -48,7 +48,7 @@ sections:
     background_color: primary
     subtitle: Envie d'être dans le TOP Google ?
     content: |
-      ## Vous avez besoin d'un rédacteur web !
+      ## Il vous faut un rédacteur web !
   - type: features_section
     features:
       - title: Comment ça fonctionne ?

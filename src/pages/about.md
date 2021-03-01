@@ -23,7 +23,7 @@ sections:
         image: images/23845783_10212332262794010_9208950252043836947_o.jpg
         image_alt: People in conversation in the office lounge area
         media_position: left
-        media_width: fifty
+        media_width: fourty
   - type: grid_section
     title: Mes réseaux
     grid_items:

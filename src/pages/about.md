@@ -9,10 +9,18 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Mary Marketing c'est Marylène, rédactrice web depuis 25 ans.
+
+
+          Intéressée par l'écriture et l'art des mots j'ai décider de mettre mes
+          compétences au services des autres.
+
+
+          Après une première prise de contact pour connaître vos souhaits,
+          j'établie un plan éditorial afin de vous permettre, même après mon
+          intervention, de continuer par vous même d'alimenter votre site
+          internet.
         image: images/ursula-gurnmeister.jpg
         image_alt: People in conversation in the office lounge area
         media_position: left

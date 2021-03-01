@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: A propos
+    title: À propos
     align: center
     background_color: secondary
   - type: features_section

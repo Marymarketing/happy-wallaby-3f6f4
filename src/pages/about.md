@@ -37,8 +37,7 @@ sections:
     background_color: none
     align: center
     actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
+      - url: lorem-ipsum
         style: primary
         has_icon: true
         icon: facebook

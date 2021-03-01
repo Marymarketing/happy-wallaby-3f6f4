@@ -47,9 +47,8 @@ sections:
     padding_bottom: large
     background_color: primary
     subtitle: Vous avez besoin d'un rédacteur web !
-    content: |+
-      Envie d'être dans le TOP Google ?
-
+    content: |
+      Vous avez besoin d'un rédacteur web !
   - type: features_section
     features:
       - title: Comment ça fonctionne ?

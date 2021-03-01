@@ -52,8 +52,11 @@ sections:
   - type: features_section
     features:
       - title: 'Une rédactrice web, pourquoi ?'
-        content: |
-          lkj
+        content: >
+          Et  bien, pour de la création de contenu de qualité. Il ne suffit pas
+          de connaitre l'art de rédiger pour être rédacteur web. Cela exige de
+          l'expérience au niveau du  référencement naturel. Laissiez moi gérer
+          entièrement votre projet.
         actions:
           - label: Learn More
             url: /style-guide

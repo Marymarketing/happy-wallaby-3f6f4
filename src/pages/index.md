@@ -4,7 +4,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/fabulous-turmeric.png
+      - image: images/magnificent-sparrow.png
         image_alt: Contentful logo
         image_align: center
         title: Rédaction web

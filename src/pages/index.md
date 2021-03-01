@@ -82,29 +82,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - subtitle: 'feaf,opfoer,v,tibnntrubzfyrfgaoir'
-        content: >+
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-
-        actions:
-          - label: Learn more
-            url: /features
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/classic/hero.png
-        title: The Big Title For the Feature
     feature_padding_vert: large
     align: left
     background_color: secondary

@@ -8,7 +8,6 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Mary Marketing c'est Marylène, rédactrice web depuis 25 ans.
 

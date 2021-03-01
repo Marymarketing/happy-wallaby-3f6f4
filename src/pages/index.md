@@ -68,7 +68,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Comment ç fonctionne ?
+      - title: Comment ça fonctionne ?
         content: |
           xnceiozhniocnzipencv
         actions:

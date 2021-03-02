@@ -53,7 +53,7 @@ sections:
           *   Recherche de mots clés
           *   etc.
 
-          à partir de \*
+          *à partir de \**
         content_align: left
         actions:
           - label: Ça m'intéresse

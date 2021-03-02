@@ -27,7 +27,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Help & Support
+      - title: Aide et support
         title_align: center
         content_align: center
         actions:

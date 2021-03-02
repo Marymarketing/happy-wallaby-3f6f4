@@ -20,7 +20,7 @@ sections:
           j'établie un plan éditorial afin de vous permettre, même après mon
           intervention, de continuer par vous même d'alimenter votre site
           internet.
-        image: images/23845783_10212332262794010_9208950252043836947_o.jpg
+        image: images/Photo mary.jpg
         image_alt: People in conversation in the office lounge area
         media_position: left
         media_width: fourty

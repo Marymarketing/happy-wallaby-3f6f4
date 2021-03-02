@@ -97,7 +97,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: lorem-ipsum
+          - label: On y vas !
             url: lorem-ipsum
             style: link
             has_icon: false

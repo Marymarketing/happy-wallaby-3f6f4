@@ -43,10 +43,6 @@ sections:
 
           ### 100€\*
 
-
-
-
-
           *   Article
           *   Fiche produit
           *   Meta Description

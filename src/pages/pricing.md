@@ -12,20 +12,16 @@ sections:
       - title: Création
         subtitle: ≃ 300 mots
         title_align: left
-        content: |
+        content: >
           ***
+
 
           ### 180€\*
 
 
+          *   *   Fiche produit*   Meta Description*   Livre blanc*  
+          Optimisation SEO*   Recherche de mots clés*   etc.
 
-
-
-          *   Fiche produit
-
-          *   Meta Description
-
-          *   etc.
 
           *à partir de\**
         content_align: left

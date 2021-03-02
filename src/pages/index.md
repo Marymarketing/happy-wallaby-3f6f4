@@ -91,7 +91,7 @@ sections:
   - type: features_section
     features:
       - title: 'N''hésitez pas, contactez-moi !'
-        subtitle: 'Émilie Zola, Content Manager à Dubaï'
+        subtitle: Sur mes réseaux ou par mail
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three

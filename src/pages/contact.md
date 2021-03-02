@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Une petite question ?
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+    subtitle: N'hésitez pas a me poser vos petites ou grandes questions
     align: center
     padding_top: small
     padding_bottom: small

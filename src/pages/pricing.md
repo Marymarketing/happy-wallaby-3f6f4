@@ -17,10 +17,6 @@ sections:
 
           ### 180€\*
 
-          par jour
-
-          *   Article de blog
-
           *   Fiche produit
 
           *   Meta Description

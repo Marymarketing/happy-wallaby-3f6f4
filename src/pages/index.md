@@ -119,7 +119,6 @@ sections:
     background_color: primary
   - type: blog_feed_section
     title: Mes articles
-    subtitle: Blog Feed Section Example
     actions:
       - label: View All
         url: /blog

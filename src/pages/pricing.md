@@ -20,10 +20,12 @@ sections:
           par mots
 
           *   Article de blog
+
           *   Fiche produit
+
           *   etc.
 
-          * \*à partir de*
+          *\*à partir de*
         content_align: left
         actions:
           - label: Start with Personal

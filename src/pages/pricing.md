@@ -62,7 +62,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Taux journalier
-        subtitle: Optional subtitle
+        subtitle: Par jour
         title_align: left
         content: |-
           ---

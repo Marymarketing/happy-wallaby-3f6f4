@@ -47,7 +47,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Get Support
+          - label: Encore ici
             url: /general-enquiries
             style: primary
             has_icon: true

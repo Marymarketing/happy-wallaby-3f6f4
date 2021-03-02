@@ -36,7 +36,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Réécriture
-        subtitle: Optional subtitle
+        subtitle: 300 mots
         title_align: left
         content: |
           ***

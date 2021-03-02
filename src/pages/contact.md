@@ -15,7 +15,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Get Support
+          - label: Par ici
             url: /general-enquiries
             style: link
             has_icon: true

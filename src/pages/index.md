@@ -92,7 +92,6 @@ sections:
     features:
       - title: 'Derrière chaque grand site, se cache un(e) rédacteur(trice) web.'
         subtitle: 'Émilie Zola, Content Manager à Dubaï'
-        image: images/hilary-ouse.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three

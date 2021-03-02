@@ -99,7 +99,7 @@ sections:
         actions:
           - label: On y-vas !
             url: lorem-ipsum
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right

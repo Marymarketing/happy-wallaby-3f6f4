@@ -56,7 +56,7 @@ sections:
           à partir de \*
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Ça m'intéresse
             url: /features
             style: primary
         actions_align: left

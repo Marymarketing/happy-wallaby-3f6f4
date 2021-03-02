@@ -46,8 +46,14 @@ sections:
           par journée
 
           *   Article
-          *
-          *
+          *   Fiche produit
+          *   Meta Description
+          *   Livre blanc
+          *   Optimisation SEO
+          *   Recherche de mots clés
+          *   etc.
+
+          à partir de \*
         content_align: left
         actions:
           - label: Start with Premium

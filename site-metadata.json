@@ -59,7 +59,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
+        "secondary_nav_title": "Mon blog",
         "secondary_nav_links": [
             {
                 "label": "News",

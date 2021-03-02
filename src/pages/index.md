@@ -70,8 +70,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Comment ça fonctionne ?
-        content: |
-          xnceiozhniocnzipencv
+        content: >
+          Premièrement,  je pense et gère à votre stratégie éditoriale et SEO.
+          Ensuite, vient la partie rédactionnelle. Chaque projet est ensuite
+          contrôlé, relu et optimisé pour le référencement naturel !
         actions:
           - label: Learn More
             url: /style-guide

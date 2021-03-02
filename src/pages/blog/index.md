@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Mon blog
-    subtitle: The optional subtitle
+    subtitle: Tout sur le marketing
     align: center
     padding_top: medium
     padding_bottom: none

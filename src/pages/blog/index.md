@@ -23,7 +23,8 @@ sections:
   - type: form_section
     title: Inline Form
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: |
+      Pour ne par louper un seul article, inscrivez vous a ma newsletter !
     content_align: center
     form_position: bottom
     form_layout: inline

@@ -15,9 +15,9 @@ sections:
         content: |
           ***
 
-          ### 0,10€\*
+          ### 180€\*
 
-          par mots
+          par jour
 
           *   Article de blog
 

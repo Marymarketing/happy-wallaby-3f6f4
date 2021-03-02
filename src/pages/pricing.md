@@ -41,7 +41,7 @@ sections:
         content: |
           ***
 
-          ### 700€\*
+          ### 100€\*
 
           par journée
 

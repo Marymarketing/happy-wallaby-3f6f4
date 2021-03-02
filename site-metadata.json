@@ -53,7 +53,7 @@
         "primary_nav_title": "Entreprise",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "À propos",
                 "url": "/about",
                 "style": "link"
             }

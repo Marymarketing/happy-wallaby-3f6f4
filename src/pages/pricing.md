@@ -62,18 +62,18 @@ sections:
       - title: Taux journalier
         subtitle: Par jour
         title_align: left
-        content: |
+        content: >
           ***
+
 
           ### 430€
 
+
           par jour
 
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
-          *   Feugiat porta tortor
+
+          *   *   Fiche produit*   Meta Description*   Livre blanc*  
+          Optimisation SEO*   Recherche de mots clés*   etc.
         content_align: left
         actions:
           - label: Start with Business

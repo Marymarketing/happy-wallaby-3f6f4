@@ -23,6 +23,8 @@ sections:
 
           *   Fiche produit
 
+          *   Meta Description
+
           *   etc.
 
           *à partir de\**

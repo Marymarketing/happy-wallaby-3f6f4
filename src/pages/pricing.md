@@ -46,11 +46,29 @@ sections:
           ### 100€\*
 
           *   Article
+
+          <!---->
+
           *   Fiche produit
+
+          <!---->
+
           *   Meta Description
+
+          <!---->
+
           *   Livre blanc
+
+          <!---->
+
           *   Optimisation SEO
+
+          <!---->
+
           *   Recherche de mots clés
+
+          <!---->
+
           *   etc.
 
           *à partir de \**

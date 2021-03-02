@@ -31,7 +31,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Get Support
+          - label: Par là
             url: /general-enquiries
             style: secondary
             has_icon: true

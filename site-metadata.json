@@ -76,7 +76,7 @@
         "tertiary_nav_title": "Mention légales",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "CGV",
                 "url": "/terms-conditions",
                 "style": "link"
             },

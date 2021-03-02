@@ -12,17 +12,18 @@ sections:
       - title: Personal
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### 0,10€\*
 
-          per month, billed yearly
+          par mots
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Article de blog
+          *   Fiche produit
+          *   etc.
+
+          *\*à partir de*
         content_align: left
         actions:
           - label: Start with Personal

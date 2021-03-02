@@ -43,7 +43,9 @@ sections:
 
           ### 100€\*
 
-          par journée
+
+
+
 
           *   Article
           *   Fiche produit

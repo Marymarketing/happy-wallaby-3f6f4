@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Inline Form
+    title: Inscrivez-vous
     title_align: center
     content: |
       Pour ne par louper un seul article, inscrivez vous a ma newsletter !

@@ -62,18 +62,19 @@ sections:
       - title: Taux journalier
         subtitle: Par jour
         title_align: left
-        content: >
+        content: |
           ***
-
 
           ### 430€
 
-
           par jour
 
-
-          *   *   Fiche produit*   Meta Description*   Livre blanc*  
-          Optimisation SEO*   Recherche de mots clés*   etc.
+          *   Fiche produit
+          *    Meta Description
+          *   Livre blanc
+          *   Optimisation SEO
+          *   Recherche de mots clés
+          *   etc.
         content_align: left
         actions:
           - label: Start with Business

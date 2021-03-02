@@ -90,7 +90,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: 'Derrière chaque grand site, se cache un(e) rédacteur(trice) web.'
+      - title: 'N''hésitez pas, contactez-moi !'
         subtitle: 'Émilie Zola, Content Manager à Dubaï'
         image_alt: Brandon Guidelines
         media_position: right

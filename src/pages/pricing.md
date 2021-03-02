@@ -38,18 +38,16 @@ sections:
       - title: Premium
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### 700€\*
 
-          per month, billed yearly
+          par journée
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Article
+          *
+          *
         content_align: left
         actions:
           - label: Start with Premium

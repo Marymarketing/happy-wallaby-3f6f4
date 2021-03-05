@@ -50,8 +50,9 @@ sections:
     subtitle: >-
       Ce qu'il vous faut c'est une rédactrice web formé aux bonne pratiques du
       référencement naturel
-    content: |
-      ##
+    content: >
+      # Vous avez besoin d'atteindre les 10 premiers résultat de recherche
+      Google pour promouvoir votre activité ?&#xA;&#xA;
     title: >-
       Vous avez besoin d'atteindre les 10 premiers résultat de recherche Google
       pour promouvoir votre activité ?

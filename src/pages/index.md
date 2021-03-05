@@ -108,12 +108,10 @@ sections:
 
           C'est pourquoi pour commencer j'adapterais ma stratégie de contenu à
           votre audience en commençant par analyser la sémantique de votre
-          activité.
-
+          activité. 
 
           Ensuite, je quantifierais les intentions de recherche afin d'optimiser
           le champ lexical utilisé et justifier mon choix de positionnement.
-
 
           Finalement, je vous ferais part de mes recommandations en ce qui
           concerne la stratégie marketing à mettre en place pour atteindre vos

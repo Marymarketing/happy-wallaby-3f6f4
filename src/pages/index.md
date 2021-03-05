@@ -48,8 +48,8 @@ sections:
     padding_bottom: large
     background_color: primary
     subtitle: >-
-      Vous avez besoin d'être dans les 10 premiers résultat de recherche Google
-      ?
+      Vous avez besoin d'atteindre les 10 premiers résultat de recherche Google
+      pour promouvoir votre activité ?
     content: |
       ## Il vous faut une rédactrice web !
   - type: features_section

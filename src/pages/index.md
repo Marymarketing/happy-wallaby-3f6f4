@@ -113,7 +113,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        title: 'Pas '
+        title: 'Pas de '
         subtitle: test
     feature_padding_vert: large
     align: left

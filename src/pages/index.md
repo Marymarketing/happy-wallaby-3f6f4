@@ -53,7 +53,7 @@ sections:
     content: >
       # Vous avez besoin d'atteindre les 10 premiers résultat de recherche
       Google pour promouvoir votre activité ?&#xA;&#xA;
-    title: Rédactrice web freelance SEO friendly
+    title: Rédactrice web SEO friendly
   - type: features_section
     features:
       - title: 'Une rédactrice web, pourquoi ?'

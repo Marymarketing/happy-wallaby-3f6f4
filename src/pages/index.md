@@ -49,7 +49,7 @@ sections:
     padding_bottom: large
     background_color: primary
     subtitle: >-
-      C'est important en tant que rédactrice web d'être à jours des bonne
+      C'est important en tant que rédactrice web d'être à jour des bonne
       pratiques du référencement naturel...
     content: >
       ## Vous avez besoin d'atteindre les 10 premiers résultat de recherche

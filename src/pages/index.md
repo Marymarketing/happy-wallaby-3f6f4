@@ -81,7 +81,7 @@ sections:
           recherche**.
 
 
-          Toutefois, le rédacteur web ne contente pas seulement d'écrire des
+          Toutefois, le rédacteur web ne se contente pas seulement d'écrire des
           articles pour un blog ou des fiches produits pour un e-commerce.
 
           Il intervient aussi lors de la **mise en place d'une stratégie

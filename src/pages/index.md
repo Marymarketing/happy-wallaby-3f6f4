@@ -40,6 +40,7 @@ sections:
         icon_position: center
         icon: arrow-left
         has_icon: false
+        no_follow: true
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

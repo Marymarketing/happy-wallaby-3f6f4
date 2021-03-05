@@ -98,7 +98,7 @@ sections:
 
 
           *   Un livre blanc par exemple, dans une stratégie d'indbound
-          marketing pour** augmenter son taux d'acquisition**.
+          marketing pour  **augmenter son taux d'acquisition**.
         actions:
           - label: Plus de détails
             url: /style-guide

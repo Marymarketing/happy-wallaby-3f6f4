@@ -114,7 +114,7 @@ sections:
         media_position: left
         media_width: fifty
         title: 'Pas de visiteurs, sans rédacteur !'
-        subtitle: test
+        subtitle: 'Vous l''avez compris, impossible'
     feature_padding_vert: large
     align: left
     background_color: secondary

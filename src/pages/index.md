@@ -113,7 +113,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        title: 'Pas de '
+        title: 'Pas de visiteurs, sans rédacteur'
         subtitle: test
     feature_padding_vert: large
     align: left

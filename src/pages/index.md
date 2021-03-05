@@ -114,7 +114,7 @@ sections:
           d'**optimiser le champ lexical** utilisé et justifier mon **choix de
           positionnement**.
 
-          Finalement,\*\* je vous ferais part de mes **recommandations en ce qui
+          Finalement,  je vous ferais part de mes **recommandations en ce qui
           concerne la stratégie marketing à mettre en place pour atteindre vos
           objectifs.**
         actions:

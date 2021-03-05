@@ -80,9 +80,9 @@ sections:
           positionné dans **les premières pages de résultat des moteurs de
           recherche**.
 
+
           Toutefois, le rédacteur web ne contente pas seulement d'écrire des
           articles pour un blog ou des fiches produits pour un e-commerce.
-
 
           Il intervient aussi lors de la **mise en place d'une stratégie
           éditoriale**, pour répondre à la **problématique de son client**.

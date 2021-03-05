@@ -59,10 +59,11 @@ sections:
     features:
       - title: 'Le métier de rédacteur web, c''est quoi ?'
         content: >
-          Et  bien, pour de la création de contenu de qualité. Il ne suffit pas
-          de connaitre l'art de rédiger pour être rédacteur web. Cela exige de
-          l'expérience au niveau du  référencement naturel. Laissiez moi gérer
-          entièrement votre projet.
+          Si je devais résumé très succintement le métier de rédacteur web. 
+
+           Je dirais qu'il conciste à produire du contenu textuel pour un site web ou tout autre support digital.
+          Ce texte doit être rédigier selon des standards préétablis dans
+          l'objectif ce positionner sur des requetes de mots clés ciblé.
         actions:
           - label: Plus de détails
             url: /style-guide

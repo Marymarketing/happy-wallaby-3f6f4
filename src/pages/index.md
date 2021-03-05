@@ -59,9 +59,12 @@ sections:
     features:
       - title: 'Le métier de rédacteur web, c''est quoi ?'
         content: >
-          Si je devais résumé très succintement le métier de rédacteur web. 
+          Si je devais résumé très succintement le métier de rédacteur web.
 
-           Je dirais qu'il conciste à produire du contenu textuel pour un site web ou tout autre support digital.
+
+          Je dirais qu'il conciste à produire du contenu textuel pour un site
+          web ou tout autre support digital.
+
           Ce texte doit être rédigier selon des standards préétablis dans
           l'objectif ce positionner sur des requetes de mots clés ciblé.
         actions:

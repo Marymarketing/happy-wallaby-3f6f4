@@ -93,6 +93,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            no_follow: true
         image: images/classic/feature-3.png
         image_alt: Feature 1 placeholder image
         media_position: right

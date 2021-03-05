@@ -48,8 +48,8 @@ sections:
     padding_bottom: large
     background_color: primary
     subtitle: >-
-      Vous avez besoin d'atteindre les 10 premiers résultat de recherche Google
-      pour promouvoir votre activité ?
+      Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
+      référencement naturel
     content: >
       ## Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
       référencement naturel

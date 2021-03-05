@@ -114,6 +114,7 @@ sections:
         media_position: left
         media_width: fifty
         title: 'Pourquoi '
+        subtitle: test
     feature_padding_vert: large
     align: left
     background_color: secondary

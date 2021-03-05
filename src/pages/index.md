@@ -114,7 +114,9 @@ sections:
         media_position: left
         media_width: fifty
         title: 'Pas de visiteurs, sans rédacteur !'
-        subtitle: 'Vous l''avez compris, impossible'
+        subtitle: >-
+          Vous l'avez compris, il vous est impossible de vous retrouvez dans les
+          premiers résultats de recherche sans
     feature_padding_vert: large
     align: left
     background_color: secondary

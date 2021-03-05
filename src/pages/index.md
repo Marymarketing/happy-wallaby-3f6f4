@@ -106,7 +106,7 @@ sections:
           rapidement, je me suis formé au marketing digital.
 
 
-          Pour commencer, **j'adapterais ma stratégie de contenu à votre
+          Tout d'abord, **j'adapterais ma stratégie de contenu à votre
           audience** en commençant par **analyser la sémantique de votre
           activité**.
 

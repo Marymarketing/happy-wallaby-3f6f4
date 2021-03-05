@@ -153,7 +153,7 @@ sections:
 
           Le **nombre de mots** est fondamental pour votre référencement naturel
           éfficase.
-        media_position: left
+        media_position: top
         media_width: thirty-three
         image: images/2.2.png
         align: center

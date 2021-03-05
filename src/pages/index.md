@@ -59,14 +59,46 @@ sections:
     features:
       - title: 'Le métier de rédacteur web, c''est quoi ?'
         content: >
-          Si je devais résumé très succinctement le métier de rédacteur web.
-
+          Si je devais résumer très succinctement le métier de rédacteur web.
 
           Je dirais qu'il consiste à produire du contenu textuel pour un site
           web ou tout autre support digital.
 
-          Ce texte doit être rédiger selon des standards préétablis dans
-          l'objectif ce positionner sur des requetes de mots clés ciblé.
+          Cependant, ce n'est pas si simple.
+
+          Il faut être claire et aller à l'essentiel afin de capter l'attention
+          du lecteur.
+
+
+          De plus, ce texte doit être rédigé selon des standards de
+          référencement préétablis dans l'objectif ce positionner sur des
+          requêtes de mots clés ciblés.
+
+          C'est pourquoi il est impératif de savoir optimiser son contenu.
+
+          Pour acquérir du trafic sur votre site internet, il faut être
+          positionné dans les premières pages de résultat des moteurs de
+          recherche.
+
+          Toutefois, le rédacteur web ne contente pas seulement d'écrire des
+          articles pour un blog ou des fiches produits pour un e-commerce.
+
+
+          Il intervient aussi lors de la mise en place d'une stratégie
+          éditoriale, pour répondre à la problématique de son client.
+
+          À cet égard, il élabore du contenu spécifique comme :
+
+
+          *   Des landing pages pour améliorer son taux de conversion.
+
+
+          *   Des campagnes d'emailing dans l'objectif d'augmenter son nombre de
+          prospects et qualifier ses leads.
+
+
+          *   Un livre blanc par exemple, dans une stratégie d'indbound
+          marketing pour augmenter son taux d'acquisition.
         actions:
           - label: Plus de détails
             url: /style-guide

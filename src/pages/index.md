@@ -54,8 +54,8 @@ sections:
       ## Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
       référencement naturel
     title: >-
-      Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
-      référencement naturel
+      Vous avez besoin d'atteindre les 10 premiers résultat de recherche Google
+      pour promouvoir votre activité ?
   - type: features_section
     features:
       - title: 'Une rédactrice web, pourquoi ?'

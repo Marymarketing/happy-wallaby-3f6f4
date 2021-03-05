@@ -112,7 +112,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Comment ça fonctionne ?
+      - title: Je vous ai convaincu
         content: >
           Premièrement,  je pense et gère à votre stratégie éditoriale et SEO.
           Ensuite, vient la partie rédactionnelle. Chaque projet est ensuite

@@ -51,7 +51,7 @@ sections:
       Vous avez besoin d'atteindre les 10 premiers résultat de recherche Google
       pour promouvoir votre activité ?
     content: |
-      ## Il vous faut une rédactrice web !
+      ## Vous avez besoin d'une rédactrice web formé au bonne pratique du SEO
   - type: features_section
     features:
       - title: 'Une rédactrice web, pourquoi ?'

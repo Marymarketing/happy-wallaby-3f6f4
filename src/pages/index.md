@@ -47,7 +47,9 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: primary
-    subtitle: Envie d'être dans le TOP Google ?
+    subtitle: >-
+      Vous avez besoin d'être dans les 10 premiers résultat de recherche Google
+      ?
     content: |
       ## Il vous faut une rédactrice web !
   - type: features_section

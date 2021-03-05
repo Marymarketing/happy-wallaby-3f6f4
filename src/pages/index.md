@@ -99,23 +99,24 @@ sections:
         media_position: right
         media_width: fifty
       - content: >
-          C'est ici que mon expertise SEO intervient.
+          C'est ici que mon expertise marketing intervient.
 
 
           En perpétuelle évolution tant les métiers du digital ce développe
           rapidement, je me suis formé au marketing digital.
 
 
-          C'est pourquoi pour commencer j'adapterais ma stratégie de contenu à
-          votre audience en commençant par analyser la sémantique de votre
-          activité.
+          Pour commencer, **j'adapterais ma stratégie de contenu à votre
+          audience** en commençant par **analyser la sémantique de votre
+          activité**.
 
-          Ensuite, je quantifierais les intentions de recherche afin d'optimiser
-          le champ lexical utilisé et justifier mon choix de positionnement.
+          Ensuite, je **quantifierais les intentions de recherche** afin
+          d'**optimiser le champ lexical** utilisé et justifier mon **choix de
+          positionnement**.
 
-          Finalement, je vous ferais part de mes recommandations en ce qui
-          concerne la stratégie marketing à mettre en place pour atteindre vos
-          objectifs.
+          Finalement,** je vous ferais part de mes recommandations** en ce qui
+          concerne** la stratégie marketing à mettre en place** **pour atteindre
+          vos objectifs.**
         actions:
           - label: Learn More
             url: /style-guide

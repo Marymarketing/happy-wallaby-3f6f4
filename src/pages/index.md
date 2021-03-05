@@ -116,7 +116,7 @@ sections:
         title: 'Pas de visiteurs, sans rédacteur !'
         subtitle: >-
           Vous l'avez compris, il vous est impossible de vous retrouvez dans les
-          premiers résultats de recherche sans contenu optimisé SEO.
+          premiers résultats de recherche sans rédiger du contenu optimisé SEO.
     feature_padding_vert: large
     align: left
     background_color: secondary

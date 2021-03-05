@@ -50,9 +50,8 @@ sections:
     subtitle: >-
       Ce qu'il vous faut c'est une rédactrice web formé aux bonne pratiques du
       référencement naturel
-    content: >
-      ## Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
-      référencement naturel
+    content: |
+      ##
     title: >-
       Vous avez besoin d'atteindre les 10 premiers résultat de recherche Google
       pour promouvoir votre activité ?

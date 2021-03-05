@@ -48,7 +48,7 @@ sections:
     padding_bottom: large
     background_color: primary
     subtitle: >-
-      Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
+      Ce qu'il vous faut c'est une rédactrice web formé aux bonne pratiques du
       référencement naturel
     content: >
       ## Vous avez besoin d'une rédactrice web formé aux bonne pratiques du

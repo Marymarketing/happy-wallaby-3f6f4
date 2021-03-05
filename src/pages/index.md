@@ -48,8 +48,8 @@ sections:
     padding_bottom: large
     background_color: primary
     subtitle: >-
-      C'est important pour une rédactrice web d'être formé aux bonne pratiques
-      du référencement naturel...
+      C'est important en tant que rédactrice web d'être formé aux bonne
+      pratiques du référencement naturel...
     content: >
       # Vous avez besoin d'atteindre les 10 premiers résultat de recherche
       Google pour promouvoir votre activité ?&#xA;&#xA;

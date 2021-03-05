@@ -57,7 +57,7 @@ sections:
     title: Rédactrice web SEO friendly
   - type: features_section
     features:
-      - title: 'Une rédactrice web, pourquoi ?'
+      - title: 'Le métier de rédacteur web, c''est quoi ?'
         content: >
           Et  bien, pour de la création de contenu de qualité. Il ne suffit pas
           de connaitre l'art de rédiger pour être rédacteur web. Cela exige de

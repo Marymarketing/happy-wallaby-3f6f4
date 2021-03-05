@@ -87,6 +87,8 @@ sections:
           Il intervient aussi lors de la **mise en place d'une stratégie
           éditoriale**, pour répondre à la **problématique de son client**.
 
+
+
           À cet égard, il élabore du contenu spécifique comme :
 
 

@@ -53,6 +53,9 @@ sections:
     content: >
       ## Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
       référencement naturel
+    title: >-
+      Vous avez besoin d'une rédactrice web formé aux bonne pratiques du
+      référencement naturel
   - type: features_section
     features:
       - title: 'Une rédactrice web, pourquoi ?'

@@ -62,7 +62,7 @@ sections:
           Si je devais résumé très succinctement le métier de rédacteur web.
 
 
-          Je dirais qu'il conciste à produire du contenu textuel pour un site
+          Je dirais qu'il consiste à produire du contenu textuel pour un site
           web ou tout autre support digital.
 
           Ce texte doit être rédiger selon des standards préétablis dans

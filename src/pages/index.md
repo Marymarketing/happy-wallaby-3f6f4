@@ -54,6 +54,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
+    title: Mes services
   - type: features_section
     features:
       - title: 'Le métier de rédacteur web, c''est quoi ?'

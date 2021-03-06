@@ -24,6 +24,7 @@ sections:
       ## Vous avez besoin d'atteindre les 10 premiers résultat de recherche de
       Google pour promouvoir votre activité ?&#xA;&#xA;
     title: Rédactrice web SEO friendly
+    image: images/classic/hero.png
   - type: grid_section
     align: center
     grid_items:

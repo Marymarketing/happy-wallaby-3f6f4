@@ -36,7 +36,7 @@ sections:
         image_width: twenty-five
         image_position: top
         image_has_padding: false
-        subtitle: uu
+        subtitle: Rédaction web
         content: |
           sdqqsdqs
       - image: images/caring-spruce.png

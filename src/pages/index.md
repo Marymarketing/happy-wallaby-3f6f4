@@ -54,7 +54,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
-    title: 3 axes d'expertise pour intervenir sur votre projet web?
+    title: 3 axes d'expertise pour intervenir sur votre projet web
     subtitle: Que puis-je faire pour vous ?
   - type: features_section
     features:

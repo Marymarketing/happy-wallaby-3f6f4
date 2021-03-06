@@ -1,7 +1,6 @@
 ---
 sections:
   - type: hero_section
-    title: Rédaction web
     background_color: primary
   - features:
       - content: >

@@ -41,7 +41,7 @@ sections:
       - image: images/caring-spruce.png
         image_alt: Netlify logo
         image_align: center
-        title: Copywriting
+        title: Référencement
         title_align: center
         actions_width: auto
         image_has_padding: false

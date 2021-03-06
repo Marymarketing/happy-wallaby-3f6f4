@@ -36,7 +36,6 @@ sections:
         image_width: twenty-five
         image_position: top
         image_has_padding: false
-        subtitle: Rédaction web
         content: |
           sdqqsdqs
         title: Rédaction web

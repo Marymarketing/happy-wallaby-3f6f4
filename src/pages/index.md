@@ -55,7 +55,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     title: Mes services
-    subtitle: Que puis-je faire pour vous ?
+    subtitle: 3 axes d'expertise ?
   - type: features_section
     features:
       - title: 'Le métier de rédacteur web, c''est quoi ?'

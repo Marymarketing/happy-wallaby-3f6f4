@@ -45,11 +45,6 @@ sections:
         title_align: center
         actions_width: auto
         image_has_padding: false
-      - image: images/beige-tulip.png
-        image_alt: Gatsby logo
-        image_align: center
-        title: Article de blog
-        title_align: center
       - image: images/royal-mango.png
         image_alt: DatoCMS logo
         image_align: center

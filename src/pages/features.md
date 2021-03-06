@@ -1,5 +1,4 @@
 ---
-title: Redaction web
 sections:
   - type: hero_section
     title: Rédaction web

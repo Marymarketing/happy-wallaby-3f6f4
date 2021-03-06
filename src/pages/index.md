@@ -48,7 +48,7 @@ sections:
       - image: images/royal-mango.png
         image_alt: DatoCMS logo
         image_align: center
-        title: Social média
+        title: Stratégie de contenu
         title_align: center
     grid_cols: three
     grid_gap_horiz: medium

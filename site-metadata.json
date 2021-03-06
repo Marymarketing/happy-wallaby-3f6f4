@@ -3,7 +3,7 @@
     "style": "minimal",
     "palette": "gray",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Mary-Marketing",
         "logo": "images/Fichier 3@4x.png",

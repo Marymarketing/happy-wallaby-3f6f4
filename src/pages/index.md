@@ -50,7 +50,7 @@ sections:
         image_align: center
         title: Social média
         title_align: center
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
   - type: features_section

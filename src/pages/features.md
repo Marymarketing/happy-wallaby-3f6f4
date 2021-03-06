@@ -124,7 +124,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    title: test
   - type: features_section
     features:
       - title: Stratégie des mots clé

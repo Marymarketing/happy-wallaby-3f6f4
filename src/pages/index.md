@@ -15,7 +15,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-        icon_position: right
+        icon_position: left
         new_window: false
         no_follow: true
         type: action

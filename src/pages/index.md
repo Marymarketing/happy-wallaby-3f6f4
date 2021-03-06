@@ -10,7 +10,7 @@ sections:
         icon: arrow-left
         has_icon: false
         no_follow: true
-      - label: lorem-ipsum
+      - label: Décrouvez mon blog
         url: lorem-ipsum
         style: link
         has_icon: false

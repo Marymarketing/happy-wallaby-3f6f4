@@ -191,8 +191,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small

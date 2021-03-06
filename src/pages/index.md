@@ -39,6 +39,7 @@ sections:
         subtitle: Rédaction web
         content: |
           sdqqsdqs
+        title: Rédaction web
       - image: images/caring-spruce.png
         image_alt: Netlify logo
         image_align: center

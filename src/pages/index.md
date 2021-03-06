@@ -1,6 +1,29 @@
 ---
 title: Home
 sections:
+  - type: hero_section
+    actions:
+      - url: /features
+        style: primary
+        label: Allons-y !
+        icon_position: center
+        icon: arrow-left
+        has_icon: false
+        no_follow: true
+    image_alt: Hero section placeholder image
+    media_position: left
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: large
+    background_color: primary
+    subtitle: >-
+      C'est important en tant que rédactrice web d'être à jour des bonnes
+      pratiques du référencement naturel...
+    content: >
+      ## Vous avez besoin d'atteindre les 10 premiers résultat de recherche de
+      Google pour promouvoir votre activité ?&#xA;&#xA;
+    title: Rédactrice web SEO friendly
   - type: grid_section
     align: center
     grid_items:
@@ -32,29 +55,6 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: small
-  - type: hero_section
-    actions:
-      - url: /features
-        style: primary
-        label: Allons-y !
-        icon_position: center
-        icon: arrow-left
-        has_icon: false
-        no_follow: true
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: large
-    background_color: primary
-    subtitle: >-
-      C'est important en tant que rédactrice web d'être à jour des bonnes
-      pratiques du référencement naturel...
-    content: >
-      ## Vous avez besoin d'atteindre les 10 premiers résultat de recherche de
-      Google pour promouvoir votre activité ?&#xA;&#xA;
-    title: Rédactrice web SEO friendly
   - type: features_section
     features:
       - title: 'Le métier de rédacteur web, c''est quoi ?'

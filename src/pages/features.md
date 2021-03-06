@@ -219,4 +219,5 @@ seo:
       value: images/about-3.jpg
       relativeUrl: true
 template: advanced
+title: Redaction web
 ---

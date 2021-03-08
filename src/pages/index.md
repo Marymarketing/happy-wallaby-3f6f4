@@ -81,7 +81,17 @@ sections:
         title: Stratégie de contenu
         title_align: center
         content: |
-          #### fhzieonf
+          Définir vos objectifs
+
+          Connaitre votre cible
+
+          Définition des champ éditoriale
+
+          Déterminer les longues traines
+
+          Création d'une ligne éditoriale
+
+          Analyse des performances
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

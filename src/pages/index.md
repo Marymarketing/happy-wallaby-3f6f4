@@ -63,7 +63,7 @@ sections:
         actions_width: auto
         image_has_padding: false
         content_align: left
-        subtitle: '  '
+        subtitle: jijijk
       - image: images/royal-mango.png
         image_alt: DatoCMS logo
         image_align: center

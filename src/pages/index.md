@@ -63,6 +63,7 @@ sections:
         actions_width: auto
         image_has_padding: false
         content_align: left
+        subtitle: '  '
       - image: images/royal-mango.png
         image_alt: DatoCMS logo
         image_align: center

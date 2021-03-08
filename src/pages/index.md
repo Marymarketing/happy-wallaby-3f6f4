@@ -54,7 +54,7 @@ sections:
 
           Rédaction de contenue unique et de qualité
         title: Rédaction web
-        content_align: right
+        content_align: center
       - image: images/caring-spruce.png
         image_alt: Netlify logo
         image_align: center

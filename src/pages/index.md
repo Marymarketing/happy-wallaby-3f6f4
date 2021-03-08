@@ -46,7 +46,13 @@ sections:
         image_position: top
         image_has_padding: false
         content: |
-          sdqqsdqs
+          *   Identification de votre audience
+
+          *   Recherche des mots clés pertinent
+
+          *   Veille rédactionnelle
+
+          *   Rédaction de contenue unique et de qualité
         title: Rédaction web
       - image: images/caring-spruce.png
         image_alt: Netlify logo

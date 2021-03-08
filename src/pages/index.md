@@ -80,6 +80,8 @@ sections:
         image_align: center
         title: Stratégie de contenu
         title_align: center
+        content: |
+          #### fhzieonf
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

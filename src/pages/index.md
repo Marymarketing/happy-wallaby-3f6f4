@@ -63,6 +63,18 @@ sections:
         actions_width: auto
         image_has_padding: false
         content_align: left
+        content: |
+          ### Audit de votre site web
+
+          ### Analyse des mots clés utilisé
+
+          ### Mise en place d'une stratégie d'évolution du contenu
+
+          ### Étude de votre contenu
+
+          ### Élaboration du maillage interne
+
+          ### Définition d'une stratégie backlinking
       - image: images/royal-mango.png
         image_alt: DatoCMS logo
         image_align: center

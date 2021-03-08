@@ -92,6 +92,7 @@ sections:
           Création d'une ligne éditoriale
 
           Analyse des performances
+        content_align: center
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

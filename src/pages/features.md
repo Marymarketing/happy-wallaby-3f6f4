@@ -93,7 +93,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: 'Une professionnel du contenu web, est-ce utile ?'
     features: []
     feature_padding_vert: medium
     align: center

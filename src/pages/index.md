@@ -179,7 +179,7 @@ sections:
     align: left
     background_color: secondary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items:
       - title: lorem-ipsum

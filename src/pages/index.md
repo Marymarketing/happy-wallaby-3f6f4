@@ -196,7 +196,7 @@ sections:
         type: grid_item
         image: images/classic/icon-3.svg
         title: Champ sémantique
-      - title: Contenu SEO
+      - title: Contenu unique
         title_align: left
         content: >-
           ## Lorem ipsum

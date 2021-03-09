@@ -85,7 +85,22 @@ sections:
         image_has_padding: true
       - title: Des pages web
         title_align: left
-        content: "Les pages web doivent répondre à une problématique de **référencement naturel**. Il s'agit de **soumettre du contenu de qualité** (**pyramide inversée : type de rédaction qui consiste à aller droit au but**), avec un champ lexiqual et sémantique ultra riche et un nombre de mots conséquent. Ainsi que toute l’**optimisation SEO** (Balise META : balise TITLE et méta description).\_\n"
+        content: >
+          Les pages web doivent répondre à une problématique de **référencement
+          naturel**.
+
+
+          Qu'est ce que le référencement naturel ? Il s'agit de soumettre du
+          **contenu de qualité**, avec un champ lexical et sémantique ultra
+          riche et un nombre de mots conséquent afin de répondre aux exigence de
+          Google et ainsi être dans le top 10 des apparition après une
+          recherche. 
+
+
+          Tout ceci s'améliore grâce en partie à la **pyramide inversée **(type
+          de rédaction qui consiste à aller droit au but) ainsi que toute
+          l’**optimisation SEO** (Balise META : balise TITLE et méta
+          description).
         content_align: left
         actions:
           - label: Learn More

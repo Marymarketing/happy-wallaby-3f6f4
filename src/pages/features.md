@@ -137,7 +137,7 @@ sections:
           qui le convoitise.
         image: images/caring-tortoise.svg
         image_alt: Top view of business meeting
-        media_position: top
+        media_position: left
         media_width: thirty-three
         align: center
       - title: La production de contenue

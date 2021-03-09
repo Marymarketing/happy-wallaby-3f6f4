@@ -27,22 +27,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Aide et support
-        title_align: center
-        content_align: center
-        actions:
-          - label: Par là
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-2.svg
-        image_alt: Help and support icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Autre requête
         title_align: center
         content_align: center

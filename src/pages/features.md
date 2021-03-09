@@ -5,7 +5,7 @@ sections:
     align: left
     media_width: fourty
     title: Rédaction web pour tout vos site internet
-    subtitle: Soyez dans le top Google
+    subtitle: Soyez dans le TOP Google
     actions:
       - label: Contactez-moi
         url: /contact

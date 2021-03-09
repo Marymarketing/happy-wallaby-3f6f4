@@ -93,7 +93,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: C'est PRI-MOR-DIALE
-    subtitle: 'Une professionnel du contenu web, est-ce utile ?'
+    subtitle: 'Une professionnelle du contenu web, est-ce utile ?'
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum

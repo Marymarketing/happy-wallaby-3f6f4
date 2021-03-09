@@ -201,7 +201,7 @@ sections:
           d’associer un ou plusieurs mots clés à vos images).
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: center
         type: feature

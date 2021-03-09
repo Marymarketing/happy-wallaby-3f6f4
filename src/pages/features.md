@@ -99,17 +99,8 @@ sections:
         subtitle: >-
           Aujourd'hui, la rédaction web est primordiale lors de la création ou
           la mise à jour de votre site internet.
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          hugfdrseqrzesdtyfugiopkjhgf
         actions: []
         image_alt: lorem-ipsum
         media_position: top

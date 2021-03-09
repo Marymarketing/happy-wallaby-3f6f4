@@ -66,7 +66,7 @@ sections:
         content: |
           *   Audit de votre site web
 
-          *   Mise en place d'une stratégie d'évolution du contenu
+          *   Stratégie d'évolution du contenu
 
           *   Étude de votre contenu
 

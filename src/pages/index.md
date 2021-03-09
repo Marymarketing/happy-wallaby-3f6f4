@@ -46,6 +46,8 @@ sections:
         image_position: top
         image_has_padding: false
         content: |
+          *   Étude de l'environnement
+
           *   Identification de votre audience
 
           *   Recherche des mots clés pertinent

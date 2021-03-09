@@ -205,6 +205,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/classic/icon-3.svg
+        title: Champ sémentique
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left

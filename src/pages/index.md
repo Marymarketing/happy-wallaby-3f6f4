@@ -178,8 +178,7 @@ sections:
     feature_padding_vert: large
     align: left
     background_color: secondary
-  - title: lorem-ipsum
-    subtitle: Comment vous serais-je utile ?
+  - subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items:
       - title: lorem-ipsum

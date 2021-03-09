@@ -336,7 +336,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Fichier 4.svg
+        image: images/fabulous-onion.svg
       - title: Formation rédaction web
         title_align: left
         content: >+

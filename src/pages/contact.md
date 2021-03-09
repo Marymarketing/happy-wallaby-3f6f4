@@ -52,7 +52,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Envie d'échanger ?
-    subtitle: Réservez un rendez
+    subtitle: Réservez un call
     features: []
     feature_padding_vert: medium
     align: center

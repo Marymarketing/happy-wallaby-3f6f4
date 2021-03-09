@@ -204,7 +204,6 @@ sections:
         image: images/classic/icon-3.svg
         title: Champ sémantique
       - title: Contenu SEO
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

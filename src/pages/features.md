@@ -39,7 +39,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Production du contenu
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

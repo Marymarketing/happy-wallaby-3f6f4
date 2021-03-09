@@ -180,7 +180,7 @@ sections:
         image: images/Fichier 4.svg
     title: Mes 4 étapes pour faire de la rédaction web
     padding_top: none
-    align: center
+    align: left
   - type: cta_section
     title: Demandez un devis
     actions:

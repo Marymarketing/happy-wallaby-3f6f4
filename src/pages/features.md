@@ -138,7 +138,7 @@ sections:
         image: images/caring-tortoise.svg
         image_alt: Top view of business meeting
         media_position: left
-        media_width: thirty-three
+        media_width: fifty
         align: center
       - title: La production de contenue
         content: >

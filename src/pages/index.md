@@ -368,6 +368,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/marvelous-artichoke.svg
       - title: Community management
         subtitle: lorem-ipsum
         title_align: left

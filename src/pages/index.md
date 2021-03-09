@@ -305,7 +305,6 @@ sections:
         type: grid_item
         image: images/Fichier 2.svg
       - title: Cocon sémentique
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

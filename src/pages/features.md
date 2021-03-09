@@ -94,10 +94,10 @@ sections:
           **contenu de qualité**, avec un champ lexical et sémantique ultra
           riche et un nombre de mots conséquent afin de répondre aux exigence de
           Google et ainsi être dans le top 10 des apparition après une
-          recherche. 
+          recherche.
 
 
-          Tout ceci s'améliore grâce en partie à la **pyramide inversée **(type
+          Tout ceci s'améliore grâce en partie à la **pyramide inversée** (type
           de rédaction qui consiste à aller droit au but) ainsi que toute
           l’**optimisation SEO** (Balise META : balise TITLE et méta
           description).

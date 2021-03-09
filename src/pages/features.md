@@ -40,14 +40,6 @@ sections:
         type: grid_item
       - title: Production du contenu
         title_align: left
-        content: |
-          *   Identifier la cible
-
-          *   Définir les objectifs
-
-          *   Choisir les bonnes longues traines
-
-          *
         content_align: left
         actions: []
         actions_align: left

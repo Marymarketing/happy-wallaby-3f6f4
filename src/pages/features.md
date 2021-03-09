@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: true
         type: action
-    image: images/Fichier 6.svg
+    image: images/Redac.svg
     media_position: top
   - actions: []
     grid_items:

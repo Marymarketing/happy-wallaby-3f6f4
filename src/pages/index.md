@@ -52,7 +52,7 @@ sections:
 
           *   Veille rédactionnelle
 
-          *   Rédaction de contenue unique et de qualité
+          *   Rédaction de contenue unique
         title: Rédaction web
         content_align: left
       - image: images/Ref.svg

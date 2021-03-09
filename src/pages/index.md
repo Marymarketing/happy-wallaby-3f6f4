@@ -288,15 +288,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Un petit mail ?
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
         align: center
     feature_padding_vert: small
     background_color: primary

@@ -35,9 +35,9 @@ sections:
         title_align: left
         content: >
           Une fiche produit, c'est toute la descriptions et les caractéristique
-          du produit que vous vendez. Ayant de l'experience en terme de
-          **marketing de contenu**, je saurais captiver les utilisateurs via une
-          écriture convincante.
+          du produit que vous vendez. Ayant de l'expérience en terme de
+          **marketing de contenu**, je saurais **captiver** les utilisateurs via
+          une écriture convaincante.
 
 
           Plusieurs **techniques de rédaction SEO** sont utilisé afin de

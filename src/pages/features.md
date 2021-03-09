@@ -95,8 +95,7 @@ sections:
   - title: C'est primordiale
     subtitle: 'Une professionnelle du contenu web, est-ce utile ?'
     features:
-      - title: lorem-ipsum
-        subtitle: >-
+      - subtitle: >-
           Aujourd'hui, la rédaction web est primordiale lors de la création ou
           la mise à jour de votre site internet.
         content: |

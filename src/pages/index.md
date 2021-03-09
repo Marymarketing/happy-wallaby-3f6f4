@@ -290,7 +290,7 @@ sections:
         align: center
     feature_padding_vert: small
     background_color: primary
-  - title: Des solutions
+  - title: De précises solution sur le contenu SEO
     subtitle: Qu'est-ce que je vous apporte ?
     features:
       - title: lorem-ipsum

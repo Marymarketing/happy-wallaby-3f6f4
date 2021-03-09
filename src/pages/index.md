@@ -327,7 +327,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: De précises solutions sur le contenu SEO
-    subtitle: Qu'est
+    subtitle: Qu'est-ce que je vous apporte ?
     actions: []
     grid_items: []
     grid_cols: three

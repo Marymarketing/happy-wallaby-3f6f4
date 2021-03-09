@@ -287,7 +287,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/caring-tortoise.svg
+        image: images/kind-potato.svg
       - title: Rédaction web
         title_align: left
         content: >

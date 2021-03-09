@@ -171,7 +171,7 @@ sections:
 
           Le **nombre de mots** est fondamental pour votre référencement naturel
           efficace.
-        media_position: left
+        media_position: right
         media_width: thirty-three
         image: images/Fichier 2.svg
         align: left

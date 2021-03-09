@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Une petite question ?
+    title: Une question ?
     subtitle: N'hésitez pas à me poser vos petites ou grandes questions
     align: center
     padding_top: small

@@ -6,6 +6,16 @@ sections:
     media_width: fourty
     title: Rédaction web pour tout vos site internet
     subtitle: Soyez dans le top Google
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - features:
       - content: >
           C’est assez simple : il se charge de tout l'étendue d’un site

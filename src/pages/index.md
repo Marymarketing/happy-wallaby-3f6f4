@@ -231,7 +231,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/classic/icon-1.svg
-      - title: lorem-ipsum
+      - title: Optimisation SEO
         subtitle: lorem-ipsum
         title_align: left
         content: >-

@@ -107,16 +107,8 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: 'Rédaction de contenue à partir de 0,15€/mot'
-    content: >
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+    content: |
+      N'hésite plus
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum

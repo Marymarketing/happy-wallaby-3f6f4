@@ -291,7 +291,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Qui suis-je ?
     features: []
     feature_padding_vert: medium
     align: center

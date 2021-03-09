@@ -181,7 +181,7 @@ sections:
     title: Mes 4 étapes pour faire de la rédaction web
     padding_top: none
     align: left
-    feature_padding_vert: large
+    feature_padding_vert: small
   - type: cta_section
     title: Demandez un devis
     actions:

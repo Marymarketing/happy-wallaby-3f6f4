@@ -338,7 +338,6 @@ sections:
         type: grid_item
         image: images/Fichier 4.svg
       - title: Formation rédaction web
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

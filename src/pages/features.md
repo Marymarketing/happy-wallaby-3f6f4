@@ -203,7 +203,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
-        align: center
+        align: left
         type: feature
         image: images/Fichier 4.svg
     title: Mes 4 étapes pour faire de la rédaction web

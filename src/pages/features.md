@@ -19,7 +19,6 @@ sections:
   - actions: []
     grid_items:
       - title: Préparation du contenu
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

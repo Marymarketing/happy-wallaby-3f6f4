@@ -7,7 +7,7 @@ sections:
     title: Rédaction web pour tout vos site internet
     subtitle: Soyez dans le top Google
     actions:
-      - label: lorem-ipsum
+      - label: Contactez-moi
         url: lorem-ipsum
         style: link
         has_icon: false

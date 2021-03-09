@@ -59,7 +59,6 @@ sections:
 
           *   Selection de longues traines
       - title: Optimisation SEO
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           *   Structuration du contenue

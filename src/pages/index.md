@@ -198,9 +198,10 @@ sections:
         title: Champ sémantique
       - title: Contenu exclusif
         title_align: left
-        content: >
-          Je m'engage à produire pour vous, du **contenue unique**. Le plagiat
-          ne fait pas partie de mes façon de travailler.
+        content: |
+          Je m'engage à produire pour vous, du **contenue unique**.
+
+          Le plagiat ne fait pas partie de mes façon de travailler.
         content_align: left
         actions: []
         actions_align: left

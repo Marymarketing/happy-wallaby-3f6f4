@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: true
         type: action
-    image: images/Fichier 3.svg
+    image: images/Fichier 6.svg
   - actions: []
     grid_items:
       - title: Préparation du contenu

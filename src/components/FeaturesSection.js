@@ -30,10 +30,7 @@ export default class FeaturesSection extends React.Component {
             		{_.get(section, 'title', null) && (
             		<h2 className="section__title mt-0">{_.get(section, 'title', null)}</h2>
             		)}
-            	</div> <!-- Début de widget en ligne Calendly -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/marymarketing-pro/contact?text_color=ffffff&primary_color=616d77" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Fin de widget en ligne Calendly -->
+            	</div>
             	)}
             	{_.get(section, 'features', null) && (
             	<div className="container">

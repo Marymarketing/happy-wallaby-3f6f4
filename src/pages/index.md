@@ -216,9 +216,11 @@ sections:
       - title: Optimisation SEO
         title_align: left
         content: >
-          Tout le contenu crée ou amélioré passe par l'optimisation SEO. En
-          effet, les **balises** (TITRES, META), les **liens** internes,
-          l'arborescence de votre site (**H1**, **H2**, etc.) ... tout y passe.
+          Tout le contenu crée ou amélioré passe par l'optimisation SEO.
+
+
+          En effet, les **balises** (TITRES, META), les **liens** internes,
+          l'arborescence de votre site (**H1**, **H2**, etc.)... tout y passe.
         content_align: left
         actions: []
         actions_align: left

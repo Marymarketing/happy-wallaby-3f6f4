@@ -290,7 +290,7 @@ sections:
         align: center
     feature_padding_vert: small
     background_color: primary
-  - title: lorem-ipsum
+  - title: Une experte SEO
     subtitle: Qui suis-je ?
     features: []
     feature_padding_vert: medium

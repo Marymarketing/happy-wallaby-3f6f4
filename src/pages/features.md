@@ -16,6 +16,24 @@ sections:
         new_window: false
         no_follow: true
         type: action
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    grid_items: []
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - features:
       - content: >
           C’est assez simple : il se charge de tout l'étendue d’un site
@@ -234,24 +252,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    grid_items: []
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Features
   description: This is the features page

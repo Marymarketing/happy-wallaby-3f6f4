@@ -106,7 +106,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: Contacte moi
+  - title: 'Rédaction de contenue à partir de 0,15€/mot'
     content: >
 
 

@@ -58,6 +58,7 @@ sections:
           *   Définir les objectifs
 
           *   Selection de longues traines
+        subtitle: hbvjk
       - title: Optimisation SEO
         title_align: left
         content: |

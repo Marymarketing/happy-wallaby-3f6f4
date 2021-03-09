@@ -51,7 +51,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Une question ?
+  - title: Envie d'échanger ?
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium

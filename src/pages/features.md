@@ -16,8 +16,7 @@ sections:
         new_window: false
         no_follow: true
         type: action
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: Préparation du contenu

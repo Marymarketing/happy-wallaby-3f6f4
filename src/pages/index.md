@@ -290,17 +290,9 @@ sections:
         image: images/caring-tortoise.svg
       - title: Rédaction web
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
+        content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          eiusmod tempor incididunt ut labore et dolore magna aliqua
         content_align: left
         actions: []
         actions_align: left

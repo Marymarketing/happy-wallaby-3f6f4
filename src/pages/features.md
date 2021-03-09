@@ -17,6 +17,7 @@ sections:
         no_follow: true
         type: action
     image: images/Fichier 6.svg
+    media_position: top
   - actions: []
     grid_items:
       - title: Préparation du contenu

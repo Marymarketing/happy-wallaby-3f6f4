@@ -153,7 +153,7 @@ sections:
           éfficase.
         media_position: top
         media_width: thirty-three
-        image: images/2.2.png
+        image: images/Fichier 2.svg
         align: center
       - title: La richesse sémantique
         content: "Le sens d’une page est **déterminé en fonction des mots contenus** sur celle-ci. Si sur votre page, un article parle de rédaction web, il faut absolument qu'il contienne des mots clés tels que «\_webmarketing\_» ou «\_community manager\_».\n\nEn résumé : il faut enrichir son contenu avec les mots du **champ** **lexical** et du **champ sémantique** pour être sur la première page.\n"

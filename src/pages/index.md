@@ -198,17 +198,9 @@ sections:
         title: Champ sémantique
       - title: Contenu exclusif
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Je m'engage à produire pour vous, du **contenue unique**. Le plagiat
+          ne fait pas partie de mes façon de travailler.
         content_align: left
         actions: []
         actions_align: left

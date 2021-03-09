@@ -270,7 +270,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: 3 outils indispensables
+    title: Mes 3 outils indispensables
   - type: features_section
     features:
       - title: 'N''hésitez pas, contactez-moi !'

@@ -294,7 +294,7 @@ sections:
     subtitle: Qu'est-ce que je vous apporte ?
     actions: []
     grid_items:
-      - title: Rédaction web
+      - title: Stratégie de contenu
         subtitle: lorem-ipsum
         title_align: left
         content: >-

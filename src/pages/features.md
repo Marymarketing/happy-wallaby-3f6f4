@@ -110,7 +110,7 @@ sections:
     content: |
       N'hésite plus
     actions:
-      - label: lorem-ipsum
+      - label: Premier rendez-vous
         url: lorem-ipsum
         style: primary
         has_icon: false

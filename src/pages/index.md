@@ -179,8 +179,7 @@ sections:
   - subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 

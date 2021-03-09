@@ -174,7 +174,7 @@ sections:
         media_position: right
         media_width: thirty-three
         image: images/Fichier 2.svg
-        align: left
+        align: center
       - title: La richesse sémantique
         content: >
           Le sens d’une page est **déterminé en fonction des mots contenus** sur

@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Contactez-moi
         url: /contact
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right

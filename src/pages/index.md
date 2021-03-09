@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/beige-parsley.png
+      - image: images/Plan de travail 1.png
         image_alt: Contentful logo
         image_align: center
         title_align: center

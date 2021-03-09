@@ -189,7 +189,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: thirty-three
-        align: center
+        align: left
       - title: L'optimisation SEO
         content: >
           **L’optimisation SEO du contenu** est la dernière étape pour améliorer

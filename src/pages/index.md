@@ -291,7 +291,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - title: Une experte SEO
-    subtitle: Qui suis-je ?
+    subtitle: Qu'est-ce que je vous apporte ?
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum

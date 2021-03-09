@@ -81,8 +81,6 @@ sections:
         content: |
           *   Définir vos objectifs
 
-          *   Connaitre votre cible
-
           *   Définition des champ éditoriale
 
           *   Déterminer les longues traines

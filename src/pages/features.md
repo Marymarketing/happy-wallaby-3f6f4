@@ -117,13 +117,14 @@ sections:
       - title: Des livres blanc
         title_align: left
         content: >
-          Le livre blanc est un outil de la stratégie d’**inbound marketing**,
-          il doit répondre à une problématique. C’est un guide qui va appuyer
-          votre expertise.
+          Le livre blanc est un des outil de la **content marketing**. Ça peut
+          être un guide, **offert** à vos visiteurs, qui va apporter une
+          expertise sur un produit, une problématique ou une technique. Il est
+          destiné à vos prospects.
 
 
-          Montrer à vos prospects vos compétances dans un domaine pourra être
-          critère de décision d’achat.
+          Montrer à vos prospects vos **compétences** dans un domaine pourra
+          être critère de décision d’achat.
         content_align: left
         actions:
           - label: Learn More

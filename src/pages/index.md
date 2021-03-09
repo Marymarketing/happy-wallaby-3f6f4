@@ -34,7 +34,7 @@ sections:
       Google pour promouvoir votre activité ?
 
     title: Rédactrice web SEO friendly
-    image: images/Image redac web.jpeg
+    image: images/happy-zebra.jpeg
   - type: grid_section
     align: center
     grid_items:

@@ -5,6 +5,7 @@ sections:
     align: left
     media_width: fourty
     title: Rédaction web pour tout vos site internet
+    subtitle: Soyez dans le top Google
   - features:
       - content: >
           C’est assez simple : il se charge de tout l'étendue d’un site

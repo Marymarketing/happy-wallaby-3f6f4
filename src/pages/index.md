@@ -318,7 +318,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Stratégie de contenu
+      - title: Rédaction web
         subtitle: lorem-ipsum
         title_align: left
         content: >-

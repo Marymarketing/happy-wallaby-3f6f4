@@ -54,7 +54,7 @@ sections:
 
           *   Rédaction de contenue unique et de qualité
         title: Rédaction web
-        content_align: center
+        content_align: left
       - image: images/Ref.svg
         image_alt: Netlify logo
         image_align: center

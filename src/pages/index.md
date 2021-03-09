@@ -181,8 +181,8 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          Après avoir trouvée des **mots clés** et des **longues traines**
-          pertinente, j'utilise le logiciel "**1.fr**".
+          Après avoir trouvée des **mots clés** et des **longues traines**,
+          j'utilise le logiciel "**1.fr**".
 
 
           Cela permet d'enrichir le champ lexical du contenu.

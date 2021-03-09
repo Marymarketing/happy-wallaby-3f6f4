@@ -81,17 +81,17 @@ sections:
         title: Stratégie de contenu
         title_align: center
         content: |
-          Définir vos objectifs
+          *   Définir vos objectifs
 
-          Connaitre votre cible
+          *   Connaitre votre cible
 
-          Définition des champ éditoriale
+          *   Définition des champ éditoriale
 
-          Déterminer les longues traines
+          *   Déterminer les longues traines
 
-          Création d'une ligne éditoriale
+          *   Création d'une ligne éditoriale
 
-          Analyse des performances
+          *   Analyse des performances
         content_align: center
     grid_cols: three
     grid_gap_horiz: medium

@@ -187,7 +187,7 @@ sections:
           **lexical** et du **champ sémantique** pour être sur la première page.
         image: images/marvelous-artichoke.svg
         image_alt: Happy co-workers
-        media_position: top
+        media_position: right
         media_width: thirty-three
         align: center
       - title: L'optimisation SEO

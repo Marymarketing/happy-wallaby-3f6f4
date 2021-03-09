@@ -58,6 +58,7 @@ sections:
           *   Définir les objectifs
 
           *   Selection de longues traines
+        subtitle: '       '
       - title: Optimisation SEO
         subtitle: lorem-ipsum
         title_align: left

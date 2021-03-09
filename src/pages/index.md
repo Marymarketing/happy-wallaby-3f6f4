@@ -279,7 +279,7 @@ sections:
         media_position: right
         media_width: thirty-three
         actions:
-          - label: On y-vas !
+          - label: Prendre rendez-vous
             url: lorem-ipsum
             style: primary
             has_icon: false

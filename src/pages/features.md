@@ -20,17 +20,14 @@ sections:
     grid_items:
       - title: Préparation du contenu
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Identification des requêtes
 
+          *   Définition de la structure
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Recherche de mots clés
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Définition de la ligne éditoriale
         content_align: left
         actions: []
         actions_align: left

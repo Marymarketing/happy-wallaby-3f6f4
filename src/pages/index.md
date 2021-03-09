@@ -279,7 +279,7 @@ sections:
         media_width: thirty-three
         actions:
           - label: Prendre rendez-vous
-            url: lorem-ipsum
+            url: /contact
             style: primary
             has_icon: false
             icon: arrow-left

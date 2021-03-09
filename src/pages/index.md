@@ -62,7 +62,7 @@ sections:
         title_align: center
         actions_width: auto
         image_has_padding: false
-        content_align: center
+        content_align: left
         content: |
           Audit de votre site web
 

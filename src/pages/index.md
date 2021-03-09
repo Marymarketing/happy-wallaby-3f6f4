@@ -366,7 +366,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Community Manager
+      - title: Community management
         subtitle: lorem-ipsum
         title_align: left
         content: >-

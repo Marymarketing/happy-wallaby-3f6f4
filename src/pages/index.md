@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/redaction.png
+      - image: images/beige-parsley.png
         image_alt: Contentful logo
         image_align: center
         title_align: center

@@ -40,17 +40,14 @@ sections:
         type: grid_item
       - title: Production du contenu
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Identifier la cible
 
+          *   Définir les objectifs
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Choisir les bonnes longues traines
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *
         content_align: left
         actions: []
         actions_align: left

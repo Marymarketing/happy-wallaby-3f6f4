@@ -320,7 +320,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/marvelous-artichoke.svg
+        image: images/best-kangaroo.svg
       - title: Community management
         title_align: left
         content: >

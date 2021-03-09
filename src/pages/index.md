@@ -327,7 +327,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: De précises solutions sur le contenu SEO
-    subtitle: lorem-ipsum
+    subtitle: Qu'est
     actions: []
     grid_items: []
     grid_cols: three

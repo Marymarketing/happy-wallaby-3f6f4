@@ -99,11 +99,13 @@ sections:
           Aujourd'hui, la rédaction web est primordiale lors de la création ou
           la mise à jour de votre site internet.
         content: >
-          Le contenue éditoriale est aussi important car sans cela, vous ne
-          pourrez pas vendre correctement vos produits ou services. Vous pouvez
-          vous débrouillez et essayer d'optimiser votre contenue SEO. Mais en
-          faisant appel à une professionnelle, vous avez la garantie d'un
-          travail de qualité et d'expertise.
+          Le **contenue éditoriale** est aussi important car sans cela, **vous
+          ne pourrez pas vendre** correctement vos produits ou services.
+
+
+          Vous pouvez vous débrouillez et essayer d'optimiser votre contenue
+          SEO. Mais en faisant appel à une **professionnelle**, vous avez la
+          garantie d'un travail de **qualité** et **d'expertise**.
         actions: []
         image_alt: lorem-ipsum
         media_position: top

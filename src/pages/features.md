@@ -96,7 +96,9 @@ sections:
     subtitle: 'Une professionnelle du contenu web, est-ce utile ?'
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Aujourd'hui, la rédaction web est primordiale lors de la création ou
+          la mise à jour de votre site internet.
         content: >-
           ## Lorem ipsum
 
@@ -110,9 +112,6 @@ sections:
           - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
         align: left

@@ -181,9 +181,9 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          Après avoir trouvée des mots clés et des longues traines pertinente,
-          j'utilise le logiciel "1.fr" afin d'enrichir le champ lexical du
-          contenu.  
+          Après avoir trouvée des **mots clés** et des **longues traines**
+          pertinente, j'utilise le logiciel "**1.fr**" afin d'enrichir le champ
+          lexical du contenu.
         content_align: left
         actions: []
         actions_align: left

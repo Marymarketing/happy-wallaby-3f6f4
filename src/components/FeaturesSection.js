@@ -29,7 +29,8 @@ export default class FeaturesSection extends React.Component {
             		)}
             		{_.get(section, 'title', null) && (
             		<h2 className="section__title mt-0">{_.get(section, 'title', null)}</h2>
-            		<!-- Début de widget en ligne Calendly -->)}
+                    <!-- Début de widget en ligne Calendly -->
+                    )}
             	</div>
             	)}
             	{_.get(section, 'features', null) && (

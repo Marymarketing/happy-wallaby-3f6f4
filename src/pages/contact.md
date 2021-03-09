@@ -52,7 +52,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Envie d'échanger ?
-    subtitle: lorem-ipsum
+    subtitle: Réservez un rendez
     features: []
     feature_padding_vert: medium
     align: center

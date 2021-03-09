@@ -61,8 +61,10 @@ sections:
         title_align: left
         content: >
           Trouver un bon sujet pour **un article de blog**, c’est primordiale.
+
+
           Grâce à des **outils sémantiques**, il m'est possible de vous
-          concocter un ou plusieurs articles avec des sujets pertinant.
+          concocter un ou plusieurs articles avec des sujets pertinent.
 
 
           Effectivement, une bonne position est assuré par Google pour les sites

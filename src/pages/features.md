@@ -8,7 +8,7 @@ sections:
     subtitle: Soyez dans le top Google
     actions:
       - label: Contactez-moi
-        url: lorem-ipsum
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left

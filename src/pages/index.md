@@ -42,7 +42,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         title_align: center
-        image_width: fifty
+        image_width: twenty-five
         image_position: top
         image_has_padding: false
         content: |

@@ -2,7 +2,7 @@
 sections:
   - type: hero_section
     background_color: primary
-    align: right
+    align: left
   - features:
       - content: >
           C’est assez simple : il se charge de tout l'étendue d’un site

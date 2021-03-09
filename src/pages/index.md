@@ -416,7 +416,7 @@ sections:
         type: grid_item
     grid_cols: two
     grid_gap_vert: large
-    grid_gap_horiz: large
+    grid_gap_horiz: medium
     enable_cards: false
     align: center
     padding_top: medium

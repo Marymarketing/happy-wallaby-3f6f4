@@ -180,17 +180,10 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Après avoir trouvée des mots clés et des longues traines pertinente,
+          j'utilise le logiciel "1.fr" afin d'enrichir le champ lexical du
+          contenu.  
         content_align: left
         actions: []
         actions_align: left

@@ -177,7 +177,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-        image: images/4.2.png
+        image: images/Fichier 4.svg
     title: Mes 4 étapes pour faire de la rédaction web
   - type: cta_section
     title: Demandez un devis

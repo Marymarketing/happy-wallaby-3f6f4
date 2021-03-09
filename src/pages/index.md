@@ -274,17 +274,9 @@ sections:
     grid_items:
       - title: Stratégie de contenu
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Mettre en avant votre contenu, vos produit et vos points fort en
+          créant du contenu adapté
         content_align: left
         actions: []
         actions_align: left

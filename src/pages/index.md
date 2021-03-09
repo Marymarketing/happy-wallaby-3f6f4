@@ -289,7 +289,6 @@ sections:
         type: grid_item
         image: images/caring-tortoise.svg
       - title: Rédaction web
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

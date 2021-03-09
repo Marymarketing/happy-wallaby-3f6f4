@@ -61,17 +61,14 @@ sections:
       - title: Optimisation SEO
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Structuration du contenue
 
+          *   Amélioration des mots clés
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Liaison de contenue
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Proposition de contenue externe
         content_align: left
         actions: []
         actions_align: left

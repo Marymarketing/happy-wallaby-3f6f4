@@ -370,7 +370,7 @@ sections:
     padding_top: large
     align: left
     feature_padding_vert: large
-    padding_bottom: none
+    padding_bottom: large
 seo:
   title: Features
   description: This is the features page

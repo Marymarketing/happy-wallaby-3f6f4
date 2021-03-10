@@ -400,9 +400,9 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Je me suis formé à la rédaction web avec Mary. Formation en quelques
+          heures, tout était très bien expliqué.
 
 
           **Gordon Norman,** *Web Designer, Studio*

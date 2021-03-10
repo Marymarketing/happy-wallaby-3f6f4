@@ -370,9 +370,9 @@ sections:
   - type: grid_section
     title: Temoignages
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Mary m'a apportée son analyse de contenu SEO et à corriger quelques
+          problème d'optimisation. Merci à elle, mon site est plus visible.
 
 
           **Hanson Deck,** *App Developer, Studio*

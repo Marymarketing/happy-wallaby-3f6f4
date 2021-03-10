@@ -21,13 +21,13 @@
                 "style": "link"
             },
             {
-                "label": "À propos",
-                "url": "/about",
+                "label": "Mon blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Mon blog",
-                "url": "/blog",
+                "label": "À propos",
+                "url": "/about",
                 "style": "link"
             }
         ],

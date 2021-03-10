@@ -323,8 +323,9 @@ sections:
       - title: Community management
         title_align: left
         content: >
-          La gestion d'une marque ou organisation sur les réseaux est devenue
-          nécessaire aujourd'hui. C'est le rôle du CM !
+          La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
+          **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle
+          en tant que **CM**.
         content_align: left
         actions: []
         actions_align: left

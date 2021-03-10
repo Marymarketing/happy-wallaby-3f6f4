@@ -392,7 +392,7 @@ sections:
         image_width: twenty-five
       - content: >
           J'ai fais appelle à Mary Marketing pour une rédaction de quelques
-          mots. Très satisfaite.
+          mots. Très satisfaite du travail.
 
 
           **Eleanor Carr,** *CTO, Studio*

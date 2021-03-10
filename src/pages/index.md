@@ -339,10 +339,9 @@ sections:
         image: images/fabulous-onion.svg
       - title: Formation rédaction web
         title_align: left
-        content: >+
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+        content: >
+          Vous avez la possibilité de me demander une formation **clair et
+          concise **pour que vous soyez votre propre** rédacteur web **!
         content_align: left
         actions: []
         actions_align: left

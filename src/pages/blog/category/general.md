@@ -35,7 +35,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Ton adresse mail
+        default_value: Votre adresse mail
         is_required: true
     submit_label: S'abonner
     padding_top: medium

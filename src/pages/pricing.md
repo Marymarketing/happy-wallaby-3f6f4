@@ -107,12 +107,10 @@ sections:
           Je me réfère au prix moyen d'un contenu ou au prix moyen d'un mot afin
           de m'aligner sur le marcher et vous proposer ds prix juste.
       - title: Travaillez- vous avec une équipe ?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Je travail en collaboration avec un web marketing. Mais je suis la
+          seul en charge de rédiger du contenu seo et de l'optimisation de ce
+          contenu.
       - title: Quelles sont vos diplômes ?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.

@@ -100,7 +100,8 @@ sections:
       - title: Combien de temps faut-il pour écrire un article ?
         content: >
           Cela dépend de la taille de l'article, du thème, de la deadline aussi
-          mais surtout du nombre de mot souhaité.
+          mais surtout du nombre de mot souhaité. Mais cela peut varier entre
+          une demi journée à 2 jours.
       - title: Comment fixez-vous les prix ?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut

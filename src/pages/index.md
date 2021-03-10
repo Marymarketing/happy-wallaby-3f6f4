@@ -306,10 +306,9 @@ sections:
         image: images/panoramic-mars.svg
       - title: Cocon sémentique
         title_align: left
-        content: >+
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+        content: >
+          Pour un référencement de qualité. L'optimisation de l'architecture SEO
+          : maillage interne et contenu éditorial, c'est primordial.
         content_align: left
         actions: []
         actions_align: left

@@ -391,8 +391,8 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Mary à une belle plume. J'ai fais appelle à elle pour une rédaction de
-          quelques mots. Très satisfaite.
+          J'ai fais appelle à Mary Marketing pour une rédaction de quelques
+          mots. Très satisfaite.
 
 
           **Eleanor Carr,** *CTO, Studio*

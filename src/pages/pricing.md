@@ -98,10 +98,9 @@ sections:
     title: FAQ
     grid_items:
       - title: Combien de temps faut-il pour écrire un article ?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Cela dépend de la taille de l'article, du thème, de la deadline aussi
+          mais surtout du nombre de mot souhaité.
       - title: Comment fixez-vous les prix ?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut

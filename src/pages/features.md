@@ -166,7 +166,7 @@ sections:
         title: En quoi consiste le job d'un rédacteur web ?
     feature_padding_vert: medium
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: none
     has_border: false
     background_color: none

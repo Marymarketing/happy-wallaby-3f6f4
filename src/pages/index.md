@@ -307,8 +307,8 @@ sections:
       - title: Cocon sémentique
         title_align: left
         content: >
-          Pour un référencement de qualité. L'optimisation de l'architecture SEO
-          : maillage interne et contenu éditorial, c'est primordial.
+          Pour un référencement de qualité. L'optimisation de **l'architecture
+          SEO** : maillage interne et contenu éditorial, c'est primordial.
         content_align: left
         actions: []
         actions_align: left

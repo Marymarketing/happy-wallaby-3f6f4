@@ -275,8 +275,8 @@ sections:
       - title: Stratégie de contenu
         title_align: left
         content: >
-          Mettre en avant votre contenu, vos produit et vos points fort en
-          créant du contenu adapté
+          Mettre en avant votre contenu, **vos produit** et **vos points fort**
+          en créant du **contenu adapté**
         content_align: left
         actions: []
         actions_align: left

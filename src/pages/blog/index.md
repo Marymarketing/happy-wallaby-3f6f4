@@ -24,7 +24,7 @@ sections:
     title: Inscrivez-vous
     title_align: center
     content: |
-      Pour ne par louper un seul article, inscrivez vous a ma newsletter !
+      Pour ne par louper un seul article, inscrivez vous à ma newsletter !
     content_align: center
     form_position: bottom
     form_layout: inline

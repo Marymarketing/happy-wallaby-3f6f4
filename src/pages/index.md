@@ -323,8 +323,8 @@ sections:
       - title: Community management
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          La gestion d'une marque ou organisation sur les réseaux est devenue
+          nécessaire aujourd'hui. C'est le rôle du CM !
         content_align: left
         actions: []
         actions_align: left

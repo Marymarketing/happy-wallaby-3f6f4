@@ -342,7 +342,6 @@ sections:
         content: >
           Vous avez la possibilité de me demander une formation **clair et
           concise** pour que vous soyez votre propre **rédacteur web** !
-          Contactez moi.
         content_align: left
         actions: []
         actions_align: left

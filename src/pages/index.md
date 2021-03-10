@@ -390,9 +390,9 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Mary à une belle plume. J'ai fais appelle à elle pour une rédaction de
+          quelques mots. Très satisfaite.
 
 
           **Eleanor Carr,** *CTO, Studio*

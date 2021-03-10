@@ -67,7 +67,7 @@
                 "style": "link"
             },
             {
-                "label": "Tout les articles",
+                "label": "Tout mes articles",
                 "url": "/blog/category/general",
                 "style": "link"
             }

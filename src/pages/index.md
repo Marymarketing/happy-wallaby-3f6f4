@@ -291,8 +291,8 @@ sections:
       - title: Rédaction web
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua
+          Que ce soit des articles de blog, des descriptions de produit, des
+          e-books ou des livres blanc.. je peux tout réaliser.
         content_align: left
         actions: []
         actions_align: left

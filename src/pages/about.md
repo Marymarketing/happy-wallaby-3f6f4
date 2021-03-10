@@ -9,7 +9,7 @@ sections:
     features:
       - title: Petite présentation
         content: >
-          Mary Marketing c'est Marylène, rédactrice web depuis 25 ans.
+          Mary Marketing c'est Marylène, rédactrice web.
 
 
           Intéressée par l'écriture et l'art des mots j'ai décider de mettre mes

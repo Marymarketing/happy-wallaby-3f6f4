@@ -112,11 +112,15 @@ sections:
           seul en charge de rédiger du contenu seo et de l'optimisation de ce
           contenu.
       - title: Quelles sont vos diplômes ?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          J'ai une formation de rédactrice web depuis janviers 2021. Auparavant
+          j'ai une formation d'assistante de direction et de cheffe de projet
+          évènementiel.
+
+
+          Je suis un grande curieuse de tout les domaine mais particulièrement
+          dans le milieu du digitale. Je connais donc depuis des années les
+          travers et aboutissant de ce monde.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

@@ -291,6 +291,7 @@ sections:
     align: center
     background_color: none
     padding_bottom: large
+    padding_top: large
   - type: cta_section
     title: Demandez un devis
     actions:

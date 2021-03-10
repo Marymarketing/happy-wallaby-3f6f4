@@ -3,7 +3,7 @@ title: News
 sections:
   - type: hero_section
     title: Nouveautés
-    subtitle: The optional subtitle
+    subtitle: Les articles les plus récent
     align: center
     padding_top: medium
     padding_bottom: none

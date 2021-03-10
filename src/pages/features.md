@@ -290,7 +290,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    padding_bottom: medium
+    padding_bottom: large
   - type: cta_section
     title: Demandez un devis
     actions:

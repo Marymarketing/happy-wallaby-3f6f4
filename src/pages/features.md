@@ -290,6 +290,18 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: cta_section
+    title: Demandez un devis
+    actions:
+      - label: Par ici !
+        url: /pricing
+        style: primary
+    actions_position: right
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
   - type: features_section
     features:
       - title: Stratégie des mots clé
@@ -356,18 +368,6 @@ sections:
     padding_top: none
     align: left
     feature_padding_vert: large
-  - type: cta_section
-    title: Demandez un devis
-    actions:
-      - label: Par ici !
-        url: /pricing
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 seo:
   title: Features
   description: This is the features page

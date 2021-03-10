@@ -116,9 +116,9 @@ sections:
           J'ai une formation de rédactrice web depuis janvier 2021.
 
 
-          Je suis un grande curieuse de tout les domaine mais particulièrement
-          dans le milieu du digitale. Je connais donc depuis des années les
-          travers et aboutissant de ce monde.
+          Je suis un grande curieuse dans tout les domaine, mais
+          particulièrement dans le milieu du digitale. Je connais donc depuis
+          des années les travers et aboutissant de ce monde.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

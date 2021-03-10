@@ -380,9 +380,9 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Elle connait bien le domaine. Très professionnelle, Mary marketing est
+          à l'écoute de nos attentes.
 
 
           **Miles Tone,** *CEO, Studio*

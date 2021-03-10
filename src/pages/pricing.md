@@ -113,7 +113,7 @@ sections:
           contenu.
       - title: Quelles sont vos diplômes ?
         content: >
-          J'ai une formation de rédactrice web depuis janviers 2021. 
+          J'ai une formation de rédactrice web depuis janvier 2021.
 
 
           Je suis un grande curieuse de tout les domaine mais particulièrement

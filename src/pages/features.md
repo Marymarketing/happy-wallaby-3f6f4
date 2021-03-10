@@ -365,7 +365,7 @@ sections:
         type: feature
         image: images/Fichier 4.svg
     title: Mes 4 étapes pour faire de la rédaction web
-    padding_top: medium
+    padding_top: large
     align: left
     feature_padding_vert: large
 seo:

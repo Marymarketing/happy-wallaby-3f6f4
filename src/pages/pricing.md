@@ -103,10 +103,9 @@ sections:
           mais surtout du nombre de mot souhaité. Mais cela peut varier entre
           une demi journée à 2 jours.
       - title: Comment fixez-vous les prix ?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Je me réfère au prix moyen d'un contenu ou au prix moyen d'un mot afin
+          de m'aligner sur le marcher et vous proposer ds prix juste.
       - title: Travaillez- vous avec une équipe ?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla

@@ -196,7 +196,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/classic/icon-3.svg
+        image: images/lien picto.svg
         title: Champ sémantique
       - title: Contenu exclusif
         title_align: left

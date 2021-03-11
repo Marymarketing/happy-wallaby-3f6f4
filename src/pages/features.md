@@ -136,7 +136,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
     actions_position: bottom
     actions_width: fourty

@@ -94,8 +94,8 @@ sections:
 
 
       Pour en savoir plus sur la gestion de vos données personnelles et pour
-      exercer vos droits, reportez-vous à la notice ci-jointe ou consultez le
-      site cnil.fr.
+      exercer vos droits, reportez-vous à la notice
+      [ci-jointe](/privacy-policy).
     actions: []
     actions_position: bottom
     actions_width: fourty

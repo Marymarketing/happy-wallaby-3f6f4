@@ -47,17 +47,7 @@ sections:
           - Partenariat
           - Demande de devis
           - Erreur à signaler
-          - '0': l
-            '1': o
-            '2': r
-            '3': e
-            '4': m
-            '5': '-'
-            '6': i
-            '7': p
-            '8': s
-            '9': u
-            '10': m
+          - Autre
       - input_type: textarea
         name: message
         label: Message

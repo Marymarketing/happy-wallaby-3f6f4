@@ -36,7 +36,7 @@ sections:
       - input_type: email
         name: email
         label: Adresse mail
-        default_value: vOTRE ADRESSE MAIL
+        default_value: Votre adresse mail
         is_required: true
       - input_type: select
         name: subject

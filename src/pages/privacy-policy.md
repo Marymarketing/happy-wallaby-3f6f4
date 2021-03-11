@@ -21,23 +21,48 @@ seo:
       value: This is the privacy policy page
 template: page
 ---
+## Objet du traitement (finalité et base légale)
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+La société Mary Marketing, dont le siège est situé à CAEN (14 000), Rue de l'Engannerie, dispose d’un site internet de services rédaction web. Ce site permet de collecter via un formulaire les données personnelles à cette occasion sont enregistrées et traitées dans un fichier clients.
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+Ce fichier permet de :
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+*   Mener des opérations de marketing (fidélisation, promotions) et adresser des publicités par courriel auprès de nos clients qui ne s’y sont pas opposés ou qui l’ont accepté :
 
-### Morbi Egestas Ullamcorper Vulputate
+    *   Sur d’autres produits ou services proposés par la société. 
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+### Catégories de données
 
-### Donec Vitae Tincidunt Erat
+*   Identité : civilité, nom, prénom, numéro de téléphone, adresse électronique, données relatives à l’enregistrement sur des listes d’opposition.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+<!---->
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+*   Données nécessaires à la réalisation des actions de fidélisation et de prospection : historique des navigation sur notre site internet.
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+### Destinataires des données
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+*   Les services clients de la société Mary Marketing sont destinataires de l’ensemble des catégories de données.
+
+### Durée de conservation des données
+
+*   Données nécessaires à la réalisation des actions de fidélisation et à la prospection : pendant toute la durée de la relation commerciale et trois (3) ans à compter de la validation du formulaire de contact.
+
+<!---->
+
+*   Données concernant les listes d'opposition à recevoir de la prospection** :** trois (3) ans.
+
+### Vos droits
+
+Si vous ne souhaitez plus recevoir de publicité de la part de la société Mary Marketing (exercice du droit d’opposition ou retrait d’un consentement déjà donné), [**contactez-nous**](/contact)*.*
+
+Vous pouvez accéder aux données vous concernant, les rectifier ou les faire effacer. Vous disposez également d'un droit à la portabilité et d’un droit à la limitation du traitement de vos données (Consultez le site cnil.fr pour plus d’informations sur vos droits).
+
+Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez [**contactez-nous**](/contact).
+
+Société Mary Marketing
+
+Rue de l'Engannerie
+
+14 000 CAEN
+
+Si vous estimez, après avoir contacté la société Mary Marketing, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation en ligne à la CNIL.

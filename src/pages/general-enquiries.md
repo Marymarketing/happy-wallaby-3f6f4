@@ -3,7 +3,6 @@ title: Formulaire de contact
 sections:
   - type: hero_section
     title: Contactez-nous
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: medium

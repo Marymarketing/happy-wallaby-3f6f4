@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Merci !
     subtitle: >-
-      Thank you for contacting us. We will get back in touch with you soon. Have
-      a great day!
+      Merci de nous avoir contacter. Nous revenons vers toi bientôt. Passe une
+      bonne journée !
     actions:
       - label: Back to homepage
         url: /

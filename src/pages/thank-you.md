@@ -20,6 +20,5 @@ sections:
       href="https://giphy.com/gifs/alice-in-wonderland-thank-you-xIJLgO6rizUJi"></a></p>
     media_position: bottom
     media_width: fourty
-    background_image_position: left top
 template: advanced
 ---

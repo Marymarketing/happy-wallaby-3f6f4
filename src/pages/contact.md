@@ -101,7 +101,7 @@ sections:
     actions_width: fourty
     align: left
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: none
     background_image_opacity: 0

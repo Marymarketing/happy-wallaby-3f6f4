@@ -87,17 +87,15 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      **Mary Marketing **traite les données recueillies en utilisant votre
+      **adresse électronique** pour vous adresser des **publicités** concernant
+      ces services.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Pour en savoir plus sur la gestion de vos données personnelles et pour
+      exercer vos droits, reportez-vous à la notice ci-jointe ou consultez le
+      site cnil.fr.
     actions: []
     actions_position: bottom
     actions_width: fourty

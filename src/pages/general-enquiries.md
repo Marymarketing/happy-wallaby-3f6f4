@@ -54,9 +54,7 @@ sections:
         default_value: Rédigez votre message
       - input_type: checkbox
         name: consent
-        label: >-
-          Je suis d'accord pour que mes coordonnées soit stockées et utilisées à
-          des fin publicitaire.
+        label: "Je suis d'accord pour que Mary marketing utilise mes coordonnées soit stockées\_ à des fin publicitaire."
         is_required: true
     submit_label: Envoyer
     align_vert: top

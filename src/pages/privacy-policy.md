@@ -21,7 +21,7 @@ seo:
       value: This is the privacy policy page
 template: page
 ---
-## Objet du traitement (finalité et base légale)
+## Objet du traitement
 
 La société Mary Marketing, dont le siège est situé à CAEN (14 000), Rue de l'Engannerie, dispose d’un site internet de services rédaction web. Ce site permet de collecter via un formulaire les données personnelles à cette occasion sont enregistrées et traitées dans un fichier clients.
 
@@ -29,7 +29,7 @@ Ce fichier permet de :
 
 *   Mener des opérations de marketing (fidélisation, promotions) et adresser des publicités par courriel auprès de nos clients qui ne s’y sont pas opposés ou qui l’ont accepté :
 
-    *   Sur d’autres produits ou services proposés par la société. 
+    *   Sur d’autres produits ou services proposés par la société.
 
 ### Catégories de données
 
@@ -49,7 +49,7 @@ Ce fichier permet de :
 
 <!---->
 
-*   Données concernant les listes d'opposition à recevoir de la prospection** :** trois (3) ans.
+*   Données concernant les listes d'opposition à recevoir de la prospection\*\* :\*\* trois (3) ans.
 
 ### Vos droits
 

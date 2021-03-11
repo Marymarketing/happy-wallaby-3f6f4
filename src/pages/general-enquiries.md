@@ -12,14 +12,13 @@ sections:
       ## Confidentialité
 
 
-      **Mary Marketing** traite les données recueillies en utilisant votre
-      **adresse électronique** pour vous adresser des **publicités** concernant
-      ces services.
+      Mary Marketing traite les données recueillies en utilisant votre adresse
+      électronique pour vous adresser des publicités concernant ces services.
 
 
       Pour en savoir plus sur la gestion de vos données personnelles et pour
       exercer vos droits, reportez-vous à la notice
-      [ci-jointe](/privacy-policy).
+      [**ci-jointe**](/privacy-policy).
     content_align: left
     form_position: right
     form_width: fifty

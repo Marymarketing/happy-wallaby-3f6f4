@@ -5,7 +5,7 @@ sections:
     actions:
       - url: /features
         style: primary
-        label: Allons-y !
+        label: Demander un devis
         icon_position: center
         icon: arrow-left
         has_icon: false

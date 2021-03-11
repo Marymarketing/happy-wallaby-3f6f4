@@ -55,9 +55,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Nous collectons ces données afin de vous adresser des publicités
-          concernant nos sevices. Si vous ne souhaitez pas recevoir de telles
-          sollicitations, cochez la case ci-dessous :
+          Je suis d'accord pour que mes coordonnée soit stocké et utilisé à des
+          fin publicitaire.
         is_required: true
     submit_label: Send Message
     align_vert: top

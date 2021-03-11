@@ -1,5 +1,5 @@
 ---
-title: Contactez nous
+title: Contactez-nous
 sections:
   - type: hero_section
     title: This is the Hero

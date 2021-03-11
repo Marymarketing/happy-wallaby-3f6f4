@@ -159,7 +159,7 @@ sections:
           concerne la stratégie marketing à mettre en place pour atteindre vos
           objectifs.**
         actions:
-          - label: Learn More
+          - label: En savoir plus
             url: /style-guide
             style: primary
             has_icon: true

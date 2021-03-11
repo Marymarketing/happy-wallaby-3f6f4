@@ -40,7 +40,7 @@ sections:
         is_required: true
       - input_type: select
         name: Objet
-        label: Subject
+        label: Objet
         default_value: Please select
         options:
           - Partenariat

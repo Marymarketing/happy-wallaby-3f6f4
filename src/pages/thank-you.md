@@ -17,18 +17,7 @@ sections:
       href="https://giphy.com/gifs/alice-in-wonderland-thank-you-xIJLgO6rizUJi"></a></p>
     media_position: bottom
     media_width: fourty
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
+  - actions: []
     actions_position: bottom
     actions_width: fourty
     align: left

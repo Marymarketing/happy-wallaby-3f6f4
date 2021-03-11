@@ -20,7 +20,7 @@ sections:
       exercer vos droits, reportez-vous à la notice
       [**ci-jointe**](/privacy-policy).
     content_align: left
-    form_position: right
+    form_position: top
     form_width: fifty
     form_layout: inline
     enable_card: true

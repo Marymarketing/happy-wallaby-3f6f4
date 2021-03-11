@@ -15,7 +15,7 @@ sections:
     background_color: none
     video_embed_html: >-
       <iframe src="https://giphy.com/embed/trGtPJai2xwI" width="480"
-      height="349" frameBorder="2" class="giphy-embed"
+      height="349" frameBorder="0" class="giphy-embed"
       allowFullScreen></iframe><p><a
       href="https://giphy.com/gifs/80s-design-illustration-trGtPJai2xwI"></a></p>
     media_position: bottom

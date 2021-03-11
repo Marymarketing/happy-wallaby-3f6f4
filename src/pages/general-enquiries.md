@@ -39,7 +39,7 @@ sections:
         default_value: Votre adresse mail
         is_required: true
       - input_type: select
-        name: subject
+        name: Objet
         label: Subject
         default_value: Please select
         options:

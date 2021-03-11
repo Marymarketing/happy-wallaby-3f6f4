@@ -96,7 +96,16 @@ sections:
       Pour en savoir plus sur la gestion de vos données personnelles et pour
       exercer vos droits, reportez-vous à la notice ci-jointe ou consultez le
       site cnil.fr.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_position: bottom
     actions_width: fourty
     align: left

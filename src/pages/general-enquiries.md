@@ -55,11 +55,9 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Nous collectons ces données afin de gérer votre commande. Nous
-          utilisons également votre adresse électronique pour vous adresser des
-          publicités concernant des produits analogues à ceux que vous
-          commandez. Si vous ne souhaitez pas recevoir de telles sollicitations,
-          cochez la case ci-dessous :
+          Nous collectons ces données afin de vous adresser des publicités
+          concernant nos sevices. Si vous ne souhaitez pas recevoir de telles
+          sollicitations, cochez la case ci-dessous :
         is_required: true
     submit_label: Send Message
     align_vert: top

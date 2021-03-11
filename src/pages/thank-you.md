@@ -13,6 +13,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    video_embed_html: 'https://media.giphy.com/media/trGtPJai2xwI/giphy.mp4'
+    video_embed_html: 'https://media.giphy.com/media/trGtPJai2xwI/source.gif'
 template: advanced
 ---

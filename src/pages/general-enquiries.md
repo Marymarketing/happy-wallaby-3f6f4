@@ -35,7 +35,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: Adresse mail
         default_value: Your email address
         is_required: true
       - input_type: select

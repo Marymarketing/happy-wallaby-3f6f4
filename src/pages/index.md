@@ -418,7 +418,7 @@ sections:
   - type: blog_feed_section
     title: Mes articles
     actions:
-      - label: Voir tout les articles
+      - label: Voir tout mes articles
         url: /blog
         style: primary
     blog_feed_cols: three

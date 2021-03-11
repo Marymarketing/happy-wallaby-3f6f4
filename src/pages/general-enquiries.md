@@ -58,7 +58,6 @@ sections:
           Je suis d'accord pour que mes coordonnées soit stockées et utilisées à
           des fin publicitaire.
         is_required: true
-        default_value: cds
     submit_label: Send Message
     align_vert: top
     padding_top: medium

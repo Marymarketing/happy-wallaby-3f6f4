@@ -7,7 +7,7 @@ sections:
       Merci de nous avoir contacté. Nous revenons vers vous bientôt. Passez une
       bonne journée !
     actions:
-      - label: lorem-ipsum
+      - label: Retour à la page d'accueil
         url: lorem-ipsum
         style: link
         has_icon: false

@@ -18,5 +18,6 @@ sections:
       height="349" frameBorder="0" class="giphy-embed"
       allowFullScreen></iframe><p><a
       href="https://giphy.com/gifs/80s-design-illustration-trGtPJai2xwI"></a></p>
+    media_position: bottom
 template: advanced
 ---

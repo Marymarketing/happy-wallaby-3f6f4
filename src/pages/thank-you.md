@@ -17,7 +17,7 @@ sections:
         no_follow: false
         type: action
     align: center
-    padding_bottom: none
+    padding_bottom: large
     background_color: none
     media_position: bottom
     media_width: fourty

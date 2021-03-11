@@ -29,7 +29,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: 'Prénom, nom'
+        name: Nom et prénom
         label: Prénom
         default_value: Votre nom et prénom
         is_required: true

@@ -7,7 +7,7 @@ sections:
       Merci de nous avoir contacter. Nous revenons vers toi bientôt. Passe une
       bonne journée !
     actions:
-      - label: Back to homepage
+      - label: Retour à la page d'accueil
         url: /
         style: primary
     align: center

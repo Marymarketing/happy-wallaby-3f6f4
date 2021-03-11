@@ -448,7 +448,7 @@ seo:
       value: Rédactrice Web
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Faites appel à moi pour tout vos projets SEO.
       keyName: property
     - name: 'og:image'
       value: /images/Fichier%203@4x.png

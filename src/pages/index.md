@@ -11,7 +11,7 @@ sections:
         has_icon: false
         no_follow: true
       - label: Décrouvez mon blog
-        url: lorem-ipsum
+        url: /blog
         style: primary
         has_icon: true
         icon: arrow-right

@@ -2,7 +2,7 @@
 title: Formulaire de contact
 sections:
   - type: hero_section
-    title: This is the Hero
+    title: Contactez-nous
     subtitle: The optional subtitle
     align: center
     padding_top: medium

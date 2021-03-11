@@ -13,6 +13,11 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-    video_embed_html: 'https://media.giphy.com/media/trGtPJai2xwI/source.gif'
+    video_embed_html: >-
+      <iframe src="https://giphy.com/embed/trGtPJai2xwI" width="480"
+      height="349" frameBorder="0" class="giphy-embed"
+      allowFullScreen></iframe><p><a
+      href="https://giphy.com/gifs/80s-design-illustration-trGtPJai2xwI">via
+      GIPHY</a></p>
 template: advanced
 ---

@@ -58,7 +58,7 @@ export default class CtaSection extends React.Component {
                 			</div>
                 			)}
                 			{has_actions && (
-                			<div className={classNames('cta__actions', 'my-1', 'cell-10', {'cell-md-5': (is_horiz && has_text) && (actions_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (actions_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (actions_width === 'sixty'), 'order-md-first': has_actions && (actions_pos === 'left'), 'order-first': has_actions && (actions_pos === 'top')})}>
+                			<div className={classNames('cta__actions', 'my-1', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (actions_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (actions_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (actions_width === 'sixty'), 'order-md-first': has_actions && (actions_pos === 'left'), 'order-first': has_actions && (actions_pos === 'top')})}>
                 				<div className={classNames('cta__actions', 'btn-group', {'justify-md-center': is_horiz, 'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
                 					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                 				</div>

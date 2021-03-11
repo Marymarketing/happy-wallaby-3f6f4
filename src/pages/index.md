@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - url: /features
+      - url: /contact
         style: primary
         label: Contactez-moi
         icon_position: center

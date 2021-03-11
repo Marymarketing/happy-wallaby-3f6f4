@@ -55,8 +55,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Je suis d'accord pour que mes coordonnées soit stocké et utilisé à des
-          fin publicitaire.
+          Je suis d'accord pour que mes coordonnées soit stockées et utilisé à
+          des fin publicitaire.
         is_required: true
     submit_label: Send Message
     align_vert: top

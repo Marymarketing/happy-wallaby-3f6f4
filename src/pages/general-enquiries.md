@@ -9,12 +9,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ###
-
-
-
-
-      Confidentialité
+      ## Confidentialité
 
 
       **Mary Marketing** traite les données recueillies en utilisant votre

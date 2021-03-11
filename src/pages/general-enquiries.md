@@ -41,7 +41,7 @@ sections:
       - input_type: select
         name: Objet
         label: Objet
-        default_value: Please select
+        default_value: Choisissez
         options:
           - Partenariat
           - Demande de devis

@@ -1,5 +1,5 @@
 ---
-title: Contactez-nous
+title: Formulaire de contact
 sections:
   - type: hero_section
     title: This is the Hero

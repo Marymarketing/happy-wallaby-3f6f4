@@ -461,7 +461,7 @@ seo:
     - name: 'twitter:description'
       value: Faites appel à moi pour tout vos projets SEO.
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/Fichier%203@4x.png
       relativeUrl: true
 template: advanced
 ---

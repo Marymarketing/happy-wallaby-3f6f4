@@ -8,7 +8,7 @@ sections:
       bonne journée !
     actions:
       - label: Retour à la page d'accueil
-        url: lorem-ipsum
+        url: /
         style: link
         has_icon: false
         icon: arrow-left

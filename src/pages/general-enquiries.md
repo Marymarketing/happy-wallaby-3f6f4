@@ -19,7 +19,7 @@ sections:
       Pour en savoir plus sur la gestion de vos données personnelles et pour
       exercer vos droits, reportez-vous à la notice
       [**ci-jointe**](/privacy-policy).
-    content_align: left
+    content_align: center
     form_position: top
     form_width: fifty
     form_layout: inline

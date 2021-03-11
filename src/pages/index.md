@@ -5,7 +5,7 @@ sections:
     actions:
       - url: /features
         style: primary
-        label: Demander un devis
+        label: Contactez-moi
         icon_position: center
         icon: arrow-left
         has_icon: false

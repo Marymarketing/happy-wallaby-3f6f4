@@ -10,7 +10,7 @@ sections:
       - label: Retour à la page d'accueil
         url: /
         style: primary
-    align: center
+    align: right
     padding_bottom: large
     background_color: none
     video_embed_html: >-

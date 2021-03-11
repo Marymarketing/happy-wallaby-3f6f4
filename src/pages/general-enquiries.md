@@ -46,7 +46,7 @@ sections:
         options:
           - Partenariat
           - Demande de devis
-          - Other
+          - Erreur à signaler
       - input_type: textarea
         name: message
         label: Message

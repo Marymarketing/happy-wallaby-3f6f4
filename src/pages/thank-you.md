@@ -8,7 +8,7 @@ sections:
       bonne journée !
     actions: []
     align: center
-    padding_bottom: large
+    padding_bottom: none
     background_color: none
     video_embed_html: >-
       <iframe src="https://giphy.com/embed/xIJLgO6rizUJi" width="400"

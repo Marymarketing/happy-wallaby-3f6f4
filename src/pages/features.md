@@ -130,7 +130,7 @@ sections:
       N'hésite plus
     actions:
       - label: Premier rendez-vous
-        url: lorem-ipsum
+        url: /contact
         style: primary
         has_icon: false
         icon: arrow-left

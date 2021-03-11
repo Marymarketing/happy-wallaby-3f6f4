@@ -58,7 +58,7 @@ sections:
           Je suis d'accord pour que mes coordonnées soit stockées et utilisées à
           des fin publicitaire.
         is_required: true
-    submit_label: Send Message
+    submit_label: Envoyer
     align_vert: top
     padding_top: medium
     padding_bottom: medium

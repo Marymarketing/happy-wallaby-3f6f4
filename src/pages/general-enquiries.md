@@ -31,7 +31,7 @@ sections:
       - input_type: text
         name: Prénom
         label: Prénom
-        default_value: Your name
+        default_value: Votre prénom
         is_required: true
       - input_type: email
         name: email

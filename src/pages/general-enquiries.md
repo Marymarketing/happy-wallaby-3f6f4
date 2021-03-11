@@ -55,8 +55,11 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Nous collectons ces données afin de gérer votre commande. Nous
+          utilisons également votre adresse électronique pour vous adresser des
+          publicités concernant des produits analogues à ceux que vous
+          commandez. Si vous ne souhaitez pas recevoir de telles sollicitations,
+          cochez la case ci-dessous :
         is_required: true
     submit_label: Send Message
     align_vert: top

@@ -459,7 +459,7 @@ seo:
     - name: 'twitter:title'
       value: Rédactrice Web
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Faites appel à moi pour tout vos projets SEO.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true

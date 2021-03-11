@@ -45,7 +45,7 @@ sections:
         default_value: Please select
         options:
           - Partenariat
-          - Sponsorship
+          - Demande de devis
           - Other
       - input_type: textarea
         name: message

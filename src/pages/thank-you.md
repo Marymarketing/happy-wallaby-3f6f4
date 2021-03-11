@@ -14,10 +14,10 @@ sections:
     padding_bottom: large
     background_color: none
     video_embed_html: >-
-      <iframe src="https://giphy.com/embed/trGtPJai2xwI" width="480"
-      height="349" frameBorder="0" class="giphy-embed"
+      <iframe src="https://giphy.com/embed/3o6ozuHcxTtVWJJn32" width="480"
+      height="480" frameBorder="0" class="giphy-embed"
       allowFullScreen></iframe><p><a
-      href="https://giphy.com/gifs/80s-design-illustration-trGtPJai2xwI"></a></p>
+      href="https://giphy.com/gifs/thanks-thank-you-thnx-3o6ozuHcxTtVWJJn32"></a></p>
     media_position: bottom
     media_width: fourty
 template: advanced

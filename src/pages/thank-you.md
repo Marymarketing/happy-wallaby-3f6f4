@@ -18,7 +18,7 @@ sections:
     media_position: bottom
     media_width: fourty
   - actions:
-      - label: lorem-ipsum
+      - label: Retour à la page d'accueil
         url: lorem-ipsum
         style: link
         has_icon: false

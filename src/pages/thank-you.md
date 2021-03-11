@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Merci !
     subtitle: >-
-      Merci de nous avoir contacter. Nous revenons vers toi bientôt. Passe une
+      Merci de nous avoir contacté. Nous revenons vers vous bientôt. Passez une
       bonne journée !
     actions: []
     align: center

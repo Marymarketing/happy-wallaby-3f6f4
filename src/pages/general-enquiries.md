@@ -30,7 +30,7 @@ sections:
     form_fields:
       - input_type: text
         name: 'Nom, prénom'
-        label: Prénom
+        label: 'Nom, prénom'
         default_value: Votre nom et prénom
         is_required: true
       - input_type: email

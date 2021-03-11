@@ -8,18 +8,18 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
+    content: >
+      ### Confidentialité
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
-      ### Privacy
+      **Mary Marketing** traite les données recueillies en utilisant votre
+      **adresse électronique** pour vous adresser des **publicités** concernant
+      ces services.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      Pour en savoir plus sur la gestion de vos données personnelles et pour
+      exercer vos droits, reportez-vous à la notice
+      [ci-jointe](/privacy-policy).
     content_align: left
     form_position: right
     form_width: fifty

@@ -160,7 +160,7 @@ sections:
           objectifs.**
         actions:
           - label: En savoir plus
-            url: /style-guide
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right

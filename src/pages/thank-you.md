@@ -2,7 +2,7 @@
 title: Merci
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Merci !
     subtitle: >-
       Thank you for contacting us. We will get back in touch with you soon. Have
       a great day!

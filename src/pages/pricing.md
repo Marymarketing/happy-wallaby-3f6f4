@@ -66,8 +66,6 @@ sections:
       - title: Taux journalier
         subtitle: Par jour
         title_align: left
-        content: |
-          **
         content_align: left
         actions:
           - label: Ça m'intéresse

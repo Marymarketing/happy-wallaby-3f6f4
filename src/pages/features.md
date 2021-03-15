@@ -165,6 +165,7 @@ sections:
         align: left
         type: feature
         title: En quoi consiste le job d'un rédacteur web ?
+        image: images/Processing-pana.png
     feature_padding_vert: medium
     align: center
     padding_top: large

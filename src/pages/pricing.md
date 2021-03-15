@@ -67,25 +67,7 @@ sections:
         subtitle: Par jour
         title_align: left
         content: |
-          ###
-
-          ### 60€\*
-
-          *   Article
-
-          *   Meta
-
-          *   Description
-
-          *   Livre blanc
-
-          *   Optimisation SEO
-
-          *   Recherche de mots clés
-
-          *   etc.
-
-          *à partir de \**
+          **
         content_align: left
         actions:
           - label: Ça m'intéresse

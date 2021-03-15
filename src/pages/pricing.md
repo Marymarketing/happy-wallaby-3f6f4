@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    image: images/Startup life-pana.png
   - type: grid_section
     grid_items:
       - title: Création

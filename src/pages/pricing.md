@@ -52,7 +52,7 @@ sections:
         content: |
           ***
 
-          ### 80€\*
+          ### 349€\*
 
           *   Fiche produit
 

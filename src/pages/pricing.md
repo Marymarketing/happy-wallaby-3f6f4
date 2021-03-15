@@ -38,7 +38,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Réécriture
-        subtitle: "≃\_300 mots"
+        subtitle: ≃ 1000 mots
         title_align: left
         content: |
           ***

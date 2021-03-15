@@ -39,30 +39,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Réécriture
-        subtitle: ≃ 1000 mots
-        title_align: left
-        content: |
-          ***
-
-          ### 60€\*
-
-          *   Article
-          *   Meta
-          *   Description
-          *   Livre blanc
-          *   Optimisation SEO
-          *   Recherche de mots clés
-          *   etc.
-
-          *à partir de \**
-        content_align: left
-        actions:
-          - label: Ça m'intéresse
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Taux journalier
         subtitle: Par jour
         title_align: left
@@ -93,6 +69,30 @@ sections:
           *   etc.
 
           *à partir de \**
+      - title: Réécriture
+        subtitle: ≃ 1000 mots
+        title_align: left
+        content: |
+          ***
+
+          ### 60€\*
+
+          *   Article
+          *   Meta
+          *   Description
+          *   Livre blanc
+          *   Optimisation SEO
+          *   Recherche de mots clés
+          *   etc.
+
+          *à partir de \**
+        content_align: left
+        actions:
+          - label: Ça m'intéresse
+            url: /features
+            style: primary
+        actions_align: left
+        actions_width: full-width
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small

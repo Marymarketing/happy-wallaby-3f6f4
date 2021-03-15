@@ -358,6 +358,8 @@ sections:
           son classement dans les résultats de moteurs de recherche.
 
 
+
+
           Cette étape ce fait avec l'amélioration des **balise TITLE** et **meta
           description** ainsi que les **balises ALT** (balise qui permet
           d’associer un ou plusieurs mots clés à vos images).

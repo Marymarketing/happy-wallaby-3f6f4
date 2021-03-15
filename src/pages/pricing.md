@@ -69,7 +69,7 @@ sections:
         content: |
           ###
 
-          60€\*
+          ### 60€\*
 
           *   Article
 

@@ -41,7 +41,7 @@ sections:
         actions_width: full-width
       - title: Taux journalier
         subtitle: Par jour
-        title_align: center
+        title_align: left
         content_align: left
         actions:
           - label: Ça m'intéresse

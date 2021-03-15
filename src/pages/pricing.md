@@ -74,6 +74,8 @@ sections:
         actions_align: left
         actions_width: full-width
         content: |
+          ###
+
           ### 60€\*&#xA;&#xA;
 
           *   Article

@@ -39,34 +39,6 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Taux journalier
-        subtitle: Par jour
-        title_align: left
-        content_align: left
-        actions:
-          - label: Ça m'intéresse
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
-        content: |
-          ***
-
-          ### 349€\*
-
-          *   Fiche produit
-
-          *   Meta Description
-
-          *   Livre blanc
-
-          *   Optimisation SEO
-
-          *   Recherche de mots clés
-
-          *   etc.
-
-          *à partir de\**
       - title: Réécriture
         subtitle: ≃ 1000 mots
         title_align: left
@@ -95,6 +67,34 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+      - title: Taux journalier
+        subtitle: Par jour
+        title_align: left
+        content_align: left
+        actions:
+          - label: Ça m'intéresse
+            url: /features
+            style: primary
+        actions_align: left
+        actions_width: full-width
+        content: |
+          ***
+
+          ### 349€\*
+
+          *   Fiche produit
+
+          *   Meta Description
+
+          *   Livre blanc
+
+          *   Optimisation SEO
+
+          *   Recherche de mots clés
+
+          *   etc.
+
+          *à partir de\**
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small

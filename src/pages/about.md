@@ -17,7 +17,7 @@ sections:
 
 
           Après une première prise de contact pour connaître vos souhaits,
-          j'établie un plan éditorial afin de vous permettre, même après mon
+          j'établis un plan éditorial afin de vous permettre, même après mon
           intervention, de continuer par vous même d'alimenter votre site
           internet.
         image: images/Messaging fun-pana.png

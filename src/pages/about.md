@@ -81,7 +81,7 @@ sections:
     has_border: false
     background_color: primary
   - actions: []
-    media_position: right
+    media_position: top
     media_width: fifty
     align: left
     padding_top: medium

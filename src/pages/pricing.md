@@ -43,7 +43,7 @@ sections:
         content: |
           ***
 
-          ### 100€\*
+          ### 60€\*
 
           *   Article
           *   Meta

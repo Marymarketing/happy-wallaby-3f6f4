@@ -16,7 +16,7 @@ sections:
         new_window: false
         no_follow: true
         type: action
-    image: images/Blogging.png
+    image: images/Blogging-pana.png
     media_position: right
     background_image_size: auto
   - actions: []

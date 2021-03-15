@@ -17,7 +17,7 @@ sections:
         no_follow: true
         type: action
     image: images/Blogging.png
-    media_position: right
+    media_position: left
     background_image_size: auto
   - actions: []
     grid_items:

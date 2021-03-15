@@ -73,6 +73,24 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
+        content: |
+          ### 60€\*&#xA;&#xA;
+
+          *   Article
+
+          *   Meta
+
+          *   Description
+
+          *   Livre blanc
+
+          *   Optimisation SEO
+
+          *   Recherche de mots clés
+
+          *   etc.
+
+          *à partir de \**
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small

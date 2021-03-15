@@ -81,7 +81,6 @@ sections:
     has_border: false
     background_color: primary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 

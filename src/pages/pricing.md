@@ -45,11 +45,11 @@ sections:
         content: |
           ***
 
-          ### 80€\*
+          ### 100€\*
 
-          *   Fiche produit
+          *   Article
 
-          *   Meta Description
+          *   Meta-description
 
           *   Livre blanc
 

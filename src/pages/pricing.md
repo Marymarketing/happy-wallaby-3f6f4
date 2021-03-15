@@ -67,9 +67,7 @@ sections:
         subtitle: Par jour
         title_align: left
         content: |
-
-
-          60€\*
+          ### 60€\*
 
           *   Article
 

@@ -42,7 +42,7 @@ sections:
       - title: Taux journalier
         subtitle: Par jour
         title_align: left
-        content_align: right
+        content_align: left
         actions:
           - label: Ça m'intéresse
             url: /features

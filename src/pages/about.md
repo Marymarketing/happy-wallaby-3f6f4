@@ -110,6 +110,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Online-pana.png
 seo:
   title: About
   description: This is the about us page

@@ -50,13 +50,13 @@ sections:
         actions_align: left
         actions_width: full-width
         content: |
-          ### 60€\*
+          ***
 
-          *   Article
+          ### 80€\*
 
-          *   Meta
+          *   Fiche produit
 
-          *   Description
+          *   Meta Description
 
           *   Livre blanc
 
@@ -66,7 +66,7 @@ sections:
 
           *   etc.
 
-          *à partir de \**
+          *à partir de\**
       - title: Réécriture
         subtitle: ≃ 1000 mots
         title_align: left

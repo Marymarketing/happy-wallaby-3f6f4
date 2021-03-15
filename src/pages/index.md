@@ -34,7 +34,7 @@ sections:
       Google pour promouvoir votre activité ?
 
     title: Rédactrice web SEO friendly
-    image: images/about-4.jpg
+    image: images/Blogging-pana.png
   - type: grid_section
     align: center
     grid_items:

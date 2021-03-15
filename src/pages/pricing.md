@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Création
-        subtitle: ≃ 300 mots
+        subtitle: ≃ 1000 mots
         title_align: left
         content: |
           ***

@@ -8,6 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
+    image: images/Search engines-pana.png
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true

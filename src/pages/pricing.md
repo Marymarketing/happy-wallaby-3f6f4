@@ -70,23 +70,8 @@ sections:
       - title: Réécriture
         subtitle: ≃ 1000 mots
         title_align: left
-        content:***
-
-          ### 80€\*
-
-          *   Fiche produit
-
-          *   Meta Description
-
-          *   Livre blanc
-
-          *   Optimisation SEO
-
-          *   Recherche de mots clés
-
-          *   etc.
-
-          *à partir de\**
+        content: |
+          \*\**###80€\**
         content_align: left
         actions:
           - label: Ça m'intéresse

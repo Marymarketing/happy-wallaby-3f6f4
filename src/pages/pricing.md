@@ -67,11 +67,13 @@ sections:
         subtitle: Par jour
         title_align: left
         content: |
-
+          ###
 
           ### 60€\*
 
-          Article
+
+
+          *   Article
 
           *   Meta
 

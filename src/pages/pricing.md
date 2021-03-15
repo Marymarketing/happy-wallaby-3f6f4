@@ -71,8 +71,6 @@ sections:
 
           ### 60€\*
 
-
-
           *   Article
 
           *   Meta

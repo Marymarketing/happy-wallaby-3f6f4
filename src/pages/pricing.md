@@ -67,15 +67,15 @@ sections:
         subtitle: Par jour
         title_align: left
         content: |
-          430€
+          60€\*
 
 
 
-          par jour
+          *   Article
 
-          *   Fiche produit
+          *   Meta
 
-          *   Meta Description
+          *   Description
 
           *   Livre blanc
 

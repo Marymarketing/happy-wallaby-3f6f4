@@ -18,7 +18,7 @@ sections:
         type: action
     image: images/Blogging-pana.png
     media_position: top
-    background_image_size: contain
+    background_image_size: auto
   - actions: []
     grid_items:
       - title: Préparation du contenu

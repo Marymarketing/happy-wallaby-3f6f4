@@ -43,6 +43,14 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/important-spinach.jpg
+    content: >
+      *Mary Marketing traite les données recueillies en utilisant votre adresse
+      électronique pour vous adresser des publicités concernant ces services.*
+
+
+      *Pour en savoir plus sur la gestion de vos données personnelles et pour
+      exercer vos droits, reportez-vous à la notice
+      *[*ci-jointe*](/privacy-policy)*.*
 seo:
   title: Contact
   description: This is the contact page

@@ -11,7 +11,7 @@ sections:
     image: images/Windows-pana.png
     media_position: right
     actions:
-      - label: '[ici](#installation)'
+      - label: '[S''abonner](#installation)'
         url: '#newsletterform'
         style: primary
         has_icon: false

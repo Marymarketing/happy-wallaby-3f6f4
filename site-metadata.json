@@ -37,7 +37,8 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "secondary",
+                "icon": "arrow-right"
             }
         ],
         "has_anncmnt": true,

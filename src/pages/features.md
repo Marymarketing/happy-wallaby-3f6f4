@@ -335,7 +335,7 @@ sections:
           efficace.
         media_position: right
         media_width: thirty-three
-        image: images/Fichier 2.svg
+        image: images/Typing-pana.png
         align: left
       - title: La richesse sémantique
         content: >

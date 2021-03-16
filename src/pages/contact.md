@@ -91,7 +91,7 @@ sections:
       <!-- Fin de widget de lien Calendly -->
     media_position: bottom
     media_width: fifty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false

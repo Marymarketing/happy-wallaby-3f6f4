@@ -36,7 +36,7 @@ sections:
     content: <a name="bouton-newsletter"></a>
     title: Inscrivez-vous
     title_align: center
-    content: >
+    content:
       Pour ne pas louper un seul article,
       abonne-toi à ma newsletter !
     content_align: center

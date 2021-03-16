@@ -17,6 +17,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/enthusiastic-anemone.png
+    subtitle: >-
+      je ne mords pas et je ne vous ferai pas signer un contrat à vie dès le
+      premier contact
   - title: >-
       Votre rédactrice web professionnelle et dévoué à votre projet sur le
       internet.

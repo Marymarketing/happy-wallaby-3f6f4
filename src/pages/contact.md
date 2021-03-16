@@ -1,6 +1,22 @@
 ---
 title: Contact
 sections:
+  - title: Votre rédacteur web dès maintenant ?
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: bottom
+    media_width: fifty
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/enthusiastic-anemone.png
   - title: >-
       Votre rédactrice web professionnelle et dévoué à votre projet sur le
       internet.
@@ -46,22 +62,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Votre rédacteur web dès maintenant ?
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: bottom
-    media_width: fifty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/enthusiastic-anemone.png
 seo:
   title: Contact
   description: This is the contact page

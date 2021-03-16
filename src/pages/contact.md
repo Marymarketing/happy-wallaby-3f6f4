@@ -46,9 +46,8 @@ sections:
     title: Une question ?
     subtitle: N'hésitez pas !
   - content: >
-      ***Mary Marketing** traite les données recueillies en utilisant votre
-      **adresse électronique** pour vous adresser des **publicités** concernant
-      ces services.*
+      *Mary Marketing traite les données recueillies en utilisant votre adresse
+      électronique pour vous adresser des publicités concernant ces services.*
 
 
       *Pour en savoir plus sur la gestion de vos données personnelles et pour

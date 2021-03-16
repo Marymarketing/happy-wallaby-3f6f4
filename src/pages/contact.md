@@ -2,17 +2,22 @@
 title: Contact
 sections:
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      N'hésitez pas à réservez votre rendez vous en complétant le formulaire
+      Calendly ci-joint.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Une date, un horaire, quelques questions et vous serez rappelé avec une
+      réponse dans les plus brefs délais !
 
 
-      - Lorem ipsum
 
-      - dolor sit amet
+      *Mary Marketing traite les données recueillies en utilisant votre adresse
+      électronique pour vous adresser des publicités concernant ces services.*
+
+
+      *Pour en savoir plus, reportez-vous à la notice
+      *[*ci-jointe*](/privacy-policy)*.*
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-

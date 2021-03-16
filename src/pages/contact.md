@@ -73,27 +73,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <!-- Début de widget en ligne Calendly --><div
-      class="calendly-inline-widget"
-      data-url="https://calendly.com/marymarketing-pro/contact"
-      style="min-width:320px;height:630px;"></div><script type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async></script><!-- Fin de widget en ligne Calendly -->
-    media_position: bottom
-    media_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: contain
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
 seo:
   title: Contact
   description: This is the contact page

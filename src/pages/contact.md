@@ -17,6 +17,10 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/enthusiastic-anemone.png
+    content: >
+      Rassurez-vous, je ne mords pas et je ne vous ferai pas signer un devis dès
+      le premier contact. Choissisez une vraie relation de confiance et tout ça
+      sans engagement !
   - title: >-
       Votre rédactrice web professionnelle et dévoué à votre projet sur le
       internet.

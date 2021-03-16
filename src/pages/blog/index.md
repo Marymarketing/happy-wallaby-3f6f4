@@ -12,7 +12,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: #bouton-newsletter
+        url: #bouton-newsletter"></a>
         style: primary
         has_icon: false
         icon: arrow-left

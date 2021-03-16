@@ -19,7 +19,7 @@
             {
                 "label": "Tarifs",
                 "url": "/pricing",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Blog",

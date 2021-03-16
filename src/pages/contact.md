@@ -85,7 +85,7 @@ sections:
     form_fields:
       - input_type: email
         name: E-mail
-        label: Votre adresse e-mail
+        label: Adresse e-mail
         options: []
         is_required: true
         type: form_field

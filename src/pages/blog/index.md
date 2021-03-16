@@ -12,7 +12,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: '#newsletterform'
+        url: '#newsletterf'
         style: primary
         has_icon: false
         icon: arrow-left
@@ -35,9 +35,7 @@ sections:
   - type: form_section
     title: Inscrivez-vous
     title_align: center
-    content:
-      Pour ne pas louper un seul article,
-      abonne-toi à ma newsletter !
+    content: 'Pour ne pas louper un seul article, abonne-toi à ma newsletter !'
     content_align: center
     form_position: bottom
     form_layout: inline

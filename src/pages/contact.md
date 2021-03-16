@@ -76,8 +76,21 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      <!-- Début de widget de badge Calendly -->
+
+      <link href="https://assets.calendly.com/assets/external/widget.css"
+      rel="stylesheet">
+
+      <script src="https://assets.calendly.com/assets/external/widget.js"
+      type="text/javascript" async></script>
+
+      <script type="text/javascript">window.onload = function() {
+      Calendly.initBadgeWidget({ url:
+      'https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp',
+      text: 'Planifier du temps avec moi', color: '#5e7899', textColor:
+      '#ffffff', branding: true }); }</script>
+
+      <!-- Fin de widget de badge Calendly -->
     media_position: top
     media_width: fifty
     align: left

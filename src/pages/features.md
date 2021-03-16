@@ -60,7 +60,7 @@ sections:
 
           *   Définir les objectifs
 
-          *   Selection de longues traines
+          *   Selection de longues traînes
       - title: Optimisation SEO
         title_align: left
         content: |

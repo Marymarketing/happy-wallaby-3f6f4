@@ -1,7 +1,7 @@
 {
     "layout_type": "full-width",
     "style": "minimal",
-    "palette": "blue",
+    "palette": "#5E7899",
     "mode": "light",
     "base_font": "serif",
     "header": {

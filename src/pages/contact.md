@@ -12,7 +12,7 @@ sections:
       <!-- Début de widget en ligne Calendly -->
 
       <div class="calendly-inline-widget"
-      data-url="https://calendly.com/marymarketing-pro/contact?hide_event_type_details=1&hide_gdpr_banner=1"
+      data-url="https://calendly.com/marymarketing-pro/contact?hide_event_type_details=1"
       style="min-width:320px;height:630px;"></div>
 
       <script type="text/javascript"

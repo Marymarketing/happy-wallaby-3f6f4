@@ -40,7 +40,7 @@
                 "style": "secondary",
                 "icon": "arrow-right",
                 "has_icon": true,
-                "icon_position": "right"
+                "icon_position": "left"
             }
         ],
         "has_anncmnt": true,

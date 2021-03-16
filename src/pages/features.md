@@ -184,8 +184,8 @@ sections:
         content: >
           Une fiche produit, c'est toute la descriptions et les caractéristique
           du produit que vous vendez. Ayant de l'expérience en terme de
-          **marketing de contenu**, je saurais **captiver** les utilisateurs via
-          une écriture convaincante.
+          **content marketing** (marketing de contenu), je saurais **captiver**
+          les utilisateurs via une écriture convaincante.
 
 
           Plusieurs **techniques de rédaction SEO** sont utilisé afin de

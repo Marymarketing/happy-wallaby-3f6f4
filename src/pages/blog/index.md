@@ -14,7 +14,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: #
+        url: #form_section
         style: primary
         has_icon: false
         icon: arrow-left

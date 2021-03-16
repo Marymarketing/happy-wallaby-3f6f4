@@ -22,11 +22,14 @@ sections:
       <!-- Fin de widget en ligne Calendly -->
     media_position: right
     content: >
+      C'est le moment de se poser les bonne questions !
+
+
       N'hésitez pas à réservez votre rendez vous en complétant le formulaire
       Calendly ci-joint.
 
 
-      Une date, un horaire et quelques question et vous serez rappeler avec une
+      Une date, un horaire, quelques questions et vous serez rappelé avec une
       réponse dans les plus brefs délais !
   - actions: []
     image_alt: lorem-ipsum

@@ -3,7 +3,7 @@ sections:
   - type: hero_section
     background_color: primary
     align: left
-    media_width: fourty
+    media_width: fifty
     title: Rédaction web pour tout vos site internet
     subtitle: Soyez dans le TOP Google
     actions:

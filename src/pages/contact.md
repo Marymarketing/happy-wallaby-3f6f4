@@ -19,10 +19,10 @@ sections:
 
 
       *Mary Marketing traite les données recueillies en utilisant votre adresse
-      électronique pour vous adresser des publicités concernant ces services.
+      électronique pour vous adresser des publicités concernant ces services.*
 
 
-      Pour en savoir plus sur la gestion de vos données personnelles et pour
+      *Pour en savoir plus sur la gestion de vos données personnelles et pour
       exercer vos droits, reportez-vous à la notice
       *[*ci-jointe*](/privacy-policy)*.*
     video_embed_html: >-

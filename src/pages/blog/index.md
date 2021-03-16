@@ -11,7 +11,7 @@ sections:
     image: images/Windows-pana.png
     media_position: right
     actions:
-      - label: S'inscire
+      - label: S'inscrire
         url: lorem-ipsum
         style: primary
         has_icon: false

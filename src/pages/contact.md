@@ -80,7 +80,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: false
-    form_id: Contact form
+    form_id: Formulaire de contact
     form_action: Prise de contact
     form_fields:
       - input_type: email

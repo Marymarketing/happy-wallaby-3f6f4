@@ -1,5 +1,5 @@
 ---
-title: Politique de confidencialité
+title: Politique de confidentialité
 seo:
   title: Privacy Policy
   description: This is the privacy policy page

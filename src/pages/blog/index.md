@@ -33,7 +33,6 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    content: <a name="bouton-newsletter"></a>
     title: Inscrivez-vous
     title_align: center
     content:

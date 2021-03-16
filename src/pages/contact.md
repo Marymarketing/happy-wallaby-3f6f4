@@ -80,7 +80,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: false
-    form_id: lorem-ipsum
+    form_id: Contact form
     form_action: lorem-ipsum
     form_fields:
       - input_type: email

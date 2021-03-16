@@ -50,7 +50,7 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     media_position: bottom
-    media_width: sixty
+    media_width: fourty
     align: center
     padding_top: medium
     padding_bottom: medium

@@ -40,7 +40,6 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

@@ -3,7 +3,9 @@ title: Blog
 sections:
   - type: hero_section
     title: Mon blog
-    subtitle: Bienvenu
+    subtitle: >-
+      Chaque semaines, des conseils de professionnel pour établir et améliorer
+      vos stratégies en marketing de contenu
     align: center
     padding_top: medium
     padding_bottom: none

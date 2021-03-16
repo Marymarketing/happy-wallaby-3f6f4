@@ -369,7 +369,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/Fichier 4.svg
+        image: images/www-pana.png
     title: Mes 4 étapes pour faire de la rédaction web
     padding_top: large
     align: left

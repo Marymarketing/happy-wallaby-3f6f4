@@ -76,7 +76,7 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      <!-- Début de widget de badge Calendly -->
+      <!-- Début de widget de lien Calendly -->
 
       <link href="https://assets.calendly.com/assets/external/widget.css"
       rel="stylesheet">
@@ -84,13 +84,11 @@ sections:
       <script src="https://assets.calendly.com/assets/external/widget.js"
       type="text/javascript" async></script>
 
-      <script type="text/javascript">window.onload = function() {
-      Calendly.initBadgeWidget({ url:
-      'https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp',
-      text: 'Planifier du temps avec moi', color: '#00a2ff', textColor:
-      '#ffffff', branding: true }); }</script>
+      <a href="" onclick="Calendly.initPopupWidget({url:
+      'https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp'});return
+      false;">Plannifier un rendez-vous</a>
 
-      <!-- Fin de widget de badge Calendly -->
+      <!-- Fin de widget de lien Calendly -->
     media_position: left
     media_width: fourty
     align: left

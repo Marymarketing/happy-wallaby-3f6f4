@@ -81,18 +81,6 @@ sections:
 
       *Pour en savoir plus, reportez-vous à la notice
       [*ci-jointe*](/privacy-policy).*
-    video_embed_html: >-
-      <!-- Début de widget en ligne Calendly -->
-
-      <div class="calendly-inline-widget"
-      data-url="https://calendly.com/marymarketing-pro/contact?hide_event_type_details=1"
-      style="min-width:320px;height:630px;"></div>
-
-      <script type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async></script>
-
-      <!-- Fin de widget en ligne Calendly -->
 seo:
   title: Contact
   description: This is the contact page

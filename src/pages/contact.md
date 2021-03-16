@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Contacter votre rédacteur web dès maintenant ?
+  - title: Contacter votre rédactrice web dès maintenant !
     actions: []
     image_alt: lorem-ipsum
     media_position: bottom

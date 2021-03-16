@@ -57,7 +57,7 @@ sections:
           *   Rédaction de contenue unique
         title: Rédaction web
         content_align: left
-      - image: images/Ref.svg
+      - image: images/square-oak.svg
         image_alt: Netlify logo
         image_align: center
         title: Référencement

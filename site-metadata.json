@@ -22,13 +22,13 @@
                 "style": "primary"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "À propos",
+                "url": "/about",
                 "style": "primary"
             },
             {
-                "label": "À propos",
-                "url": "/about",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "primary"
             }
         ],

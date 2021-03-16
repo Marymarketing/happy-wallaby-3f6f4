@@ -1,5 +1,5 @@
 ---
-title: Article 1
+title: Devenir rédactrice web
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.

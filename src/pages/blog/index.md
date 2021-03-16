@@ -34,7 +34,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-  - type: form_section
+  - type: #form_section
     title: Inscrivez-vous
     title_align: center
     content: 'Pour ne pas louper un seul article, abonne-toi à ma newsletter !'

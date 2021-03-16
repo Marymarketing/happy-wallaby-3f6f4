@@ -54,7 +54,7 @@ Ensuite, le **référencement SEO**, en effet les contenus rédigés sur les pag
 
 Enfin, la **recherche de clients** est primordiale. Le concepteur-rédacteur doit trouver des clients cibles et les fidéliser grâce à un contenu de qualité. Vous pourrez travailler en freelance (via des plateformes ou votre site internet), pour un éditeur de contenu ou pour une agence de communication.
 
-![](/images/Internet%20Day-pana.png)
+![](/images/spectacular-triceratops.png)
 
 ## Les qualités pour devenir un rédacteur web ?
 
@@ -112,7 +112,7 @@ En lien avec l’avantage précédent, vous devrez vous imprégner du sujet, fai
 
 ### Adieu les frais de transport
 
-Cela va de soi, vous travaillerez de chez vous principalement, vous ne ferez donc **plus le trajet maison-travail **en voiture, en bus ou en RER. Un gain d’argent, de temps et adieu le stress des bouchons.
+Cela va de soi, vous travaillerez de chez vous principalement, vous ne ferez donc \*\*plus le trajet maison-travail \*\*en voiture, en bus ou en RER. Un gain d’argent, de temps et adieu le stress des bouchons.
 
 ### Pas de diplôme officiel ?
 
@@ -162,7 +162,7 @@ Quand vous possédez les capacité de rédactions nécéssaire pour être rédac
 
 En qualité de rédacteur vous pouvez travailler dans une entreprise (salariat). Dans ce cas, le salaire moyen peu varier de 1500€ et 2500€ brut par mois selon le niveaux d'expérience. 
 
-En tant que rédacteur freelance, le salaire mensuel varie amplement. En effet, il dépendra en fonction de l’expertise et l’expérience, les conditions du marché mais aussi le lieu géographique. Selon le baromètre 2021 réalisé par Malt, le **tarif moyen journalier **d’un rédacteur web basé en France est de **402€**.
+En tant que rédacteur freelance, le salaire mensuel varie amplement. En effet, il dépendra en fonction de l’expertise et l’expérience, les conditions du marché mais aussi le lieu géographique. Selon le baromètre 2021 réalisé par Malt, le \*\*tarif moyen journalier \*\*d’un rédacteur web basé en France est de **402€**.
 
 ## Et maintenant ?
 

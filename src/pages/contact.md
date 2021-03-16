@@ -30,17 +30,13 @@ sections:
       <!-- Fin de widget en ligne Calendly -->
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      *Mary Marketing traite les données recueillies en utilisant votre adresse
+      électronique pour vous adresser des publicités concernant ces services.*
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *Pour en savoir plus, reportez-vous à la notice
+      *[*ci-jointe*](/privacy-policy)*.*
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-

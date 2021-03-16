@@ -72,13 +72,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    content: >
-      *Mary Marketing traite les données recueillies en utilisant votre adresse
-      électronique pour vous adresser des publicités concernant ces services.*
-
-
-      *Pour en savoir plus, reportez-vous à la notice
-      *[*ci-jointe*](/privacy-policy)*.*
+    content: |
+      **
 seo:
   title: Contact
   description: This is the contact page

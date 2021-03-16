@@ -319,7 +319,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/best-kangaroo.svg
+        image: images/royal-sycamore.svg
       - title: Community management
         title_align: left
         content: >

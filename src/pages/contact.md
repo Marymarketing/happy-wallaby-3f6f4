@@ -103,7 +103,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Informations
-        label: lorem-ipsum
+        label: Sujet de votre demande
         default_value: lorem-ipsum
         options: []
         is_required: false

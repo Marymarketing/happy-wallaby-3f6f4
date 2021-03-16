@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Demande de rendez-vous
+    title: Rendez-vous téléphonique
     subtitle: N'hésitez pas
     align: center
     padding_top: small

@@ -56,17 +56,18 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          \<!-- Début de widget en ligne Calendly -->
 
+          \<div class="calendly-inline-widget"
+          data-url="[https://calendly.com/marymarketing-pro/contact](https://calendly.com/marymarketing-pro/contact?fbclid=IwAR2kca5AoIaQv50ae8BJ4U7UxDB5JyK_Kgn1vX1lofTGzgJN2Y40Yew1\_N8)"
+          style="min-width:320px;height:630px;">\</div>
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          \<script type="text/javascript"
+          src="[https://assets.calendly.com/assets/external/widget.js](https://l.facebook.com/l.php?u=https%3A%2F%2Fassets.calendly.com%2Fassets%2Fexternal%2Fwidget.js%3Ffbclid%3DIwAR0TcO3DoCTcQNhziCbS3s8x-fLyG6W69kQlkWNEeqHc4mj0S3W4vD94amk\&h=AT3YQB4JFSJQ8jURlkdpoRU_MRS8G8sbzvMscA9gvLDMM5d-UEvajYcJFTc1Tv7jQkK8ycglb0xGDziPv24tQYwK0jbpp0UYo-rgB52j0QcM5qR12GyRF12PqHuZUt0rVyU)"
+          async>\</script>
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          \<!-- Fin de widget en ligne Calendly -->
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

@@ -39,7 +39,8 @@
                 "url": "/contact",
                 "style": "secondary",
                 "icon": "arrow-right",
-                "has_icon": true
+                "has_icon": true,
+                "icon_position": "right"
             }
         ],
         "has_anncmnt": true,

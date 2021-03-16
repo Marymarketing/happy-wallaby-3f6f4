@@ -37,7 +37,7 @@ sections:
   - type: form_section
     title: Inscrivez-vous
     title_align: center
-    content: Pour ne pas louper un seul article, abonne-toi à ma [ici](#Blog newsletter !
+    content: Pour ne pas louper un seul article, abonne-toi à ma [ici](#Blog-rédactrice-web-seo) newsletter !
     content_align: center
     form_position: bottom
     form_layout: inline

@@ -23,7 +23,7 @@ sections:
 
 
       *Pour en savoir plus, reportez-vous à la notice
-      [*ci-jointe*](/privacy-policy)*.*
+      [*ci-jointe*](/privacy-policy).*
     video_embed_html: >-
       <!-- Début de widget en ligne Calendly -->
 

@@ -4,7 +4,7 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     media_position: left
-    media_width: fourty
+    media_width: sixty
     align: center
     padding_top: medium
     padding_bottom: medium

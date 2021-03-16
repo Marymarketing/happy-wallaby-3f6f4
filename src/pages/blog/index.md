@@ -37,7 +37,7 @@ sections:
   - type: form_section
     title: Inscrivez-vous
     title_align: center
-    content: Pour ne pas louper un seul article, abonne-toi à ma newsletter !
+    content: <a name="anchor_name">text_input</a>Pour ne pas louper un seul article, abonne-toi à ma newsletter !
     content_align: center
     form_position: bottom
     form_layout: inline

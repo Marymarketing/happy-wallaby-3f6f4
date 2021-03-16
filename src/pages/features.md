@@ -317,7 +317,7 @@ sections:
           En effet, il faut être attentif au **nombre de recherche mensuel** du
           mot, au **type de trafic** qu'il génère et au **nombre de concurrent**
           qui le convoitise.
-        image: images/caring-tortoise.svg
+        image: images/Code review-pana.png
         image_alt: Top view of business meeting
         media_position: left
         media_width: thirty-three

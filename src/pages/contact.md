@@ -46,14 +46,14 @@ sections:
     title: Une question ?
     subtitle: N'hésitez pas !
   - content: >
-      ###### **Mary Marketing** traite les données recueillies en utilisant
-      votre **adresse électronique** pour vous adresser des **publicités**
-      concernant ces services.
+      ***Mary Marketing** traite les données recueillies en utilisant votre
+      **adresse électronique** pour vous adresser des **publicités** concernant
+      ces services.*
 
 
-      ###### Pour en savoir plus sur la gestion de vos données personnelles et
-      pour exercer vos droits, reportez-vous à la notice
-      [ci-jointe](/privacy-policy).
+      *Pour en savoir plus sur la gestion de vos données personnelles et pour
+      exercer vos droits, reportez-vous à la notice
+      *[*ci-jointe*](/privacy-policy)*.*
     actions: []
     actions_position: bottom
     actions_width: fourty

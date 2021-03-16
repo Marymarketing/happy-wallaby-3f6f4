@@ -3,7 +3,7 @@ title: Mary marketing
 sections:
   - type: hero_section
     title: Mary marketing
-    subtitle: Rédactrice
+    subtitle: 'Rédactrice web '
     align: center
     padding_top: medium
     padding_bottom: none

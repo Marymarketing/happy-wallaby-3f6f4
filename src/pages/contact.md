@@ -39,48 +39,6 @@ sections:
     image: images/important-spinach.jpg
     title: Une question ?
     subtitle: N'hésitez pas !
-  - type: grid_section
-    grid_items:
-      - title: Partenariats
-        title_align: center
-        content_align: center
-        actions:
-          - label: Par ici
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-1.svg
-        image_alt: Partnering and sponsorships icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-      - title: Renseignements
-        title_align: center
-        content_align: center
-        actions:
-          - label: Par là
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-3.svg
-        image_alt: Other queries icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - content: >
       **Mary Marketing** traite les données recueillies en utilisant votre
       **adresse électronique** pour vous adresser des **publicités** concernant

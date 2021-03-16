@@ -63,28 +63,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - type: hero_section
-    align: center
-    padding_top: small
-    padding_bottom: small
-    has_border: true
-    background_color: none
-    media_position: right
-    content: >
-      N'hésitez pas à réservez votre rendez vous en complétant le formulaire
-      Calendly ci-joint.
-
-
-      Une date, un horaire, quelques questions et vous serez rappelé avec une
-      réponse dans les plus brefs délais !
-
-
-      *Mary Marketing traite les données recueillies en utilisant votre adresse
-      électronique pour vous adresser des publicités concernant ces services.*
-
-
-      *Pour en savoir plus, reportez-vous à la notice
-      [*ci-jointe*](/privacy-policy).*
 seo:
   title: Contact
   description: This is the contact page

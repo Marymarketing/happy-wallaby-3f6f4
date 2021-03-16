@@ -1,6 +1,6 @@
 ---
 title: Devenir rédactrice web
-date: '2020-06-02'
+date: '2021-03-16'
 author: src/data/team/gustav-purpleson.yaml
 categories:
   - src/data/categories/tutorials.yaml

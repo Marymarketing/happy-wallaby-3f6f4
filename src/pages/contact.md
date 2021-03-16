@@ -35,7 +35,7 @@ sections:
 
 
       *Pour en savoir plus, reportez-vous à la notice
-      [*ci-jointe*](/privacy-policy)*.*
+      [*ci-jointe*](/privacy-policy).*
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-

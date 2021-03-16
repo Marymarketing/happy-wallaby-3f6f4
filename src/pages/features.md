@@ -164,7 +164,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: En quoi consiste le job d'un rédacteur web ?
+        title: En quoi consiste le job d'une rédactrice freelance ?
         image: images/Processing-pana.png
     feature_padding_vert: medium
     align: center

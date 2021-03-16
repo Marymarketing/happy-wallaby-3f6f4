@@ -17,6 +17,7 @@ sections:
     type: hero_section
     image: images/important-spinach.jpg
     title: Une question ?
+    subtitle: N'hésitez pas !
   - type: hero_section
     title: Une question ?
     subtitle: N'hésitez pas

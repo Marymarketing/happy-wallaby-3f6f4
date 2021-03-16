@@ -107,7 +107,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Envoyer
+    submit_label: ENVOYER
     align_vert: top
     padding_top: medium
     padding_bottom: medium

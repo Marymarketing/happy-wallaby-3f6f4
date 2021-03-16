@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Mon blog
+    title: Blog rédactrice web SEO
     subtitle: >-
       Chaque semaines, des conseils de professionnel pour établir et améliorer
       vos stratégies en marketing de contenu

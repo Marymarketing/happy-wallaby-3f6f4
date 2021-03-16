@@ -21,7 +21,7 @@ sections:
       async></script>
 
       <!-- Fin de widget en ligne Calendly -->
-    media_position: left
+    media_position: right
     image: images/Calling-pana.jpg
   - type: grid_section
     grid_items:

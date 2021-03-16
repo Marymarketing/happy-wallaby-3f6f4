@@ -14,7 +14,7 @@
                 "label": "Rédaction web",
                 "url": "/features",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Tarifs",

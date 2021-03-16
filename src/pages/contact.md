@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Une question ?
-    subtitle: N'hésitez pa
+    subtitle: N'hésitez pas
     align: center
     padding_top: small
     padding_bottom: small

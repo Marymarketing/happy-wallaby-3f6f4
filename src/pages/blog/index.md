@@ -35,7 +35,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
-    title: Inscrivez-vous
+    title: <a name="anchor_name">text_input</a>Inscrivez-vous
     title_align: center
     content: Pour ne pas louper un seul article, abonne-toi à ma newsletter !
     content_align: center

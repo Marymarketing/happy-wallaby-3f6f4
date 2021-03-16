@@ -17,6 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/enthusiastic-anemone.png
+    subtitle: d
   - title: >-
       Votre rédactrice web professionnelle et dévoué à votre projet sur le
       internet.

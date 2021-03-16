@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Digital
 sections:
   - type: hero_section
     title: Digital

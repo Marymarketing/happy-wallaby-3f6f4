@@ -55,7 +55,7 @@ sections:
     subtitle: Envie d'échanger ?
     features:
       - title: lorem-ipsum
-        htl: >
+        html: >
           \<!-- Début de widget en ligne Calendly -->
 
           \<div class="calendly-inline-widget"

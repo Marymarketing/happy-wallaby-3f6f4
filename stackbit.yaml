@@ -63,6 +63,7 @@ models:
           - green
           - red
           - gray
+          - cyan
         default: blue
         description: The palette of the site
         required: true

@@ -9,6 +9,13 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+    video_embed_html: >-
+      <!-- Début de widget en ligne Calendly --><div
+      class="calendly-inline-widget"
+      data-url="https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp?hide_event_type_details=1&hide_gdpr_banner=1"
+      style="min-width:320px;height:630px;"></div><script type="text/javascript"
+      src="https://assets.calendly.com/assets/external/widget.js"
+      async></script><!-- Fin de widget en ligne Calendly -->
   - type: grid_section
     grid_items:
       - title: Partenariats

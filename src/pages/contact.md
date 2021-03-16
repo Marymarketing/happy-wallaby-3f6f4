@@ -89,8 +89,12 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      <!-- Début de widget en ligne Calendly --><div
+      class="calendly-inline-widget"
+      data-url="https://calendly.com/marymarketing-pro/contact"
+      style="min-width:320px;height:630px;"></div><script type="text/javascript"
+      src="https://assets.calendly.com/assets/external/widget.js"
+      async></script><!-- Fin de widget en ligne Calendly -->
     media_position: top
     media_width: fifty
     align: left

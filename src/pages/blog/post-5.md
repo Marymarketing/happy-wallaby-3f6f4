@@ -1,8 +1,5 @@
 ---
 title: Devenir rédactrice web
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:

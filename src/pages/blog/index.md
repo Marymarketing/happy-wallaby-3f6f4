@@ -12,7 +12,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: '#newsletterform'
+        url: '#Inscrivez-vous'
         style: primary
         has_icon: false
         icon: arrow-left

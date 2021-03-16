@@ -33,6 +33,7 @@ sections:
     padding_bottom: large
     has_border: true
   - type: form_section
+    content:
     title: Inscrivez-vous
     title_align: center
     content: >

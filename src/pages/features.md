@@ -356,7 +356,7 @@ sections:
       - title: L'optimisation SEO
         content: >
           **L’optimisation SEO du contenu** est la dernière étape pour améliorer
-          son classement dans les résultats de moteurs de recherche.
+          son classement dans les résultats des moteurs de recherche.
 
 
           Cette étape ce fait avec l'amélioration des **balise TITLE** et **meta

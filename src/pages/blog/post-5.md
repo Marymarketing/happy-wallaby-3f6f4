@@ -13,7 +13,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/Launching-pana.png
 thumb_image_alt: Post 5 placeholder image
-image: images/pleasant-strawberry.png
+image: images/incredible-turtle.svg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:

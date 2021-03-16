@@ -310,8 +310,8 @@ sections:
     features:
       - title: Stratégie des mots clé
         content: >
-          Il est important de connaitre les criteres pour trouver un **mot clé
-          pertinant**.
+          Il est important de connaitre les critères pour trouver des **mots
+          clés **pertinents.
 
 
           En effet, il faut être attentif au **nombre de recherche mensuel** du

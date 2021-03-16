@@ -88,7 +88,7 @@ sections:
     type: cta_section
   - actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: left
     media_width: sixty
     align: center
     padding_top: medium

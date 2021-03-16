@@ -7,7 +7,7 @@ categories:
 tags:
   - src/data/tags/stackbit.yaml
   - src/data/tags/netlify.yaml
-excerpt: Des envie de changement ? Découvrez le métier de rédactrice ou rédacteur web !
+excerpt: "Comment devenir rédacteur web ? Qu'est ce qu'une rédactrice web ?\_  La première chose à savoir quand on veut devenir rédacteur web ou rédactrice web, c'est que les fautes et erreurs d'écriture sont injustifiables dans ce métier. Il en va aussi d'utiliser les sources fiables dans ses écrits. La veille informationnelle sera donc une étape à ne pas négliger."
 thumb_image: images/Dessin femme fusée (1).svg
 thumb_image_alt: Post 5 placeholder image
 image: images/incredible-turtle.svg

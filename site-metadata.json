@@ -13,7 +13,7 @@
             {
                 "label": "Rédaction web",
                 "url": "/features",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": false
             },
             {

@@ -2,7 +2,7 @@
 title: Mary marketing
 sections:
   - type: hero_section
-    title: Gustav Purpleson
+    title: Mary marketing
     subtitle: The optional subtitle
     align: center
     padding_top: medium

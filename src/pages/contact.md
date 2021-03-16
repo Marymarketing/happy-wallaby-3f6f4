@@ -98,7 +98,6 @@ sections:
       - input_type: text
         name: Prenom
         label: Prénom
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

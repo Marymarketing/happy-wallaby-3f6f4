@@ -76,17 +76,21 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      <!-- Début de widget en ligne Calendly -->
+      <!-- Début de widget de badge Calendly -->
 
-      <div class="calendly-inline-widget"
-      data-url="https://calendly.com/marymarketing-pro/contact"
-      style="min-width:320px;height:630px;"></div>
+      <link href="https://assets.calendly.com/assets/external/widget.css"
+      rel="stylesheet">
 
-      <script type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async></script>
+      <script src="https://assets.calendly.com/assets/external/widget.js"
+      type="text/javascript" async></script>
 
-      <!-- Fin de widget en ligne Calendly -->
+      <script type="text/javascript">window.onload = function() {
+      Calendly.initBadgeWidget({ url:
+      'https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp',
+      text: 'Planifier du temps avec moi', color: '#00a2ff', textColor:
+      '#ffffff', branding: true }); }</script>
+
+      <!-- Fin de widget de badge Calendly -->
     media_position: left
     media_width: fourty
     align: left

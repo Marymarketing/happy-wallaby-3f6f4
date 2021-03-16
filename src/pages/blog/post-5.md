@@ -157,12 +157,12 @@ Quand vous possédez les capacité de rédactions nécéssaire pour être rédac
 
 ## Combien gagne un rédacteur web ?
 
-En qualité de rédacteur vous pouvez travailler dans une entreprise (salariat). Dans ce cas, le salaire moyen peu varier de 1500€ et 2500€ brut par mois selon le niveaux d'expérience. 
+En qualité de rédacteur vous pouvez travailler dans une entreprise (salariat). Dans ce cas, le **salaire moyen** peu varier de 1500€ et 2500€ brut par mois selon le niveaux d'expérience. 
 
-En tant que rédacteur freelance, le salaire mensuel varie amplement. En effet, il dépendra en fonction de l’expertise et l’expérience, les conditions du marché mais aussi le lieu géographique. Selon le baromètre 2021 réalisé par Malt, le \*\*tarif moyen journalier \*\*d’un rédacteur web basé en France est de **402€**.
+En tant que **rédacteur freelance**, le salaire mensuel varie amplement. En effet, il dépendra en fonction de l’expertise et l’expérience, les conditions du marché mais aussi le lieu géographique. Selon le baromètre 2021 réalisé par Malt, le **tarif moyen journalier** d’un rédacteur web basé en France est de **402€**.
 
 ## Et maintenant ?
 
-Il ne vous reste plus qu'à trouver vos premières missions. Le moyen le plus efficace d'y parvenir est de vous inscrire sur la plateforme de rédaction. Vous avez le choix parmi une multitude d'entre elles, notamment 5euros.com, Upwork ou rédacteurs.com. Pour cela, il est nécessaire de posséder le statut d'auto-entrepreneur et déclarer votre activité auprès de l'Urssaf comme plateforme de freelance.
+Il ne vous reste plus qu'à trouver vos premières missions. Le moyen le plus efficace d'y parvenir est de vous inscrire sur la **plateforme de rédaction**. Vous avez le choix parmi une multitude d'entre elles, notamment 5euros.com, Upwork ou rédacteurs.com. Pour cela, il est nécessaire de posséder le statut d'auto-entrepreneur et déclarer votre activité auprès de l'Urssaf comme plateforme de freelance.
 
-N'attendez pas d’être le rédacteur parfait. Quand vous vous lancez, le plus important est de commencer. Vous apprendrez de vos erreurs en exerçant !
+N'attendez pas d’être le rédacteur parfait. Quand vous vous **lancez**, le plus important est de **commencer**. Vous apprendrez de vos erreurs en exerçant !

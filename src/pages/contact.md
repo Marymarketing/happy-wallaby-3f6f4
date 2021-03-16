@@ -1,9 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: >-
-      Trouvez enfin un rédacteur professionnel et engagé dans votre réussite sur
-      Internet.
+  - title: Votre rédactrice web professionnel et engagé pour votre projet sur le web.
     content: >
       N'hésitez pas à réservez votre rendez vous en complétant le formulaire
       Calendly ci-joint.

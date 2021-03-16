@@ -303,7 +303,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/panoramic-mars.svg
+        image: images/best-chestnut.svg
       - title: Cocon sémentique
         title_align: left
         content: >

@@ -20,7 +20,7 @@ sections:
       async></script>
 
       <!-- Fin de widget en ligne Calendly -->
-    media_position: right
+    media_position: left
     content: >
       N'hésitez pas à réservez votre rendez vous en complétant le formulaire
       Calendly ci-joint.

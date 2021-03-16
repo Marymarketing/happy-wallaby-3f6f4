@@ -41,7 +41,7 @@ seo:
     - name: 'og:description'
       value: This is the contact page
       keyName: property
-    - name: 'twitter:card'
+    - name: 'twitter:crd'
       value: summary
     - name: 'twitter:title'
       value: Contact

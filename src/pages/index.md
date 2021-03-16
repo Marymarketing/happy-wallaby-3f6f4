@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/pleasant-whale.svg
+      - image: images/Fichier 9.svg
         image_alt: Contentful logo
         image_align: center
         title_align: center

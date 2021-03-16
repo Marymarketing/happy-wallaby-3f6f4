@@ -75,7 +75,18 @@ sections:
     type: cta_section
   - actions: []
     image_alt: lorem-ipsum
-    video_embed_html: test
+    video_embed_html: >-
+      <!-- Début de widget de badge Calendly --><link
+      href="https://assets.calendly.com/assets/external/widget.css"
+      rel="stylesheet"><script
+      src="https://assets.calendly.com/assets/external/widget.js"
+      type="text/javascript" async></script><script
+      type="text/javascript">window.onload = function() {
+      Calendly.initBadgeWidget({ url:
+      'https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp',
+      text: 'Planifier du temps avec moi', color: '#5e7899', textColor:
+      '#ffffff', branding: true }); }</script><!-- Fin de widget de badge
+      Calendly -->
     media_position: top
     media_width: fifty
     align: left

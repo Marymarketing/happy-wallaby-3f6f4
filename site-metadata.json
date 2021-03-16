@@ -38,7 +38,8 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "secondary",
-                "icon": "arrow-right"
+                "icon": "arrow-right",
+                "has_icon": true
             }
         ],
         "has_anncmnt": true,

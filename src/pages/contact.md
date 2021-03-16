@@ -83,7 +83,7 @@ sections:
       src="https://assets.calendly.com/assets/external/widget.js"
       async></script><!-- Fin de widget en ligne Calendly -->
     media_position: top
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: medium
     padding_bottom: medium

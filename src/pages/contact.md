@@ -36,9 +36,7 @@ sections:
       async></script>
 
       <!-- Fin de widget en ligne Calendly -->
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    features:
+  - features:
       - actions: []
         image_alt: lorem-ipsum
         media_position: top

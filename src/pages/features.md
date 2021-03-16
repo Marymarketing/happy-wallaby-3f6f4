@@ -346,7 +346,7 @@ sections:
           etc.
 
 
-          En résumé : il faut enrichir son contenu avec les mots du **champ**
+          En résumé : il faut enrichir le contenu avec les mots du **champ**
           **lexical** et du **champ sémantique** pour être sur la première page.
         image: images/Checklist-pana.png
         image_alt: Happy co-workers

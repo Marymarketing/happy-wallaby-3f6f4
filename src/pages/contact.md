@@ -28,7 +28,6 @@ sections:
 
       Une date, un horaire et quelques question et vous serez rappeler avec une
       réponse dans les plus brefs délais !
-    background_image: images/Calling-pana.jpg
   - actions: []
     image_alt: lorem-ipsum
     media_position: left

@@ -22,9 +22,6 @@ sections:
       <!-- Fin de widget en ligne Calendly -->
     media_position: right
     content: >
-      C'est le moment de se poser les bonne questions !
-
-
       N'hésitez pas à réservez votre rendez vous en complétant le formulaire
       Calendly ci-joint.
 

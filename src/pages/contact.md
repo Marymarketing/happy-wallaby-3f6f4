@@ -87,7 +87,7 @@ sections:
         name: E-mail
         label: Votre adresse e-mail
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: text
         name: lorem-ipsum

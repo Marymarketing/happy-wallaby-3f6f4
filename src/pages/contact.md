@@ -87,7 +87,7 @@ sections:
       async></script>
 
       <!-- Fin de widget en ligne Calendly -->
-    media_position: bottom
+    media_position: left
     media_width: fourty
     align: left
     padding_top: medium

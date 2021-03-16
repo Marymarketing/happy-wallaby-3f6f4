@@ -15,7 +15,7 @@ thumb_image: images/Launching-pana.png
 thumb_image_alt: Post 5 placeholder image
 image: images/incredible-turtle.svg
 image_alt: Post 5 placeholder image
-image_position: top
+image_position: left
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'

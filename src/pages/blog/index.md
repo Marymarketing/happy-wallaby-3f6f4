@@ -36,7 +36,7 @@ sections:
     title: Inscrivez-vous
     title_align: center
     content: |
-      #bouton-newsletter"></a>Pour ne pas louper un seul article, abonne-toi à ma newsletter !
+      <a>#bouton-newsletter"></a>Pour ne pas louper un seul article, abonne-toi à ma newsletter !
     content_align: center
     form_position: bottom
     form_layout: inline

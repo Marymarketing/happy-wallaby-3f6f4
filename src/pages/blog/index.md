@@ -14,7 +14,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: https://happy-wallaby-3f6f4.netlify.app/blog/#newsletter
+        url: #newsletter
         style: primary
         has_icon: false
         icon: arrow-left

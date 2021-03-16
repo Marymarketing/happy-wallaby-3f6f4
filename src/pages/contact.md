@@ -48,8 +48,7 @@ sections:
 
 
       *Pour en savoir plus sur la gestion de vos données personnelles et pour
-      exercer vos droits, reportez-vous à la notice
-      *[*ci-jointe*](/privacy-policy)*.*
+      exercer vos droits, reportez-vous à la notice ci-jointe.*
 seo:
   title: Contact
   description: This is the contact page

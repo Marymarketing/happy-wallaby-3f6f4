@@ -13,7 +13,7 @@ sections:
     image: images/Windows-pana.png
     media_position: right
     actions:
-      - label: [S'abonne](#newsletter)
+      - label:
         url:
         style: primary
         has_icon: false

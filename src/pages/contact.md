@@ -3,7 +3,6 @@ title: Contact
 sections:
   - type: hero_section
     title: Rendez-vous téléphonique
-    subtitle: N'hésitez pas
     align: center
     padding_top: small
     padding_bottom: small

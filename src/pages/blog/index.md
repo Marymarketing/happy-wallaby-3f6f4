@@ -14,7 +14,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: Inscrivez-vous
+        url: #
         style: primary
         has_icon: false
         icon: arrow-left

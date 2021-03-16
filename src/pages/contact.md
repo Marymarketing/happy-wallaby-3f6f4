@@ -21,6 +21,10 @@ sections:
 
       <!-- Fin de widget en ligne Calendly -->
     media_position: right
+    content: >
+      #### N'hésitez pas à réservez un rendez vous téléphonique en complétant le
+      formulaire Calendly ci-joint. Vous aurez votre réponse dans les plus brefs
+      délais !
   - actions: []
     image_alt: lorem-ipsum
     media_position: left

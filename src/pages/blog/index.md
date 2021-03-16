@@ -23,7 +23,7 @@ sections:
         no_follow: true
         type: action
     content: >
-      # Chaque semaines, des conseils de professionnel pour établir et améliorer
+      Chaque semaines, des conseils de professionnel pour établir et améliorer
       vos stratégies en marketing de contenu
   - type: blog_feed_section
     blog_feed_cols: three

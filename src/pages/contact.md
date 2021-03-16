@@ -79,7 +79,7 @@ sections:
       <!-- Début de widget en ligne Calendly -->
 
       <div class="calendly-inline-widget"
-      data-url="https://calendly.com/quentin-startup-bootcamp/quentin-startup-bootcamp"
+      data-url="https://calendly.com/marymarketing-pro/contact"
       style="min-width:320px;height:630px;"></div>
 
       <script type="text/javascript"

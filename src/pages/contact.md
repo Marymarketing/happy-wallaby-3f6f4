@@ -59,7 +59,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: hero_section
-    title: Contacter votre rédactrice web
     align: center
     padding_top: small
     padding_bottom: small

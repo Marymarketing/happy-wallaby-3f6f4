@@ -1,7 +1,9 @@
 ---
 title: Contact
 sections:
-  - title: lorem-ipsum
+  - title: >-
+      Trouvez enfin un rédacteur professionnel et engagé dans votre réussite sur
+      Internet.
     content: >
       N'hésitez pas à réservez votre rendez vous en complétant le formulaire
       Calendly ci-joint.

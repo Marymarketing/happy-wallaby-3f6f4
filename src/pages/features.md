@@ -324,11 +324,11 @@ sections:
         align: left
       - title: La production de contenue
         content: >
-          Ensuite, place à la **rédaction du contenu web**. Je rédige mon texte
-          en utilisant des mots clés secondaires qui complètent les mot clé
-          principal. J’arborise mon contenue avec des balises HTML **avec des
-          paragraphes** avec **sous-titres** h2, h3 et h4, ainsi que le **titre
-          éditorial h1**.
+          Ensuite, place à la **création du contenu web**. Je rédige mon contenu
+          unique en utilisant des mots clés secondaires qui complètent les mot
+          clé principal. J’arborise mon contenue avec des **balises HTML**,**
+          **avec des paragraphes, avec sous-titres H2, H3 et H4, ainsi que le
+          **titre éditorial H1**.
 
 
           Le **nombre de mots** est fondamental pour votre référencement naturel

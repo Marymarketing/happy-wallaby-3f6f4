@@ -339,10 +339,11 @@ sections:
         align: left
       - title: La richesse sémantique
         content: >
-          Le sens d’une page est **déterminé en fonction des mots contenus** sur
-          celle-ci. Si sur votre page, un article parle de rédaction web, il
+          Le sens d’une page web est **déterminé en fonction des mots contenus**
+          sur celle-ci. Si sur votre page, un article parle de rédaction web, il
           faut absolument qu'il contienne des mots clés en corrélation avec le
-          thème.
+          thème tel que inbound marketing, stratégie de contenu, longue traîne,
+          etc.
 
 
           En résumé : il faut enrichir son contenu avec les mots du **champ**

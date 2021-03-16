@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Une question ?
+    title: Demande de rendez-vous
     subtitle: N'hésitez pas
     align: center
     padding_top: small

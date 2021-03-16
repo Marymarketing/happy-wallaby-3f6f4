@@ -214,7 +214,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Fichier 1 (1).svg
+        image: images/red.svg
       - title: Optimisation SEO
         title_align: left
         content: >

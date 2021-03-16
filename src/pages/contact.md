@@ -104,7 +104,6 @@ sections:
       - input_type: textarea
         name: Informations
         label: Sujet de votre demande
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field

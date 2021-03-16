@@ -347,7 +347,7 @@ sections:
 
           En résumé : il faut enrichir son contenu avec les mots du **champ**
           **lexical** et du **champ sémantique** pour être sur la première page.
-        image: images/marvelous-artichoke.svg
+        image: images/Checklist-pana.png
         image_alt: Happy co-workers
         media_position: left
         media_width: thirty-three

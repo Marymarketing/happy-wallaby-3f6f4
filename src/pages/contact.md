@@ -89,7 +89,7 @@ sections:
       false;">Plannifier un rendez-vous</a>
 
       <!-- Fin de widget de lien Calendly -->
-    media_position: left
+    media_position: top
     media_width: fourty
     align: left
     padding_top: medium

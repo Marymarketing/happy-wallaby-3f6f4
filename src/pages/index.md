@@ -75,7 +75,7 @@ sections:
           *   Élaboration du maillage interne
 
           *   Définition d'une stratégie backlinking
-      - image: images/Reseaux.svg
+      - image: images/violet-maple.svg
         image_alt: DatoCMS logo
         image_align: center
         title: Stratégie de contenu

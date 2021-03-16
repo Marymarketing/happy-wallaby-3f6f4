@@ -42,7 +42,6 @@ sections:
     form_position: bottom
     form_layout: inline
     form_id: newsletterform
-    form_action: /thank-you
     form_fields:
       - input_type: email
         name: email

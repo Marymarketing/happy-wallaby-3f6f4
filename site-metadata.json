@@ -29,7 +29,7 @@
             {
                 "label": "À propos",
                 "url": "/about",
-                "style": "link"
+                "style": "primary"
             }
         ],
         "has_secondary_nav": true,

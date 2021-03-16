@@ -3,7 +3,7 @@ title: Tutorials
 sections:
   - type: hero_section
     title: Digital
-    subtitle: The optional subtitle
+    subtitle: Tout savoir sur ce domaine
     align: center
     padding_top: medium
     padding_bottom: none

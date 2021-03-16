@@ -78,7 +78,7 @@ sections:
     content_align: left
     form_position: bottom
     form_width: fifty
-    form_layout: inline
+    form_layout: stacked
     enable_card: false
     form_id: Formulaire de contact
     form_action: Prise de contact

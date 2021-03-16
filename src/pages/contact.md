@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Appelez-moi
+    title: Contacter votre rédactrice web
     align: center
     padding_top: small
     padding_bottom: small

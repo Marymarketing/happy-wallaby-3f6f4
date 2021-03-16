@@ -1,5 +1,5 @@
 ---
-title: General
+title: Général
 sections:
   - type: hero_section
     title: General

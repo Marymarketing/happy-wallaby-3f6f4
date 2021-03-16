@@ -112,7 +112,7 @@ En lien avec l’avantage précédent, vous devrez vous imprégner du sujet, fai
 
 ### Adieu les frais de transport
 
-Cela va de soi, vous travaillerez de chez vous principalement, vous ne ferez donc \*\*plus le trajet maison-travail \*\*en voiture, en bus ou en RER. Un gain d’argent, de temps et adieu le stress des bouchons.
+Cela va de soi, vous travaillerez de chez vous principalement, vous ne ferez donc **plus le trajet maison-travail** en voiture, en bus ou en RER. Un gain d’argent, de temps et adieu le stress des bouchons.
 
 ### Pas de diplôme officiel ?
 

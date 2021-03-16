@@ -102,8 +102,8 @@ sections:
           Aujourd'hui, la rédaction web est primordiale lors de la création ou
           la mise à jour de votre site internet.
         content: >
-          Le **contenue éditoriale** est aussi important car sans cela, **vous
-          ne pourrez pas vendre** correctement vos produits ou services.
+          Le **contenue éditorial** est aussi important car sans cela, **vous ne
+          pourrez pas vendre** correctement vos produits ou services.
 
 
           Vous pouvez vous débrouillez et essayer d'optimiser votre contenue

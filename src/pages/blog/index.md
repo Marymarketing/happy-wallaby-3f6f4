@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Blog rédactrice web SEO
     subtitle: >-
-      Chaque semaines, des conseils de professionnel pour établir et améliorer
-      vos stratégies en marketing de contenu
+      Chaque semaines, retrouvez mes conseils et mes méthodes qui fonctionnent
+      pour établir et améliorer vos stratégies de marketing de contenu.
     align: center
     padding_top: medium
     padding_bottom: none

@@ -64,7 +64,7 @@ sections:
       - title: Optimisation SEO
         title_align: left
         content: |
-          *   Structuration du contenue
+          *   Structuration du contenu
 
           *   Amélioration des mots clés
 

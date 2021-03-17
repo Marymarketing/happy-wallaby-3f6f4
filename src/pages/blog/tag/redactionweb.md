@@ -2,7 +2,7 @@
 title: Rédaction web
 sections:
   - type: hero_section
-    title: Stackbit
+    title: Rédaction web
     subtitle: The optional subtitle
     align: center
     padding_top: medium

@@ -84,12 +84,19 @@ sections:
           l'optimisation de votre communication sur le web.
       - title: Quelles sont vos diplômes ?
         content: >
-          J'ai une formation de rédactrice web depuis janvier 2021.
+          Diplômé en marketing événementiel fin 2019 et ayant un attrait pour
+          les métiers du digital pendant mon cursus scolaire. J'ai décidé de
+          suivre une formation complémentaire pour mieux comprendre la
+          communication sur internet.
 
 
-          Je suis un grande curieuse dans tout les domaine, mais
-          particulièrement dans le milieu du digitale. Je connais donc depuis
-          des années les travers et aboutissant de ce monde.
+          J'ai suivi acquéris plusieurs certifications sur la rédaction web,
+          l'optimisation SEO et l'UX design.
+
+
+          Je suis une grande curieuse et en veille constante des innovations.
+          C'est pourquoi je me forme en continu sur les nouvelles stratégies et
+          outils de demain.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

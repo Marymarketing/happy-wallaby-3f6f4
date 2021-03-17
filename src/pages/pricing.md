@@ -41,24 +41,6 @@ sections:
           moyenne de rédaction d'un article de 1000 mots varie entre une matinée
           à deux jours**.
       - title: Comment se passe une collaboration ?
-        content: >
-          En amont, vous aurez remplis le **petit formulaire** de contact
-          Calendly pour booker [un rendez-vous téléphonique](/contact).
-
-
-          La première étape est donc la **prise de contact** et la **définition
-          des missions**.Ensuite, en fonction de cette première conversation, je
-          vous envois une **recommandation des missions** à mettre en place et
-          vous joins également un **devis**. Vous relisez tout ça, on modifie si
-          besoin et la collaboration est lancée !
-
-
-          Tout au long de cette dernière, **je reste à votre disposition** pour
-          répondre à toutes vos questions ou remarques. En ce qui concerne nos
-          échanges par **mail ou par téléphone**, cela dépend de vos envies.
-          Après vous avoir livré le travail final, je reste dispo pour effectuer
-          les modifications éventuelles. Lorsque le rendu vous convient, je vous
-          envoie la facture et vous avez 30 jours pour la régler.
       - title: Travaillez- vous avec une équipe ?
         content: >
           Je travail en collaboration avec un expert en marketing digital.

@@ -26,9 +26,9 @@ sections:
         content: |
           *   Identification des requêtes
 
-          *   Définition de la structure
-
           *   Recherche de mots clés
+
+          *   Définition de la structure
 
           *   Définition de la ligne éditoriale
         content_align: left

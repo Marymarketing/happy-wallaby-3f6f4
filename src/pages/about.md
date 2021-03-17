@@ -7,7 +7,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Petite présentation
+      - title: 'Marylène, 25 ans, rédactrice web'
         content: >
           Mary Marketing c'est Marylène, rédactrice web.
 

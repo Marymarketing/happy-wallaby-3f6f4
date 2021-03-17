@@ -92,13 +92,13 @@ sections:
           Ensuite, le **manque de temps** peut être aussi un élément
           déclencheur. Effectivement, si vous êtes chef d'entreprise vous avez
           surement beaucoup de missions et de projets sur le feu. Faire appel à
-          une rédactrice web en freelance vous permettra de laisser vos salariés
-          focus sur leurs missions tout en restant dans les temps de vos
-          projets.
+          une **rédactrice web en freelance** vous permettra de laisser vos
+          salariés focus sur leurs missions tout en restant dans les temps de
+          vos projets.
 
 
           Enfin, il est possible aussi que vous ne disposiez pas de rédacteur
-          dans votre structure. En période de forte activité dans votre
+          dans votre structure. En période de **forte activité** dans votre
           entreprise, le **manque de personnel** peu être un freins. Un
           freelance ne vous engage à rien si ce n'est de payer ces services.
       - title: Comment se passe une collaboration ?

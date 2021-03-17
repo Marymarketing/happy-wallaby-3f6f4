@@ -9,6 +9,7 @@ sections:
         media_position: left
         media_width: fourty
         subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
+        align: center
   - type: grid_section
     grid_items: []
     grid_cols: two

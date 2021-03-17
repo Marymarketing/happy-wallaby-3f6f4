@@ -26,11 +26,11 @@ sections:
         content: |
           *   Identification des mots clés cible
 
-          *   Analyse des intentions de recherche de votre requete
+          *   Analyse des intentions de recherche
 
           *   Définir votre audience
 
-          *   Mise en place d'une ligne éditoriale cohérente
+          *   Créer une ligne éditoriale cohérente
         content_align: left
         actions: []
         actions_align: left

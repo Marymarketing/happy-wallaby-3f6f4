@@ -18,8 +18,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 

@@ -80,21 +80,7 @@ sections:
         content: |
           ***
 
-          ### 349€\*
-
-          *   Fiche produit
-
-          *   Meta Description
-
-          *   Livre blanc
-
-          *   Optimisation SEO
-
-          *   Recherche de mots clés
-
-          *   etc.
-
-          *à partir de\**
+          ### 300€\*
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small

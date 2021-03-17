@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Tarifs
-    subtitle: 'Par mot ou par groupe de mot, quel est votre préférence ?'
+    subtitle: 'Par mot, feuillet ou à la journée quel est votre préférence ?'
     align: center
     padding_top: large
     padding_bottom: small

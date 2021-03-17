@@ -68,7 +68,7 @@ sections:
 
           *   Amélioration des mots clés
 
-          *   Liaison de contenue
+          *   Implantation de liens
 
           *   Proposition de contenue externe
         content_align: left

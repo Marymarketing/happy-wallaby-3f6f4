@@ -10,8 +10,7 @@ sections:
         media_width: fourty
         subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
         align: center
-      - subtitle: lorem-ipsum
-        content: "Je m’appelle\_Marylène, j’ai 25 ans et j’habite depuis toujours en Normandie. Je suis une personne simple, curieuse, chaleureuse et organisée.\_Mon quotidien est rythmée par de la lecture, de l'écriture, des balades à la mer et un peu de sport (un peu...).\n\nJe suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu. Diplômée d’un\_BTS assistant-manager\_et d’un Bachelor en marketing événementiel, j’ai toujours étais passionnée par le pouvoir des mots.\n"
+      - content: "Je m’appelle\_Marylène, j’ai 25 ans et j’habite depuis toujours en Normandie. Je suis une personne simple, curieuse, chaleureuse et organisée.\_Mon quotidien est rythmée par de la lecture, de l'écriture, des balades à la mer et un peu de sport (un peu...).\n\nJe suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu. Diplômée d’un\_BTS assistant-manager\_et d’un Bachelor en marketing événementiel, j’ai toujours étais passionnée par le pouvoir des mots.\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: top

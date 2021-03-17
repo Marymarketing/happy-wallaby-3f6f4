@@ -81,7 +81,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Mention légales",
-                "url": "/terms-conditions",
+                "url": "/conditions-conditions",
                 "style": "link"
             },
             {

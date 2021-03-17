@@ -44,17 +44,15 @@ sections:
         title: Stratégie de contenu
         title_align: center
         content: |
-        *   Définir vos objectifs
+          *   Définir vos objectifs
+           *   Définir vos objectifs
+          *   Définition des champ éditoriale
 
-        *   Définir vos objectifs
-        
-        *   Définition des champ éditoriale
+          *   Déterminer les longues traines
 
-        *   Déterminer les longues traines
+          *   Création d'une ligne éditoriale
 
-        *   Création d'une ligne éditoriale
-
-        *   Analyse des performances
+          *   Analyse des performances
         content_align: left
       - image: images/interesting-pine.svg
         image_alt: Contentful logo

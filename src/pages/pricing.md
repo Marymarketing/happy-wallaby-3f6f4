@@ -26,7 +26,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Rédaction web
-        subtitle: '*à partir'
+        subtitle: '*à partir de'
         title_align: left
         content: |
           ***

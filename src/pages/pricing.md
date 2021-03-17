@@ -47,20 +47,6 @@ sections:
           Toutefois, je suis seul en charge de rédiger votre contenu seo et de
           l'optimisation de votre communication sur le web.
       - title: Quelles sont vos diplômes ?
-        content: >
-          Diplômé d'une licence  en **marketing événementiel** en 2018 et ayant
-          un attrait pour les métiers du digital pendant mon cursus scolaire.
-          J'ai décidé de suivre des **formations complémentaire pour mieux
-          comprendre la communication sur internet**.
-
-
-          J'ai suivi **plusieurs certifications** sur la **rédaction web**,
-          l'**optimisation SEO** et l'**UX design**.
-
-
-          Je suis une grande curieuse et donc en **veille constante des
-          innovations web**. C'est pourquoi je me forme en continu sur **les
-          nouvelles stratégies et outils de demain**.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

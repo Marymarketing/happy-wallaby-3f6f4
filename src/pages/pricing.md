@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
     image: images/Startup life-pana.png
     media_position: right
-    content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet. Je serais ravie **d'échanger** avec vous.\n"
+    content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie **d'échanger** avec vous.\n"
   - type: grid_section
     grid_items:
       - title: Rédaction web

@@ -44,7 +44,7 @@ sections:
         title: Stratégie de contenu
         title_align: center
         content: |
-            *   Définir vos objectifs
+        *   Définir vos objectifs
 
           *   Définir vos objectifs
 

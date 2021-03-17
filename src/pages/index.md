@@ -354,17 +354,10 @@ sections:
         image: images/super-zebra.svg
       - title: Community management
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
+          **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle
+          en tant que **CM**.
         content_align: left
         actions: []
         actions_align: left

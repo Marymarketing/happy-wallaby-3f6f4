@@ -25,6 +25,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
+        image: images/Visuel tarif_1.svg
     feature_padding_vert: medium
     align: center
     padding_top: none

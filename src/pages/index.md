@@ -273,7 +273,7 @@ sections:
     actions: []
     grid_items:
       - title: Stratégie de contenu
-        title_align: left
+        title_align: center
         content: >
           Mettre en avant votre contenu, **vos produit** et **vos points fort**
           en créant du **contenu adapté**

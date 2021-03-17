@@ -179,7 +179,7 @@ sections:
   - subtitle: Comment vous serais-je utile ?
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content: >
           Après avoir trouvée des **mots clés** et des **longues traines**,
           j'utilise le logiciel "**1.fr**".

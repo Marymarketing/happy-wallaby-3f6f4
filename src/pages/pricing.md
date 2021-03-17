@@ -55,7 +55,7 @@ sections:
           Je suis une grande curieuse et donc en **veille constante des
           innovations web**. C'est pourquoi je me forme en continu sur **les
           nouvelles stratégies et outils de demain**.
-      - title: Travaillez- vous avec une équipe ?
+      - title: Pourquoi faire appel à une rédactrice web ?
         content: >
           Je travail en collaboration avec un expert en marketing digital.
           Toutefois, je suis seul en charge de rédiger votre contenu seo et de

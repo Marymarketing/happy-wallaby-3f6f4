@@ -7,7 +7,7 @@ sections:
         image: images/Messaging fun-pana.png
         image_alt: People in conversation in the office lounge area
         media_position: right
-        media_width: fifty
+        media_width: fourty
         subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
         align: center
   - type: grid_section

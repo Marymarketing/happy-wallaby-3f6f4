@@ -40,7 +40,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: É
+        title: Étude de la thématique
       - title: Production de contenu
         title_align: left
         content_align: left

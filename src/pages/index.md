@@ -338,7 +338,7 @@ sections:
         type: grid_item
         image: images/knowledgeable-aluminum.svg
       - title: Formation rédaction web
-        title_align: left
+        title_align: center
         content: >
           Vous avez la possibilité de me demander une formation **clair et
           concise** pour que vous soyez votre propre **rédacteur web** !

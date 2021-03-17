@@ -293,7 +293,7 @@ sections:
         content: >
           Que ce soit des **articles** de blog, des **descriptions** de produit,
           des **e-books** ou des **livres blanc**.. je peux tout réaliser.
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto

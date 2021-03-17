@@ -1,5 +1,5 @@
 ---
-title: About
+title: À propos
 sections:
   - type: features_section
     features:

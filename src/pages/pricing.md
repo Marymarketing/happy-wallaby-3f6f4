@@ -45,7 +45,7 @@ sections:
         content: |
           ***
 
-          ### 100€\*
+          ### 200€\*
 
           *   Article
 

@@ -40,7 +40,7 @@ sections:
           peuvent influer sur la durée de ma prestation. Cependant **la durée
           moyenne de rédaction d'un article de 1000 mots varie entre une matinée
           à deux jours**.
-      - title: Comment se passe une collaboration ?
+      - title: Quels sont vos diplômes ?
         content: >
           Diplômé d'une licence  en **marketing événementiel** en 2018 et ayant
           un attrait pour les métiers du digital pendant mon cursus scolaire.

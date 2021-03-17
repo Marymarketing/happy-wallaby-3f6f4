@@ -222,7 +222,7 @@ sections:
           Tout le contenu crée ou amélioré passe par l'optimisation SEO.
 
 
-          Les **balises** (TITRES, META), les **liens** internes, l'arborescence
+          Les **balises** (Titres, Méta), les **liens** internes, l'arborescence
           de votre site (**H1**, **H2**, etc.)... tout y passe.
         content_align: center
         actions: []

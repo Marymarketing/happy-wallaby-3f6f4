@@ -39,7 +39,7 @@ sections:
         new_window: false
         no_follow: true
         type: action
-    actions_position: bottom
+    actions_position: top
     actions_width: fourty
     align: left
     padding_top: medium

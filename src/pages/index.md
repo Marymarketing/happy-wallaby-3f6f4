@@ -216,7 +216,7 @@ sections:
         type: grid_item
         image: images/red.svg
       - title: Optimisation SEO
-        title_align: left
+        title_align: center
         content: >
           Tout le contenu crée ou amélioré passe par l'optimisation SEO.
 

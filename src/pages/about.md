@@ -19,7 +19,7 @@ sections:
     grid_gap_horiz: large
     grid_gap_vert: small
     enable_cards: true
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none

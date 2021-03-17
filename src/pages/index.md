@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/strategie-de-marketing.svg
+      - image: images/blue-amaranth.svg
         image_alt: DatoCMS logo
         image_align: center
         title: Stratégie de contenu

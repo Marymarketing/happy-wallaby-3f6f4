@@ -28,9 +28,9 @@ sections:
 
           *   Analyse des intentions de recherche de votre requete
 
-          *   Définition de la structure
+          *   Définir votre audience
 
-          *   Définition de la ligne éditoriale
+          *   Mise en place d'une ligne éditoriale cohérente
         content_align: left
         actions: []
         actions_align: left

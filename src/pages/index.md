@@ -321,7 +321,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/royal-sycamore.svg
-      - title: Community management
+      - title: Netlinking
         title_align: center
         content: >
           La **gestion** d'une marque ou d'une entreprise sur les **réseaux**

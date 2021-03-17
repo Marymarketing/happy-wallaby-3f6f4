@@ -45,7 +45,7 @@ sections:
         title_align: center
         content: |
           *   Définir vos objectifs
-
+*   Définir vos objectifs
           *   Définition des champ éditoriale
 
           *   Déterminer les longues traines

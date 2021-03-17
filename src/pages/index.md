@@ -309,7 +309,7 @@ sections:
         content: >
           Pour un référencement de qualité. L'optimisation de **l'architecture
           SEO** : maillage interne et contenu éditorial, c'est primordial.
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto

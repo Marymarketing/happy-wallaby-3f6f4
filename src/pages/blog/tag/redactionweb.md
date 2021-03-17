@@ -1,5 +1,5 @@
 ---
-title: Stackbit
+title: Rédaction web
 sections:
   - type: hero_section
     title: Stackbit

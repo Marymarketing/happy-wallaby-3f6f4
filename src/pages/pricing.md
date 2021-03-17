@@ -51,7 +51,7 @@ sections:
     actions_position: top
     actions_width: fourty
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: none
     has_border: false
     background_color: none

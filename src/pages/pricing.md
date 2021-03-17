@@ -57,27 +57,28 @@ sections:
           nouvelles stratégies et outils de demain**.
       - title: Pourquoi faire appel à une rédactrice web ?
         content: >
-          Il existe plusieurs raisons pertinent pour faire appel à un rédacteur
-          web ou à une rédactrice web.
+          Il existe plusieurs raisons pertinent pour **faire appel à une
+          rédactrice web**.
 
 
-          Vous pouvez faire appel à nous par manque de compétences. En effet, si
-          vous ne connaissez pas les termes, SEO, wordpress, netlinking, charte
-          éditoriale ou stratégie de contenu, vous ne pourrez pas vous passer
-          d'une rédactrice de contenu !
+          Vous pouvez faire appel à moi par **manque de compétences**. En effet,
+          si vous ne connaissez pas les termes, SEO, wordpress, netlinking,
+          charte éditoriale ou stratégie de contenu, vous ne pourrez pas vous
+          passer d'une rédactrice de contenu !
 
 
-          Ensuite, le manque de temps peut être aussi un élément déclencheur.
-          Effectivement, si vous êtes chef d'entreprise vous avez surement
-          beaucoup de missions et de projets sur le feu. Faire appel à une
-          rédactrice web en freelance vous permettra de laisser vos salariés
-          focus sur leurs missions tout en restant dans les temps.
+          Ensuite, le **manque de temps** peut être aussi un élément
+          déclencheur. Effectivement, si vous êtes chef d'entreprise vous avez
+          surement beaucoup de missions et de projets sur le feu. Faire appel à
+          une rédactrice web en freelance vous permettra de laisser vos salariés
+          focus sur leurs missions tout en restant dans les temps de vos
+          projets.
 
 
           Enfin, il est possible aussi que vous ne disposiez pas de rédacteur
           dans votre structure. En période de forte activité dans votre
-          entreprise, un freelance ne vous engage à rien si ce n'est de payer
-          ces services. 
+          entreprise, le **manque de personnel** peu être un freins. Un
+          freelance ne vous engage à rien si ce n'est de payer ces services.
       - title: Comment se passe une collaboration ?
         content: >
           En amont, vous aurez remplis le **petit formulaire** de contact

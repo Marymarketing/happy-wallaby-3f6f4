@@ -8,15 +8,7 @@ sections:
   - type: features_section
     features:
       - title: 'Marylène, 25 ans, rédactrice web'
-        content: >
-          Intéressée par l'écriture et l'art des mots j'ai décider de mettre mes
-          compétences au services des autres.
-
-
-          Après une première prise de contact pour connaître vos souhaits,
-          j'établis un plan éditorial afin de vous permettre, même après mon
-          intervention, de continuer par vous même d'alimenter votre site
-          internet.
+        content: "Je m'appelle Marylène, je vie en Normandie depuis toujours et \n\nDe part mon attrait pour le **marketing** ainsi que par **l'écriture et l'art des mots**, j'ai décider de mettre mes compétences au **services des autres**. Pur produit de la génération Y, je baigne dans l’univers du web et des nouvelles technologies depuis mon adolescence.\n\nJe suis diplômé d'une licence en\_**marketing événementiel**\_et certifiés d plusieurs\_formations complémentaire pour mieux comprendre la communication sur internet.\n\n\n\n![](/images/En%20savoir%20plus%20\\(1\\).svg)\n"
         image: images/Messaging fun-pana.png
         image_alt: People in conversation in the office lounge area
         media_position: left

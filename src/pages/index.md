@@ -204,7 +204,7 @@ sections:
           Je m'engage à produire pour vous, du **contenue unique**.
 
           Le plagiat ne fait pas partie de mes façons de travailler.
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto

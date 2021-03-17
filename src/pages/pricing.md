@@ -25,7 +25,7 @@ sections:
     type: cta_section
   - type: grid_section
     grid_items:
-      - title: Par mot
+      - title: Rédaction web
         subtitle: ≃ 1000 mots
         title_align: left
         content: |

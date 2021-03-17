@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
   - actions: []
     grid_items:
-      - title: Analyse du sujet
+      - title: Étude du sujet à rédaction
         title_align: left
         content: |
           *   Identification des requêtes

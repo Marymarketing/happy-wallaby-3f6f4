@@ -277,7 +277,7 @@ sections:
         content: >
           Mettre en avant votre contenu, **vos produit** et **vos points fort**
           en créant du **contenu adapté**
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto

@@ -365,7 +365,7 @@ sections:
         align: left
         type: feature
         image: images/www-pana.png
-    title: Mes 4 étapes pour rédiger votre contenu sur le web
+    title: Mes 4 étapes pour rédiger vos contenus sur internet
     padding_top: large
     align: center
     feature_padding_vert: large

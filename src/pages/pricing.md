@@ -10,7 +10,7 @@ sections:
     image: images/Startup life-pana.png
     media_position: right
     content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie **d'échanger** avec vous.\n"
-  - title: lorem-ipsum
+  - title: Comment j'établie mes tarifs ?
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium

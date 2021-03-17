@@ -46,20 +46,6 @@ sections:
           ***
 
           ### 200€\*
-
-          *   Article
-
-          *   Meta-description
-
-          *   Livre blanc
-
-          *   Optimisation SEO
-
-          *   Recherche de mots clés
-
-          *   etc.
-
-          *à partir de\**
         content_align: left
         actions:
           - label: Ça m'intéresse

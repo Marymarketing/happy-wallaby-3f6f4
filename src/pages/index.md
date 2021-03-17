@@ -199,7 +199,7 @@ sections:
         image: images/remarkable-paprika.svg
         title: Champ sémantique
       - title: Contenu exclusif
-        title_align: left
+        title_align: center
         content: |
           Je m'engage à produire pour vous, du **contenue unique**.
 

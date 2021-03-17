@@ -305,7 +305,7 @@ sections:
         type: grid_item
         image: images/best-chestnut.svg
       - title: Cocon sémentique
-        title_align: left
+        title_align: center
         content: >
           Pour un référencement de qualité. L'optimisation de **l'architecture
           SEO** : maillage interne et contenu éditorial, c'est primordial.

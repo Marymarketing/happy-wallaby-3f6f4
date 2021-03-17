@@ -223,7 +223,7 @@ sections:
 
 
           Les **balises**, les **liens** internes, l'arborescence de votre site
-          (**Hn**)... tout y passe.
+          (**Hn**), tout y passe.
         content_align: center
         actions: []
         actions_align: left

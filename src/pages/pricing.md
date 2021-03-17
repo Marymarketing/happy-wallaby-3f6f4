@@ -41,6 +41,20 @@ sections:
           moyenne de rédaction d'un article de 1000 mots varie entre une matinée
           à deux jours**.
       - title: Comment se passe une collaboration ?
+        content: >
+          Diplômé d'une licence  en **marketing événementiel** en 2018 et ayant
+          un attrait pour les métiers du digital pendant mon cursus scolaire.
+          J'ai décidé de suivre des **formations complémentaire pour mieux
+          comprendre la communication sur internet**.
+
+
+          J'ai suivi **plusieurs certifications** sur la **rédaction web**,
+          l'**optimisation SEO** et l'**UX design**.
+
+
+          Je suis une grande curieuse et donc en **veille constante des
+          innovations web**. C'est pourquoi je me forme en continu sur **les
+          nouvelles stratégies et outils de demain**.
       - title: Travaillez- vous avec une équipe ?
         content: >
           Je travail en collaboration avec un expert en marketing digital.

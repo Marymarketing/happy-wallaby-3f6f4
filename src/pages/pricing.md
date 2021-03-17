@@ -26,7 +26,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Rédaction web
-        subtitle: ≃ 1000 mots
+        subtitle: '*à partir'
         title_align: left
         content: |
           ***

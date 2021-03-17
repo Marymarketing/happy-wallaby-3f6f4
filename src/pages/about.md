@@ -15,7 +15,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         type: feature
   - type: grid_section
     grid_items: []

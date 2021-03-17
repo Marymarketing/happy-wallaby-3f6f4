@@ -31,7 +31,7 @@ sections:
     type: features_section
   - actions:
       - label: Contactez-moi
-        url: lorem-ipsum
+        url: /contact
         style: primary
         has_icon: false
         icon: arrow-left

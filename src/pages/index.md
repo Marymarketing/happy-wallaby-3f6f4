@@ -53,7 +53,7 @@ sections:
           *   Création d'une ligne éditoriale
 
           *   Analyse des performances
-        content_align: left
+        content_align: center
       - image: images/interesting-pine.svg
         image_alt: Contentful logo
         image_align: center

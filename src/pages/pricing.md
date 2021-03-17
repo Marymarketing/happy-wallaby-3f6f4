@@ -31,21 +31,7 @@ sections:
         content: |
           ***
 
-          ### 0,8€\*
-
-          *   Fiche produit
-
-          *   Meta Description
-
-          *   Livre blanc
-
-          *   Optimisation SEO
-
-          *   Recherche de mots clés
-
-          *   etc.
-
-          *à partir de\**
+          ### 0,08€\*
         content_align: left
         actions:
           - label: Ça m'intéresse

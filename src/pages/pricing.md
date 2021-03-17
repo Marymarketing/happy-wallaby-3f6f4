@@ -42,13 +42,12 @@ sections:
           à deux jours**.
       - title: Comment se passe une collaboration ?
         content: >
-          En amont, vous aurez remplis le petit formulaire de contact Calendly
-          pour booker [un rendez-vous téléphonique](/contact).
+          En amont, vous aurez remplis le **petit formulaire** de contact
+          Calendly pour booker [un rendez-vous téléphonique](/contact).
 
 
           La première étape est donc la prise de contact et la définition des
-          missions. Il m'est important d'apprendre à vous connaitre et à
-          déterminer vos envies et vos besoins.
+          missions.
 
 
           Ensuite, en fonction de cette première conversation, je vous envois
@@ -60,9 +59,6 @@ sections:
           Tout au long de cette dernière, je reste à votre disposition pour
           répondre à toutes vos questions ou remarques. En ce qui concerne nos
           échanges par mail ou par téléphone, cela dépend de vos envies.
-          J’essaye d’être concise dans mes mails afin d'éviter les échanges par
-          mail à rallonge. Si ce n’est pas possible, on fixe un rdv
-          téléphonique.
 
 
           Après vous avoir livré le travail final, je reste dispo pour effectuer

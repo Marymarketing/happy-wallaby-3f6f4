@@ -8,7 +8,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: left
         media_width: thirty-three
-        subtitle: Réda
+        subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
   - type: grid_section
     grid_items: []
     grid_cols: two

@@ -223,7 +223,7 @@ sections:
 
           Les **balises** (TITRES, META), les **liens** internes, l'arborescence
           de votre site (**H1**, **H2**, etc.)... tout y passe.
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto

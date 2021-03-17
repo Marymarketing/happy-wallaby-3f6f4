@@ -10,8 +10,7 @@ sections:
         media_width: fourty
         subtitle: "Je suis\_rédactrice web SEO depuis quelque temps et en freelance\_depuis peu."
         align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 

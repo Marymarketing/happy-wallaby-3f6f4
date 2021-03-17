@@ -50,7 +50,7 @@ sections:
 
           *   Identification de votre audience
 
-          *   *   Définition du champ sémantique
+          *   Définition du champ sémantique
 
           *   Création d'une ligne éditoriale
         content_align: left

@@ -43,7 +43,7 @@ sections:
     actions_width: fourty
     align: center
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: large
     has_border: false
     background_color: none
     background_image_opacity: 0

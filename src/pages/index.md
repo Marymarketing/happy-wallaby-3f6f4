@@ -44,15 +44,15 @@ sections:
         title: Stratégie de contenu
         title_align: center
         content: |
-          *   Définir vos objectifs
+          *   Étude de l'environnement
 
-          *   Définition des champ éditoriale
+          *   Recherche des mots clés pertinent
 
-          *   Déterminer les longues traines
+          *   Identification de votre audience
+
+          *   *   Définition du champ sémantique
 
           *   Création d'une ligne éditoriale
-
-          *   Analyse des performances
         content_align: left
       - image: images/interesting-pine.svg
         image_alt: Contentful logo

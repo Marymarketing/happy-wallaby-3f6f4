@@ -61,16 +61,17 @@ sections:
         image_width: twenty-five
         image_position: top
         image_has_padding: false
-        content: |
+        content: |+
+          *   Définition du champ sémantique
+
           *   Création d'une ligne éditoriale
 
-          *   Identification de votre audience
+          *   Rédaction de contenu unique
 
-          *   Recherche des mots clés pertinent
+          *   Balises HTML
 
-          *   Veille rédactionnelle
+          *   Méthode AIDA
 
-          *   Rédaction de contenue unique
         title: Rédaction web
         content_align: left
       - image: images/square-oak.svg

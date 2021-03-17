@@ -20,17 +20,15 @@ sections:
 
           ### 0,08€\*
 
+          *   Veille sur le sujet
 
+          *   Stratégie éditoriale
 
-          Veille sur le sujet
+          *   Écriture du contenu
 
-          Stratégie éditoriale
+          *   Optimisation SEO
 
-          Écriture du contenu
-
-          Optimisation SEO
-
-          Temps d’écriture
+          *   Temps d’écriture
         content_align: center
         actions:
           - label: Ça m'intéresse

@@ -30,7 +30,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - actions:
-      - label: lorem-ipsum
+      - label: Contactez-moi
         url: lorem-ipsum
         style: primary
         has_icon: false

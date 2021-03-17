@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
     image: images/Startup life-pana.png
     media_position: right
-    content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet. Je serais ravie de vous faire parvenir un\_**devis gratuit**.\n\nJe peux vous aider dans de nombreux domaines :\n\n*   Réalisation d'un audit SEO et mise en place de stratégies d'acquisition de trafic\n\n*   Définition d'une stratégie de content marketing\n\n*   Rédaction de contenus optimisés SEO\n\n*   Création de campagnes sur les réseaux sociaux\n"
+    content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet. Je serais ravie d'**échanger **avec vous.\n\nJe peux vous aider dans de nombreux domaines :\n\n*   Réalisation d'un audit SEO et mise en place de stratégies d'acquisition de trafic\n\n*   Définition d'une stratégie de content marketing\n\n*   Rédaction de contenus optimisés SEO\n\n*   Création de campagnes sur les réseaux sociaux\n"
   - actions: []
     actions_position: bottom
     actions_width: fourty

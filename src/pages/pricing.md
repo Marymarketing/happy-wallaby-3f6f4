@@ -9,26 +9,6 @@ sections:
     padding_bottom: small
     image: images/Startup life-pana.png
     media_position: right
-  - title: Comment j'établie mes tarifs ?
-    features:
-      - content: "Dans le monde de la rédaction web, le\_**volume de travail**,\_la **veille** à effectuer, les\_**outils** et **techniques** de rédaction\_de contenu nécessaires ainsi que les\_**délais de réalisation**\_varient beaucoup.\_Pour cela, il est difficile de s'arrêter sur un seul et unique tarif conforme à toutes les demandes.\n\nMes tarifs sont donc passible **d’évoluer** en fonction de la demande, de sa complexité, de son volume ou encore du délai à respecter.\n\nLe **référencement naturel** et **l’optimisation\_SEO** sont aux coeur de tous mes\_contenus. Néanmoins, mon but est avant tout de\_satisfaire l’intérêt\_des lecteurs et ces besoins d’informations avec des textes simples et plaisant à lire.\n\nN'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie **d'échanger** avec vous.\n\n"
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
-    feature_padding_vert: medium
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - features:
       - content: |
           **Rédaction web : à partir de 0,08 €/mot**
@@ -58,6 +38,26 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/Visuel tarif_5.svg
+  - title: Comment j'établie mes tarifs ?
+    features:
+      - content: "Dans le monde de la rédaction web, le\_**volume de travail**,\_la **veille** à effectuer, les\_**outils** et **techniques** de rédaction\_de contenu nécessaires ainsi que les\_**délais de réalisation**\_varient beaucoup.\_Pour cela, il est difficile de s'arrêter sur un seul et unique tarif conforme à toutes les demandes.\n\nMes tarifs sont donc passible **d’évoluer** en fonction de la demande, de sa complexité, de son volume ou encore du délai à respecter.\n\nLe **référencement naturel** et **l’optimisation\_SEO** sont aux coeur de tous mes\_contenus. Néanmoins, mon but est avant tout de\_satisfaire l’intérêt\_des lecteurs et ces besoins d’informations avec des textes simples et plaisant à lire.\n\nN'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie **d'échanger** avec vous.\n\n"
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: center
+        type: feature
+    feature_padding_vert: medium
+    align: center
+    padding_top: none
+    padding_bottom: none
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
   - actions:
       - label: Contactez-moi
         url: /contact

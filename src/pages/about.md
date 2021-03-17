@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: 'Marylène, 25 ans, rédactrice web'
-        content: "Je m'appelle Marylène, je vie en Normandie depuis toujours et \n\nDe part mon attrait pour le **marketing** ainsi que par **l'écriture et l'art des mots**, j'ai décider de mettre mes compétences au **services des autres**. Pur produit de la génération Y, je baigne dans l’univers du web et des nouvelles technologies depuis mon adolescence.\n\nJe suis diplômé d'une licence en\_**marketing événementiel**\_et certifiés d plusieurs\_formations complémentaire pour mieux comprendre la communication sur internet.\n\n\n\n![](/images/En%20savoir%20plus%20\\(1\\).svg)\n"
+        content: "Je m’appelle\_**Marylène**, j’ai 25 ans et j’habite depuis toujours en Normandie. Je suis une personne simple, curieuse, chaleureuse et organisée.\_Mon quotidien est rythmée par de la lecture, de l'écriture, des balades à la mer et un peu de sport.\n\nJe suis\_**rédactrice web SEO **depuis quelque temps et en** freelance\_**depuis peu. Diplômée d’un\_**BTS Manager**\_et d’une\_**licence en marketing événementiel**, j’ai toujours étais passionnée par le pouvoir des mots.\n"
         image: images/Messaging fun-pana.png
         image_alt: People in conversation in the office lounge area
         media_position: left

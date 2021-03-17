@@ -48,7 +48,7 @@ sections:
         *   Définir vos objectifs
         *   Définition des champ éditoriale
 
-          *   Déterminer les longues traines
+        *   Déterminer les longues traines
 
           *   Création d'une ligne éditoriale
 

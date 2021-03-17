@@ -68,7 +68,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Tarif à la journée
-        subtitle: Par jour
+        subtitle: '*à partir de'
         title_align: left
         content_align: left
         actions:

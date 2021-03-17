@@ -358,7 +358,7 @@ sections:
           La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
           **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle
           en tant que **CM**.
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto

@@ -355,7 +355,6 @@ sections:
         type: grid_item
         image: images/super-zebra.svg
       - title: Community management
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum

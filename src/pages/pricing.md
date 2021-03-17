@@ -40,7 +40,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Par feuillet
-        subtitle: ≃ 1000 mots
+        subtitle: ≃ 1500 signes (250 mots)
         title_align: left
         content: |
           ***

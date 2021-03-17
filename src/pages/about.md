@@ -13,6 +13,7 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: left
         media_width: thirty-three
+        subtitle: '                       '
   - type: grid_section
     title: Mes réseaux
     grid_items: []

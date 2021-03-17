@@ -11,7 +11,7 @@ sections:
     media_position: right
   - type: grid_section
     grid_items:
-      - title: Création
+      - title: Par mot
         subtitle: ≃ 1000 mots
         title_align: left
         content: |

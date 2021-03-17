@@ -40,7 +40,7 @@ sections:
           peuvent influer sur la durée de ma prestation. Cependant **la durée
           moyenne de rédaction d'un article de 1000 mots varie entre une matinée
           à deux jours**.
-      - title: Comment fixez-vous les prix ?
+      - title: Comment se passe une collaboration ?
         content: >
           Je me réfère au prix moyen d'un contenu ou au prix moyen d'un mot afin
           de m'aligner sur le marcher et vous proposer ds prix juste.

@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: 'Bonjour, moi c''est Mary'
-        content: "Je m’appelle\_**Marylène**, j’ai 25 ans et j’habite depuis toujours en Normandie. Je suis une personne simple, curieuse, chaleureuse et organisée.\_Mon quotidien est rythmée par de la lecture, de l'écriture, des balades à la mer et un peu de sport (un peu...).\n\nJe suis\_**rédactrice web SEO** depuis quelque temps et en **freelance**\_depuis peu. Diplômée d’un\_**BTS assistant-manager**\_et d’un** Bachelor en marketing événementiel**, j’ai toujours étais passionnée par le pouvoir des mots.\n"
+        content: "Je m’appelle\_**Marylène**, j’ai 25 ans et j’habite depuis toujours en Normandie. Je suis une personne simple, curieuse, chaleureuse et organisée.\_Mon quotidien est rythmée par de la lecture, de l'écriture, des balades à la mer et un peu de sport (un peu...).\n\nJe suis\_**rédactrice web SEO** depuis quelque temps et en **freelance**\_depuis peu. Diplômée d’un\_**BTS assistant-manager**\_et d’un **Bachelor en marketing événementiel**, j’ai toujours étais passionnée par le pouvoir des mots.\n"
         image: images/Messaging fun-pana.png
         image_alt: People in conversation in the office lounge area
         media_position: left

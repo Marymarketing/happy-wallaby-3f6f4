@@ -12,8 +12,7 @@ sections:
     content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie **d'échanger** avec vous.\n"
   - title: Comment j'établie mes tarifs ?
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 

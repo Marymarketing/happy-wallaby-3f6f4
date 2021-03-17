@@ -305,7 +305,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/best-chestnut.svg
-      - title: Cocon sémentique
+      - title: Cocon sémantique
         title_align: center
         content: >
           Pour un référencement de qualité. L'optimisation de **l'architecture

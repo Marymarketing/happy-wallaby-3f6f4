@@ -100,13 +100,13 @@ sections:
           comprendre la communication sur internet**.
 
 
-          J'ai suivi plusieurs certifications sur la rédaction web,
-          l'optimisation SEO et l'UX design.
+          J'ai suivi **plusieurs certifications** sur la **rédaction web**,
+          l'**optimisation SEO** et l'**UX design**.
 
 
-          Je suis une grande curieuse et donc en veille constante des
-          innovations web. C'est pourquoi je me forme en continu sur les
-          nouvelles stratégies et outils de demain.
+          Je suis une grande curieuse et donc en **veille constante des
+          innovations web**. C'est pourquoi je me forme en continu sur **les
+          nouvelles stratégies et outils de demain**.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

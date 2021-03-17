@@ -38,6 +38,22 @@ sections:
   - type: grid_section
     align: center
     grid_items:
+      - image: images/violet-maple.svg
+        image_alt: DatoCMS logo
+        image_align: center
+        title: Stratégie de contenu
+        title_align: center
+        content: |
+          *   Définir vos objectifs
+
+          *   Définition des champ éditoriale
+
+          *   Déterminer les longues traines
+
+          *   Création d'une ligne éditoriale
+
+          *   Analyse des performances
+        content_align: left
       - image: images/interesting-pine.svg
         image_alt: Contentful logo
         image_align: center
@@ -75,22 +91,6 @@ sections:
           *   Élaboration du maillage interne
 
           *   Définition d'une stratégie backlinking
-      - image: images/violet-maple.svg
-        image_alt: DatoCMS logo
-        image_align: center
-        title: Stratégie de contenu
-        title_align: center
-        content: |
-          *   Définir vos objectifs
-
-          *   Définition des champ éditoriale
-
-          *   Déterminer les longues traines
-
-          *   Création d'une ligne éditoriale
-
-          *   Analyse des performances
-        content_align: left
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

@@ -54,13 +54,13 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          *   Analyse du public
+          *   Parcours client A.I.D.A
 
-          *   Identifier la cible
+          *   Méthode QQOQCP
 
-          *   Définir les objectifs
+          *   Écriture persuasive
 
-          *   Selection de longues traînes
+          *   Balises HTML
       - title: Optimisation SEO
         title_align: left
         content: |

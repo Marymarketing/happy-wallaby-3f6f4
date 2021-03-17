@@ -60,7 +60,7 @@ sections:
           Je travail en collaboration avec un expert en marketing digital.
           Toutefois, je suis seul en charge de rédiger votre contenu seo et de
           l'optimisation de votre communication sur le web.
-      - title: Quelles sont vos diplômes ?
+      - title: Comment se passe une collaboration ?
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

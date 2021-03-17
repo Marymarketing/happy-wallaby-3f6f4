@@ -29,7 +29,7 @@ sections:
           *   Optimisation SEO
 
           *   Temps d’écriture
-        content_align: center
+        content_align: left
         actions:
           - label: Ça m'intéresse
             url: /features

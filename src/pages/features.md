@@ -29,6 +29,8 @@ sections:
 
           *   Définir votre audience
 
+          *
+
           *   Créer une ligne éditoriale cohérente
         content_align: left
         actions: []

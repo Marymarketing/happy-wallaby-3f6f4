@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Tarifs
     subtitle: 'Par mot, feuillet ou à la journée quel est votre préférence ?'
-    align: right
+    align: center
     padding_top: large
     padding_bottom: small
     image: images/Startup life-pana.png

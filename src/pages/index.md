@@ -339,8 +339,9 @@ sections:
       - title: Formation rédaction web
         title_align: center
         content: >
-          Vous avez la possibilité de me demander une formation **clair et
-          concise** pour que vous soyez votre propre **rédacteur web** !
+          La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
+          **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle
+          en tant que **CM**.
         content_align: center
         actions: []
         actions_align: left

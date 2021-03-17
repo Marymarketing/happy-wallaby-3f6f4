@@ -131,9 +131,9 @@ sections:
           de m'aligner sur le marcher et vous proposer ds prix juste.
       - title: Travaillez- vous avec une équipe ?
         content: >
-          Je travail en collaboration avec un web marketing. Mais je suis la
-          seul en charge de rédiger du contenu seo et de l'optimisation de ce
-          contenu.
+          Je travail en collaboration avec un expert en marketing digital.
+          Toutefois, je suis seul en charge de rédiger votre contenu seo et de
+          l'optimisation de votre communication sur le web.
       - title: Quelles sont vos diplômes ?
         content: >
           J'ai une formation de rédactrice web depuis janvier 2021.

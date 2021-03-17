@@ -14,7 +14,6 @@ sections:
         media_position: left
         media_width: thirty-three
   - type: grid_section
-    title: Mes réseaux
     grid_items: []
     grid_cols: two
     grid_gap_horiz: large

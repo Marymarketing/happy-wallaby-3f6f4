@@ -85,13 +85,13 @@ sections:
         content: |
           *   Audit de votre site web
 
-          *   Stratégie d'évolution du contenu
+          *   Balise Méta/Alt
 
-          *   Étude de votre contenu
+          *   Structure des titres H1, H2...
 
-          *   Élaboration du maillage interne
+          *   Longue traine
 
-          *   Définition d'une stratégie backlinking
+          *   Stratégie netlinking
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small

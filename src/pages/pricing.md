@@ -96,17 +96,17 @@ sections:
         content: >
           Diplômé d'une licence  en **marketing événementiel** fin 2019 et ayant
           un attrait pour les métiers du digital pendant mon cursus scolaire.
-          J'ai décidé de suivre des** formations complémentaire pour mieux
+          J'ai décidé de suivre des **formations complémentaire pour mieux
           comprendre la communication sur internet**.
 
 
-          J'ai acquéris plusieurs certifications sur la rédaction web,
+          J'ai suivi plusieurs certifications sur la rédaction web,
           l'optimisation SEO et l'UX design.
 
 
-          Je suis une grande curieuse et en veille constante des innovations.
-          C'est pourquoi je me forme en continu sur les nouvelles stratégies et
-          outils de demain.
+          Je suis une grande curieuse et donc en veille constante des
+          innovations web. C'est pourquoi je me forme en continu sur les
+          nouvelles stratégies et outils de demain.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

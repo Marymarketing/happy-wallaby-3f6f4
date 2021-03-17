@@ -24,9 +24,9 @@ sections:
       - title: Étude du sujet à rédiger
         title_align: left
         content: |
-          *   Identification des requêtes
+          *   Identification des mots clés cible
 
-          *   Recherche de mots clés
+          *   Analyse des intentions de recherche de votre requete
 
           *   Définition de la structure
 

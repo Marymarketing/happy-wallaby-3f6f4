@@ -50,9 +50,9 @@ sections:
 
           *   Identification de votre audience
 
-          *   Définition du champ sémantique
+          *   Définir vos objectifs
 
-          *   Création d'une ligne éditoriale
+          *   Élaborer un stratégie marketing adéquate
         content_align: left
       - image: images/interesting-pine.svg
         image_alt: Contentful logo

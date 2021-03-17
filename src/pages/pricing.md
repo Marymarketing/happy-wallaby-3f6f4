@@ -12,7 +12,7 @@ sections:
     content: "N'hésitez pas à faire appel à mes services de\_**rédactrice web**, quelque soit votre projet.\n\nJe serais ravie **d'échanger** avec vous.\n"
   - title: Comment j'établie mes tarifs ?
     features:
-      - content: "Dans le monde de la rédaction web, le\_**volume de travail**,\_**la veille **à effectuer, les\_**outils et techniques **de rédaction\_de contenu nécessaires ainsi que les\_délais de réalisation\_varient beaucoup.\_Pour cela, il est difficile d’établir un seul et unique tarif, conforme à toutes les demandes.\n\nMes tarifs sont donc susceptibles d’**évoluer en fonction de la demande**, de sa complexité, de son volume ou encore du délai à respecter.\n\nTous mes\_contenus sont aussi créer pour le **référencement naturel** et **l’optimisation\_SEO**. Néanmoins, mon but est avant tout de\_satisfaire le besoin d’information et l’intérêt\_des lecteurs avec des textes simples, clairs et agréables à lire.\n"
+      - content: "Dans le monde de la rédaction web, le\_**volume de travail**,\_la **veille** à effectuer, les\_**outils** et **techniques** de rédaction\_de contenu nécessaires ainsi que les\_**délais de réalisation**\_varient beaucoup.\_Pour cela, il est difficile de s'arrêter sur un seul et unique tarif, conforme à toutes les demandes.\n\nMes tarifs sont donc susceptibles **d’évoluer** en fonction de la demande, de sa complexité, de son volume ou encore du délai à respecter.\n\nLe **référencement naturel** et **l’optimisation\_SEO **sont aux coeur de tous mes\_contenus. Néanmoins, mon but est avant tout de\_satisfaire le besoin d’information et l’intérêt\_des lecteurs avec des textes simples et plaisant à lire.\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: top

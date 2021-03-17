@@ -67,7 +67,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Taux journalier
+      - title: Tarif à la journée
         subtitle: Par jour
         title_align: left
         content_align: left

@@ -62,7 +62,7 @@ sections:
         image_position: top
         image_has_padding: false
         content: |
-          *   Étude de l'environnement
+          *   Création d'une ligne éditoriale
 
           *   Identification de votre audience
 

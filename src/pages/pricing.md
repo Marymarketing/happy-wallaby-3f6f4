@@ -51,6 +51,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: images/ultra-aspen.svg
   - type: grid_section
     title: FAQ
     grid_items:

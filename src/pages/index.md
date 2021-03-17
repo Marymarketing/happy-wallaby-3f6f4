@@ -353,7 +353,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/super-zebra.svg
-      - title: Community management
+      - title: Formation web
         title_align: center
         content: >
           Vous avez la possibilité de me demander une formation **clair et

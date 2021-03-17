@@ -42,8 +42,32 @@ sections:
           à deux jours**.
       - title: Comment se passe une collaboration ?
         content: >
-          Je me réfère au prix moyen d'un contenu ou au prix moyen d'un mot afin
-          de m'aligner sur le marcher et vous proposer ds prix juste.
+          En amont, vous aurez remplis le petit formulaire de contact Calendly
+          pour booker [un rendez-vous téléphonique](/contact).
+
+
+          La première étape est donc la prise de contact et la définition des
+          missions. Il m'est important d'apprendre à vous connaitre et à
+          déterminer vos envies et vos besoins.
+
+
+          Ensuite, en fonction de cette première conversation, je vous envois
+          une recommandation des missions à mettre en place et vous joins
+          également un devis. Vous relisez tout ça, on modifie si besoin et la
+          collaboration est lancée !
+
+
+          Tout au long de cette dernière, je reste à votre disposition pour
+          répondre à toutes vos questions ou remarques. En ce qui concerne nos
+          échanges par mail ou par téléphone, cela dépend de vos envies.
+          J’essaye d’être concise dans mes mails afin d'éviter les échanges par
+          mail à rallonge. Si ce n’est pas possible, on fixe un rdv
+          téléphonique.
+
+
+          Après vous avoir livré le travail final, je reste dispo pour effectuer
+          les modifications éventuelles. Lorsque le rendu vous convient, je vous
+          envoie la facture et vous avez 30 jours pour la régler.
       - title: Travaillez- vous avec une équipe ?
         content: >
           Je travail en collaboration avec un expert en marketing digital.

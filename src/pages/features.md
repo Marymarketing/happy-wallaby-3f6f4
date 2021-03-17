@@ -5,7 +5,7 @@ sections:
     align: left
     media_width: fifty
     title: Rédaction web pour tout vos site internet
-    subtitle: Soyez sur la première page Google
+    subtitle: Soyez sur les première page des moteurs de recherche
     actions:
       - label: Contactez-moi
         url: /contact

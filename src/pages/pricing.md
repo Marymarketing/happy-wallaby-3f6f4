@@ -57,9 +57,27 @@ sections:
           nouvelles stratégies et outils de demain**.
       - title: Pourquoi faire appel à une rédactrice web ?
         content: >
-          Je travail en collaboration avec un expert en marketing digital.
-          Toutefois, je suis seul en charge de rédiger votre contenu seo et de
-          l'optimisation de votre communication sur le web.
+          Il existe plusieurs raisons pertinent pour faire appel à un rédacteur
+          web ou à une rédactrice web.
+
+
+          Vous pouvez faire appel à nous par manque de compétences. En effet, si
+          vous ne connaissez pas les termes, SEO, wordpress, netlinking, charte
+          éditoriale ou stratégie de contenu, vous ne pourrez pas vous passer
+          d'une rédactrice de contenu !
+
+
+          Ensuite, le manque de temps peut être aussi un élément déclencheur.
+          Effectivement, si vous êtes chef d'entreprise vous avez surement
+          beaucoup de missions et de projets sur le feu. Faire appel à une
+          rédactrice web en freelance vous permettra de laisser vos salariés
+          focus sur leurs missions tout en restant dans les temps.
+
+
+          Enfin, il est possible aussi que vous ne disposiez pas de rédacteur
+          dans votre structure. En période de forte activité dans votre
+          entreprise, un freelance ne vous engage à rien si ce n'est de payer
+          ces services. 
       - title: Comment se passe une collaboration ?
         content: >
           En amont, vous aurez remplis le **petit formulaire** de contact

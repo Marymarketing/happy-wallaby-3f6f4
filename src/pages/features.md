@@ -365,7 +365,7 @@ sections:
         align: left
         type: feature
         image: images/www-pana.png
-    title: Mes 4 étapes pour faire de la rédaction web
+    title: Mes 4 étapes pour rédiger votre contenu sur le web
     padding_top: large
     align: left
     feature_padding_vert: large

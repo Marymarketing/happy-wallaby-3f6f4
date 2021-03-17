@@ -49,7 +49,7 @@ sections:
         type: feature
     feature_padding_vert: medium
     align: center
-    padding_top: none
+    padding_top: medium
     padding_bottom: none
     has_border: false
     background_color: none

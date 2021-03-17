@@ -80,9 +80,11 @@ sections:
     grid_items:
       - title: Combien de temps faut-il pour écrire un article ?
         content: >
-          Cela dépend de la taille de l'article, du thème, de la deadline aussi
-          mais surtout du nombre de mot souhaité. Mais cela peut varier entre
-          une demi journée à 2 jours.
+          Cela dépend de sa thématique, de la profondeur d'analyse sémantique,
+          de l'optimisation SEO à effectuer, de la taille de l'article, du
+          travail de netlinking. Toutes ces variable peuvent influer sur la
+          durée de ma prestation. Cependant en moyenne cela varie entre une demi
+          journée à deux jours.
       - title: Comment fixez-vous les prix ?
         content: >
           Je me réfère au prix moyen d'un contenu ou au prix moyen d'un mot afin

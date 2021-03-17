@@ -321,7 +321,7 @@ sections:
         type: grid_item
         image: images/royal-sycamore.svg
       - title: Community management
-        title_align: left
+        title_align: center
         content: >
           La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
           **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle

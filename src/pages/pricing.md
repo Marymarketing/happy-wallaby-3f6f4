@@ -9,8 +9,7 @@ sections:
     padding_bottom: small
     image: images/Startup life-pana.png
     media_position: right
-  - title: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 

@@ -64,13 +64,15 @@ sections:
       - title: Optimisation SEO
         title_align: left
         content: |
-          *   Structuration du contenu
+          *   Balise Méta
 
-          *   Amélioration des mots clés
+          *   Balise alt
 
-          *   Implantation de liens
+          *   Hierarchiser les titres Hn
 
-          *   Proposition de contenue externe
+          *   Amélioration du champ sémantique
+
+          *   Longue traîne
         content_align: left
         actions: []
         actions_align: left

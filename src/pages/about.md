@@ -9,9 +9,6 @@ sections:
     features:
       - title: 'Marylène, 25 ans, rédactrice web'
         content: >
-          Mary Marketing c'est Marylène, rédactrice web.
-
-
           Intéressée par l'écriture et l'art des mots j'ai décider de mettre mes
           compétences au services des autres.
 

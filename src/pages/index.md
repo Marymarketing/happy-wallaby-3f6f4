@@ -50,7 +50,7 @@ sections:
 
         *   Déterminer les longues traines
 
-          *   Création d'une ligne éditoriale
+        *   Création d'une ligne éditoriale
 
           *   Analyse des performances
         content_align: left

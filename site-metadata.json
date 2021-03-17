@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Rédaction web",
-                "url": "/features",
+                "url": "/redaction-web",
                 "style": "primary",
                 "has_icon": false
             },

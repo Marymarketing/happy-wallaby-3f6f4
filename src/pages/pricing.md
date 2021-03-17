@@ -39,7 +39,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Réécriture
+      - title: Par feuillet
         subtitle: ≃ 1000 mots
         title_align: left
         content: |

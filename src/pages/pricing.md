@@ -30,7 +30,16 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - features:
-      - content: "Rédaction web : à partir de 0,08 €/mot\n\n\rRelecture et Correction : 50 €/heure\n\n\rTarif à la journée : 300€\r\n\nDélais urgent (sous 24 h) : + 50 %\n\n\rPossibilité de forfait sur demande\n"
+      - content: |
+          Rédaction web : à partir de 0,08 €/mot
+
+          Relecture et Correction : 50 €/heure
+
+          Tarif à la journée : 300€
+
+          Délais urgent (sous 24 h) : + 50 %
+
+          Possibilité de forfait sur demande
         actions: []
         image_alt: lorem-ipsum
         media_position: top

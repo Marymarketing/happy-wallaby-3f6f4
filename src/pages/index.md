@@ -289,7 +289,7 @@ sections:
         type: grid_item
         image: images/wonderful-aspen.svg
       - title: Rédaction web
-        title_align: left
+        title_align: center
         content: >
           Que ce soit des **articles** de blog, des **descriptions** de produit,
           des **e-books** ou des **livres blanc**.. je peux tout réaliser.

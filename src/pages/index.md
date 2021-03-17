@@ -323,10 +323,8 @@ sections:
         image: images/royal-sycamore.svg
       - title: Netlinking
         title_align: center
-        content: >
-          La **gestion** d'une marque ou d'une entreprise sur les **réseaux**
-          **sociaux** est devenue nécessaire aujourd'hui. C'est aussi mon rôle
-          en tant que **CM**.
+        content: |
+          dsssdv
         content_align: center
         actions: []
         actions_align: left

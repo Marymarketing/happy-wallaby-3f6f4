@@ -82,10 +82,10 @@ sections:
         content: >
           Tout dépend de sa **thématique**, de la **profondeur d'analyse
           sémantique**, de l'**optimisation SEO** à effectuer, du travail de
-          **netlinking** et de la taille de l'article. Toutes ces variable
-          peuvent influer sur la durée de ma prestation. Cependant la durée de
-          rédaction d'un article de 1000 mots varie entre une matinée à deux
-          jours.
+          **netlinking** et de la **taille de l'article**. Toutes ces variable
+          peuvent influer sur la durée de ma prestation. Cependant la durée
+          moyenne de rédaction d'un article de 1000 mots varie entre une matinée
+          à deux jours.
       - title: Comment fixez-vous les prix ?
         content: >
           Je me réfère au prix moyen d'un contenu ou au prix moyen d'un mot afin

@@ -159,7 +159,7 @@ Quand vous possédez les capacité de rédactions nécéssaire pour être rédac
 
 En qualité de rédacteur vous pouvez travailler dans une entreprise (salariat). Dans ce cas, le **salaire moyen** peu varier de 1500€ et 2500€ brut par mois selon le niveaux d'expérience. 
 
-En tant que **rédacteur freelance**, le salaire mensuel varie amplement. En effet, il dépendra en fonction de l’expertise et l’expérience, les conditions du marché mais aussi le lieu géographique. Selon le baromètre 2021 réalisé par Malt, le **tarif moyen journalier** d’un rédacteur web basé en France est de **402€**.
+En tant que **rédacteur freelance**, le salaire mensuel varie amplement. En effet, il dépendra en fonction de l’expertise et l’expérience, les conditions du marché mais aussi le lieu géographique. Selon le baromètre 2021 réalisé par Malt, le **tarif moyen journalier** d’un rédacteur web basé en France est de **359€**.
 
 ## Et maintenant ?
 

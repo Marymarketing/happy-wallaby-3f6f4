@@ -336,7 +336,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/knowledgeable-aluminum.svg
-      - title: Formation rédaction web
+      - title: Community management
         title_align: center
         content: >
           La **gestion** d'une marque ou d'une entreprise sur les **réseaux**

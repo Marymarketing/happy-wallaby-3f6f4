@@ -94,7 +94,7 @@ sections:
           l'optimisation de votre communication sur le web.
       - title: Quelles sont vos diplômes ?
         content: >
-          Diplômé d'une licence  en **marketing événementiel** fin 2019 et ayant
+          Diplômé d'une licence  en **marketing événementiel** en 2018 et ayant
           un attrait pour les métiers du digital pendant mon cursus scolaire.
           J'ai décidé de suivre des **formations complémentaire pour mieux
           comprendre la communication sur internet**.

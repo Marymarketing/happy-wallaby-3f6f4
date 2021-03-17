@@ -30,17 +30,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: "Rédaction web : à partir de 0,08 €/mot\n\n\rRelecture et Correction : 50 €/heure\n\n\rTarif à la journée : 300€\r\n\nDélais urgent (sous 24 h) : + 50 %\n\n\rPossibilité de forfait sur demande\n"
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

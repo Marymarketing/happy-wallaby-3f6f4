@@ -57,7 +57,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: images/Visuel tarif ok.svg
+    background_image: images/Visuel tarif_5.svg
   - actions:
       - label: Contactez-moi
         url: /contact

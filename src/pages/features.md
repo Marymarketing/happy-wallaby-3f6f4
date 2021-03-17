@@ -64,9 +64,7 @@ sections:
       - title: Optimisation SEO
         title_align: left
         content: |
-          *   Balise Méta
-
-          *   Balise alt
+          *   Balise Méta/Alt
 
           *   Hierarchiser les titres Hn
 

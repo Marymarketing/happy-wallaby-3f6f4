@@ -413,7 +413,7 @@ sections:
           mots. Très satisfaite du travail.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          Claire Lebrun**,** *Responsable communication*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left

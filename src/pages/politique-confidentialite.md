@@ -1,7 +1,7 @@
 ---
 title: Politique de confidentialité
 seo:
-  title: Privacy Policy
+  title: Politique de confidentialité
   description: This is the privacy policy page
   extra:
     - name: 'og:type'

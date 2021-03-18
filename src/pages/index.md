@@ -403,7 +403,7 @@ sections:
           à l'écoute de nos attentes.
 
 
-          **Miles Tone,** *CEO, Studio*
+          Frédéric Gauvin**,** Auto-entrepruneur
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left

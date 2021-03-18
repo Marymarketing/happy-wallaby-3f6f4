@@ -274,7 +274,7 @@ sections:
     title: Demandez un devis
     actions:
       - label: Par ici !
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: right
     align: left

@@ -403,7 +403,7 @@ sections:
           à l'écoute de nos attentes.
 
 
-          Frédéric Gauvin**,** Auto-entrepruneur
+          Frédéric Gauvin, *Auto-entrepruneur*
         image: images/Tem3.png
         image_alt: Miles Tone
         image_position: left

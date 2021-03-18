@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: src/data/categories/general.yaml
+    category: src/data/categories/marketing-digital.yaml
     show_date: true
     show_categories: true
     show_author: true

@@ -324,10 +324,9 @@ sections:
       - title: Netlinking
         title_align: center
         content: >
-          Le netlinking favorise le référencement naturel en développant le
-          nombre de liens hypertextes externes (backlink) pointant vers un site
-          ou une page web que l'on souhaite promouvoir. L'objectif est d'obtenir
-          un trafic qualifié en provenance de ces liens.
+          Pour favoriser le **référencement naturel** et obtenir un **trafic
+          qualifié**, développons le nombre de vos liens externes
+          (**backlink**).
         content_align: center
         actions: []
         actions_align: left

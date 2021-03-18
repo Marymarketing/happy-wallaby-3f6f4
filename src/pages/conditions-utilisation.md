@@ -1,7 +1,6 @@
 ---
 title: Terms & Conditions
 seo:
-  title: Terms and Conditions
   description: This is the terms and conditions page
   extra:
     - name: 'og:type'

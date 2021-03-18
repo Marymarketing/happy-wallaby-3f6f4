@@ -74,7 +74,7 @@ sections:
     background_color: primary
 seo:
   title: À propos
-  description: This is the about us page
+  description: Apprenez-en plus sur qui se cache derrière Mary Marketing.
   extra:
     - name: 'og:type'
       value: website

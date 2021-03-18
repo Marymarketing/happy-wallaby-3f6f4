@@ -117,7 +117,7 @@ sections:
         image: images/Going up-pana.svg
     feature_padding_vert: medium
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: large
     has_border: false
     background_color: none

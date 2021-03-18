@@ -96,7 +96,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: 'Faire appel a une proffessionnelle du contenu web, c''est primordiale'
-    subtitle: 'Une professionnelle du contenu web, est-ce utile ?'
     features:
       - subtitle: >-
           Aujourd'hui, la rédaction web est primordiale lors de la création ou

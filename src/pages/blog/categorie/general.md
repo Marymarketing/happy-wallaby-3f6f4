@@ -1,5 +1,5 @@
 ---
-title: Général
+title: Marketing 
 sections:
   - type: hero_section
     title: General

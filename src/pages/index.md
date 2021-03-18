@@ -404,7 +404,7 @@ sections:
 
 
           Frédéric Gauvin**,** Auto-entrepruneur
-        image: images/miles-tone.png
+        image: images/Tem3.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five

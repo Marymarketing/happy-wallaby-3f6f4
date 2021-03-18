@@ -1,7 +1,7 @@
 ---
 title: Terms & Conditions
 seo:
-  description: This is the terms and conditions page
+  description: Mentions légales du site Mary Marketing.
   extra:
     - name: 'og:type'
       value: website

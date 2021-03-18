@@ -168,7 +168,7 @@ sections:
     background_color: secondary
 seo:
   title: Tarifs
-  description: This is the pricing page
+  description: 'Par mot, feuillet ou à la journée quelle est votre préférences ?'
   extra:
     - name: 'og:type'
       value: website

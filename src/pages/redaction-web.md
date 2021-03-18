@@ -202,7 +202,7 @@ sections:
       - title: Des articles de blog
         title_align: left
         content: >
-          Trouver un bon sujet pour **un article de blog**, c’est primordiale.
+          Trouver un bon sujet pour **un article de blog**, c’est cruciale.
 
 
           Grâce à des **outils sémantiques**, il m'est possible de vous
@@ -211,7 +211,7 @@ sections:
 
           Effectivement, une bonne position est assuré par Google pour les sites
           qui répondent avec concordance à un sujet ou à un thème recherché par
-          les visiteurs.
+          les visiteurs (les **requêtes**).
         content_align: left
         actions: []
         actions_align: left

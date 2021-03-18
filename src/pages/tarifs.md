@@ -113,7 +113,7 @@ sections:
 
 
           Vous pouvez faire appel à moi par **manque de compétences**. En effet,
-          si vous ne connaissez pas les termes, SEO, wordpress, netlinking,
+          si vous ne connaissez pas les termes : SEO, wordpress, netlinking,
           charte éditoriale ou stratégie de contenu, vous ne pourrez pas vous
           passer d'une rédactrice de contenu !
 

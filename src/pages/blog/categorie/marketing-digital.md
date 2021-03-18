@@ -2,7 +2,7 @@
 title: Marketing
 sections:
   - type: hero_section
-    title: Marketing digital
+    title: Marketing
     subtitle: The optional subtitle
     align: center
     padding_top: medium

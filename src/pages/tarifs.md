@@ -13,7 +13,7 @@ sections:
       - content: |
           **Rédaction web : à partir de 0,08 €/mot**
 
-          **Relecture et Correction : 50 €/heure**
+          **Relecture et correction : 50 €/heure**
 
           **Tarif à la journée : 300€**
 

@@ -6,8 +6,6 @@ subtitle: >-
 date: '2020-04-16'
 author:
 categories:
-  - src/data/categories/tutorials.yaml
-  - src/data/categories/general.yaml
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.

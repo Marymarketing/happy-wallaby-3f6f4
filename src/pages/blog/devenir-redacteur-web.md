@@ -1,9 +1,9 @@
 ---
 title: Devenir rédactrice WEB
 date: '2021-03-16'
-author: null
-categories: {}
-tags: {}
+author:
+categories:
+tags:
 excerpt: >-
   Vous souhaitez en connaitre d'avantage sur le métier de rédacteur de contenu ?
   Dans cet article vous trouverez les avantages ainsi que les formations pour

@@ -137,7 +137,7 @@ sections:
 
 
           La première étape est donc la **prise de contact** et la **définition
-          des missions**. 
+          des missions**.
 
 
           Ensuite, en fonction de cette première conversation, je vous envois
@@ -151,10 +151,13 @@ sections:
 
 
           En ce qui concerne nos échanges par **mail ou par téléphone**, cela
-          dépend de vos envies. Après vous avoir livré le travail final, je
-          reste dispo pour effectuer les modifications éventuelles. Lorsque le
-          rendu vous convient, je vous envoie la facture et vous avez 30 jours
-          pour la régler.
+          dépend de vos envies.
+
+
+          Après vous avoir livré le **travail final**, je reste dispo pour
+          effectuer les modifications éventuelles. Lorsque le rendu vous
+          convient, je vous envoie la facture et vous avez 30 jours pour la
+          régler.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

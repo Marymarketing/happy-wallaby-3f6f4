@@ -5,8 +5,8 @@ subtitle: >-
   effectus est, hilara vita amissa est.
 date: '2020-05-30'
 author: src/data/team/gustav-purpleson.yaml
-categories: {}
-tags: {}
+categories:
+tags:
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum

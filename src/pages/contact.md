@@ -38,7 +38,7 @@ sections:
       services.*
 
 
-      *Pour en savoir plus, reportez-vous à la notice
+      *Pour en savoir plus, reportez vous à la notice
       *[*ci-jointe*](/politique-confidentialité)*.*
     actions: []
     image_alt: lorem-ipsum

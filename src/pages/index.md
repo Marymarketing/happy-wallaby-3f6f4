@@ -161,7 +161,7 @@ sections:
           objectifs.**
         actions:
           - label: En savoir plus
-            url: /features
+            url: /redacteur-web
             style: primary
             has_icon: true
             icon: arrow-right

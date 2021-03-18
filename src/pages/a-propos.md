@@ -73,7 +73,7 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: About
+  title: À propos
   description: This is the about us page
   extra:
     - name: 'og:type'

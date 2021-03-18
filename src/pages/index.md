@@ -414,7 +414,7 @@ sections:
 
 
           Claire Lebrun**,** *Responsable communication*
-        image: images/eleanor-carr.png
+        image: images/Tem4.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five

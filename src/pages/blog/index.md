@@ -14,7 +14,7 @@ sections:
     media_position: right
     actions:
       - label: S'abonner
-        url: https://happy-wallaby-3f6f4.netlify.app/blog/#newsletterform
+        url: 'https://happy-wallaby-3f6f4.netlify.app/blog/#newsletterform'
         style: primary
         has_icon: false
         icon: arrow-left
@@ -37,7 +37,9 @@ sections:
   - type: form_section
     title: Inscrivez-vous
     title_align: center
-    content: <a name="newsletter"></a>Pour ne pas louper un seul article, abonne-toi à ma newsletter !
+    content: >-
+      <a name="newsletter"></a>Pour ne pas louper un seul article, abonne-toi à
+      ma newsletter !
     content_align: center
     form_position: bottom
     form_layout: inline
@@ -55,7 +57,9 @@ sections:
     background_color: secondary
 seo:
   title: Blog
-  description: This is the blog page
+  description: >-
+    Vous souhaitez être en constante veille informationnelle sur le marketing
+    digitale ? Je vous promets des articles passionnant.
   extra:
     - name: 'og:type'
       value: website

@@ -131,7 +131,7 @@ sections:
       N'hésite plus
     actions:
       - label: Premier rendez-vous
-        url: 'https://calendly.com/marymarketing-pro/contact'
+        url: /contact
         style: primary
         has_icon: false
         icon: arrow-left

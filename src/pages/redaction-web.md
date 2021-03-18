@@ -355,7 +355,9 @@ sections:
     padding_bottom: large
 seo:
   title: Rédaction web
-  description: This is the features page
+  description: >-
+    Vous souhaitez en savoir plus sur le domaine de la rédaction web ? Découvrez
+    ce que je vous propose.
   extra:
     - name: 'og:type'
       value: website

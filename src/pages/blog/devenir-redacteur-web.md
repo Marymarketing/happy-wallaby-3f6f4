@@ -9,7 +9,7 @@ tags:
   - src/data/tags/netlify.yaml
   - src/data/tags/redactionweb.yaml
 excerpt: "Comment devenir rédacteur web ? Qu'est ce qu'une rédactrice web ?\_  La première chose à savoir quand on veut devenir rédacteur web ou rédactrice web ..."
-thumb_image: images/Studying-pana.png
+thumb_image: images/knowledgeable-tiger.png
 thumb_image_alt: Post 5 placeholder image
 image: images/remarkable-plankton.png
 image_alt: Post 5 placeholder image

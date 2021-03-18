@@ -323,8 +323,11 @@ sections:
         image: images/royal-sycamore.svg
       - title: Netlinking
         title_align: center
-        content: |
-          dsssdv
+        content: >
+          Le netlinking favoriser le référencement naturel en développant le
+          nombre de liens hypertextes externes (backlink) pointant vers un site
+          ou une page web que l'on souhaite promouvoir. L'objectif est d'obtenir
+          un trafic qualifié en provenance de ces liens.
         content_align: center
         actions: []
         actions_align: left

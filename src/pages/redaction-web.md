@@ -246,7 +246,11 @@ sections:
       - title: Des livres blanc
         title_align: left
         content: >
-          Le livre blanc ou l'e-book est un des outil du **content marketing**.
+          Le **livre blanc** ou l'**e-book** est un des outils du content
+          marketing : l'**Asset Marketing** est un support que vous proposez en
+          téléchargement à votre lead.
+
+
           Ça peut être un guide, **offert** à vos visiteurs, qui va apporter une
           expertise sur un produit, une problématique ou une technique. Il est
           destiné à vos prospects.

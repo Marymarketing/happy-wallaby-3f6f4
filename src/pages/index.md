@@ -397,6 +397,7 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
+        image: images/Tem1.png
       - content: >
           Elle connait bien le domaine. Très professionnelle, Mary marketing est
           à l'écoute de nos attentes.

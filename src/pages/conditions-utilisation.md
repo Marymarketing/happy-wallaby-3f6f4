@@ -18,6 +18,7 @@ seo:
       value: Terms and Conditions
     - name: 'twitter:description'
       value: This is the terms and conditions page
+  title: Mentions légales
 template: page
 ---
 

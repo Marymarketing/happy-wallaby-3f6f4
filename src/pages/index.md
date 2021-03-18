@@ -130,7 +130,7 @@ sections:
           éditoriale**, pour répondre à la **problématique de son client**.
         actions:
           - label: Plus de détails
-            url: /features
+            url: /redaction-web
             style: primary
             has_icon: true
             icon: arrow-right

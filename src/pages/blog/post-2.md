@@ -6,8 +6,6 @@ subtitle: >-
 date: '2020-05-25'
 author:
 categories:
-  - src/data/categories/news.yaml
-  - src/data/categories/general.yaml
 tags:
   - src/data/tags/jamstack.yaml
   - src/data/tags/netlify.yaml

@@ -393,7 +393,7 @@ sections:
           problème d'optimisation. Merci à elle, mon site est plus visible.
 
 
-          Romane Lapresse\*\*,\*\* Cheffe de projet digital
+          Romane Lapresse, *Cheffe de projet digital*
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left

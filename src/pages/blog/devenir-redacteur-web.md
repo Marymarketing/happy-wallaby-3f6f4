@@ -4,7 +4,6 @@ date: '2021-03-16'
 author:
 categories:
 tags:
-  - src/data/tags/redactionweb.yaml
 excerpt: "Comment devenir rédacteur web ? Qu'est ce qu'une rédactrice web ?\_  La première chose à savoir quand on veut devenir rédacteur web ou rédactrice web ..."
 thumb_image: images/knowledgeable-tiger.png
 thumb_image_alt: Post 5 placeholder image

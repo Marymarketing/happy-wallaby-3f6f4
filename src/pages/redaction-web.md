@@ -246,14 +246,14 @@ sections:
       - title: Des livres blanc
         title_align: left
         content: >
-          Le livre blanc est un des outil du **content marketing**. Ça peut être
-          un guide, **offert** à vos visiteurs, qui va apporter une expertise
-          sur un produit, une problématique ou une technique. Il est destiné à
-          vos prospects.
+          Le livre blanc ou l'e-book est un des outil du **content marketing**.
+          Ça peut être un guide, **offert** à vos visiteurs, qui va apporter une
+          expertise sur un produit, une problématique ou une technique. Il est
+          destiné à vos prospects.
 
 
-          Montrer à vos prospects vos **compétences** dans un domaine pourra
-          être critère de décision d’achat.
+          Montrer à vos prospects vos **compétences** dans un domaine vie 
+          pourra être critère de décision d’achat.
         content_align: left
         actions: []
         actions_align: left

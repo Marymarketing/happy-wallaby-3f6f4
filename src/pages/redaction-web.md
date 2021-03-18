@@ -95,7 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: 'Faire appel a une proffessionnelle du contenu web, c''est primordiale'
+  - title: 'Faire appel à une professionnelle du contenu web, c''est primordiale !'
     features:
       - subtitle: >-
           Aujourd'hui, la rédaction web est primordiale lors de la création ou

@@ -193,12 +193,7 @@ sections:
           Une fois séduite, votre public-cible ne pourra qu’amorcer l'achat du
           produit convoité.
         content_align: left
-        actions:
-          - label: Learn More
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 1 icon
         image_position: top

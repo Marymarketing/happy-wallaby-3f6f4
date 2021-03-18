@@ -11,7 +11,7 @@ tags:
 excerpt: "Comment devenir rédacteur web ? Qu'est ce qu'une rédactrice web ?\_  La première chose à savoir quand on veut devenir rédacteur web ou rédactrice web ..."
 thumb_image: images/Studying-pana.png
 thumb_image_alt: Post 5 placeholder image
-image: images/Studying-pana.png
+image: images/remarkable-plankton.png
 image_alt: Post 5 placeholder image
 image_position: right
 seo:

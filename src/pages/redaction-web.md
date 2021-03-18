@@ -112,7 +112,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
         image: images/Going up-pana.svg

@@ -238,12 +238,7 @@ sections:
           l’**optimisation SEO** (Balise META : balise TITLE et méta
           description).
         content_align: left
-        actions:
-          - label: Learn More
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image_alt: Item 3 icon
         image_position: top

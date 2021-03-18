@@ -1,5 +1,5 @@
 ---
-title: Marketing 
+title: Marketing digital
 sections:
   - type: hero_section
     title: General

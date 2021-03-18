@@ -354,7 +354,7 @@ sections:
     feature_padding_vert: large
     padding_bottom: large
 seo:
-  title: Features
+  title: Rédaction web
   description: This is the features page
   extra:
     - name: 'og:type'

@@ -423,7 +423,7 @@ sections:
           heures, tout était très bien expliqué.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          Arthur Lazure**,** *Web Designer*
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left

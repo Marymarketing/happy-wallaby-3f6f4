@@ -95,7 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: C'est primordiale
+  - title: 'Faire appel a une proffessionnelle du contenu web, c''est primordiale'
     subtitle: 'Une professionnelle du contenu web, est-ce utile ?'
     features:
       - subtitle: >-

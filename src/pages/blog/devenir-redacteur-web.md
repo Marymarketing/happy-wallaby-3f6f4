@@ -5,8 +5,6 @@ author: src/data/team/gustav-purpleson.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - src/data/tags/stackbit.yaml
-  - src/data/tags/netlify.yaml
   - src/data/tags/redactionweb.yaml
 excerpt: "Comment devenir rédacteur web ? Qu'est ce qu'une rédactrice web ?\_  La première chose à savoir quand on veut devenir rédacteur web ou rédactrice web ..."
 thumb_image: images/knowledgeable-tiger.png

@@ -424,7 +424,7 @@ sections:
 
 
           Arthur Lazure**,** *Web Designer*
-        image: images/gordon-norman.png
+        image: images/Tem2.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five

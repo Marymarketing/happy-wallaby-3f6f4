@@ -68,7 +68,9 @@ sections:
     type: hero_section
 seo:
   title: Contact
-  description: This is the contact page
+  description: >-
+    Besoin d'une rédactrice web seo ? N'hésitez pas à me contacter pour de
+    futures collaboration.
   extra:
     - name: 'og:type'
       value: website

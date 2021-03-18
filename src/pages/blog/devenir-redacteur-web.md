@@ -5,8 +5,9 @@ author: null
 categories: {}
 tags: {}
 excerpt: >-
-  Vous souhaitez en connaitre d'avantage sur le métier de rédacteur de contenu ?
-  Dans cet article vous trouverez,
+  Vous souhaitez en connaitre d'avantage sur le métier de rédacteur de contenu
+  ?Dans cet article vous trouverez les différentes étapes, les avantages ainsi
+  que les formations pour
 thumb_image: images/knowledgeable-tiger.png
 thumb_image_alt: Post 5 placeholder image
 image: images/remarkable-plankton.png

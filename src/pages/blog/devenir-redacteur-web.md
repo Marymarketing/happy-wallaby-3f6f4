@@ -1,9 +1,9 @@
 ---
 title: Devenir rédactrice WEB
 date: '2021-03-16'
-author:
+author: src/data/team/gustav-purpleson.yaml
 categories:
-
+  - src/data/categories/tutorials.yaml
 tags:
   - src/data/tags/redactionweb.yaml
 excerpt: "Comment devenir rédacteur web ? Qu'est ce qu'une rédactrice web ?\_  La première chose à savoir quand on veut devenir rédacteur web ou rédactrice web ..."

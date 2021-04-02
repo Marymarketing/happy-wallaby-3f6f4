@@ -2,7 +2,7 @@
     "layout_type": "full-width",
     "style": "minimal",
     "palette": "blue",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "header": {
         "title": "Mary-Marketing",
